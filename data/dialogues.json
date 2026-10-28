@@ -1,0 +1,472 @@
+[
+ {
+  "situation": "Lan gặp Tom, một bạn học mới, ở lớp học tiếng Anh vào buổi sáng.",
+  "title": "Gặp bạn mới ở lớp học",
+  "turns": [
+   {
+    "en": "Good morning! What is your name?",
+    "speaker": "A",
+    "vi": "Chào buổi sáng! Bạn tên là gì?"
+   },
+   {
+    "en": "Good morning! My name is Tom. Nice to meet you.",
+    "speaker": "B",
+    "vi": "Chào buổi sáng! Tên tôi là Tom. Rất vui được gặp bạn."
+   },
+   {
+    "en": "Nice to meet you too. My name is Lan. Where are you from?",
+    "speaker": "A",
+    "vi": "Tôi cũng rất vui được gặp bạn. Tên tôi là Lan. Bạn đến từ đâu?"
+   },
+   {
+    "en": "I am from Vietnam. I live in Hanoi. How are you?",
+    "speaker": "B",
+    "vi": "Tôi đến từ Việt Nam. Tôi sống ở Hà Nội. Bạn khỏe không?"
+   },
+   {
+    "en": "I am fine, thanks. I am a student here. This is my friend, Nam.",
+    "speaker": "A",
+    "vi": "Tôi khỏe, cảm ơn. Tôi là học sinh ở đây. Đây là bạn của tôi, Nam."
+   },
+   {
+    "en": "Nice to see you, Nam. Are you a student too?",
+    "speaker": "B",
+    "vi": "Rất vui khi gặp bạn, Nam. Bạn cũng là học sinh phải không?"
+   },
+   {
+    "en": "Yes, we are students. See you tomorrow in class!",
+    "speaker": "A",
+    "vi": "Vâng, chúng tôi đều là học sinh. Hẹn gặp bạn ngày mai ở lớp nhé!"
+   },
+   {
+    "en": "See you tomorrow! Have a nice day!",
+    "speaker": "B",
+    "vi": "Hẹn gặp bạn ngày mai! Chúc bạn một ngày tốt lành!"
+   }
+  ],
+  "unit": 1
+ },
+ {
+  "situation": "Lan và Tom nói về ngày, giờ và kế hoạch cuối tuần.",
+  "title": "Hẹn gặp nhau cuối tuần",
+  "turns": [
+   {
+    "en": "Hi Tom! What day is today?",
+    "speaker": "A",
+    "vi": "Chào Tom! Hôm nay là thứ mấy?"
+   },
+   {
+    "en": "Today is Friday. What time is it now?",
+    "speaker": "B",
+    "vi": "Hôm nay là thứ Sáu. Bây giờ là mấy giờ?"
+   },
+   {
+    "en": "It is three o'clock. This weekend, do you want to go to the park?",
+    "speaker": "A",
+    "vi": "Bây giờ là ba giờ. Cuối tuần này, bạn có muốn đi công viên không?"
+   },
+   {
+    "en": "Yes! See you at five on Saturday. Is that okay?",
+    "speaker": "B",
+    "vi": "Có! Hẹn gặp bạn lúc năm giờ thứ Bảy nhé. Được không?"
+   },
+   {
+    "en": "Yes, that is good. I work on Friday, but I am free on Saturday.",
+    "speaker": "A",
+    "vi": "Vâng, tốt đấy. Thứ Sáu tôi làm việc, nhưng thứ Bảy tôi rảnh."
+   },
+   {
+    "en": "Great! In the afternoon, we can play football. What month is it?",
+    "speaker": "B",
+    "vi": "Tuyệt! Buổi chiều, chúng ta có thể chơi bóng đá. Bây giờ là tháng mấy?"
+   },
+   {
+    "en": "It is May. My birthday is in May, next week!",
+    "speaker": "A",
+    "vi": "Bây giờ là tháng Năm. Sinh nhật của tôi vào tháng Năm, tuần tới!"
+   },
+   {
+    "en": "Happy birthday next week! See you on Saturday!",
+    "speaker": "B",
+    "vi": "Chúc mừng sinh nhật tuần tới nhé! Hẹn gặp bạn thứ Bảy!"
+   }
+  ],
+  "unit": 2
+ },
+ {
+  "situation": "Lan talks with her brother in the morning before school and work.",
+  "title": "Buổi sáng trong gia đình",
+  "turns": [
+   {
+    "en": "Good morning! Did you sleep well?",
+    "speaker": "A",
+    "vi": "Chào buổi sáng! Bạn ngủ ngon không?"
+   },
+   {
+    "en": "Yes, I slept well. What about you?",
+    "speaker": "B",
+    "vi": "Có, mình ngủ ngon. Còn bạn thì sao?"
+   },
+   {
+    "en": "I slept well too. I will take a shower now.",
+    "speaker": "A",
+    "vi": "Mình cũng ngủ ngon. Bây giờ mình sẽ đi tắm."
+   },
+   {
+    "en": "OK. I will make breakfast for us.",
+    "speaker": "B",
+    "vi": "Được. Mình sẽ làm bữa sáng cho chúng ta."
+   },
+   {
+    "en": "Thank you! What will we eat today?",
+    "speaker": "A",
+    "vi": "Cảm ơn nhé! Hôm nay chúng ta ăn gì?"
+   },
+   {
+    "en": "We will eat bread and eggs. Is that OK?",
+    "speaker": "B",
+    "vi": "Chúng ta sẽ ăn bánh mì và trứng. Được không?"
+   },
+   {
+    "en": "Yes, that is great. After breakfast, I will go to school.",
+    "speaker": "A",
+    "vi": "Có, tuyệt lắm. Sau bữa sáng, mình sẽ đi học."
+   },
+   {
+    "en": "Have a nice day at school!",
+    "speaker": "B",
+    "vi": "Chúc bạn một ngày vui vẻ ở trường!"
+   }
+  ],
+  "unit": 3
+ },
+ {
+  "situation": "Mai and her friend order lunch at a small restaurant.",
+  "title": "Gọi món ở nhà hàng",
+  "turns": [
+   {
+    "en": "Can I have the menu, please?",
+    "speaker": "A",
+    "vi": "Cho tôi xem thực đơn được không?"
+   },
+   {
+    "en": "Here is the menu. What do you want to eat?",
+    "speaker": "B",
+    "vi": "Đây là thực đơn. Bạn muốn ăn gì?"
+   },
+   {
+    "en": "I want rice with chicken. What about you?",
+    "speaker": "A",
+    "vi": "Tôi muốn cơm với gà. Còn bạn thì sao?"
+   },
+   {
+    "en": "I want noodles and a glass of water.",
+    "speaker": "B",
+    "vi": "Tôi muốn mì và một ly nước."
+   },
+   {
+    "en": "Good choice! The food here is very delicious.",
+    "speaker": "A",
+    "vi": "Lựa chọn hay đấy! Đồ ăn ở đây rất ngon."
+   },
+   {
+    "en": "Yes, I like this restaurant. How much is the lunch?",
+    "speaker": "B",
+    "vi": "Đúng vậy, tôi thích nhà hàng này. Bữa trưa giá bao nhiêu?"
+   },
+   {
+    "en": "It is not expensive. I will pay by card.",
+    "speaker": "A",
+    "vi": "Nó không đắt. Tôi sẽ trả bằng thẻ."
+   },
+   {
+    "en": "Thank you! Let us eat now.",
+    "speaker": "B",
+    "vi": "Cảm ơn nhé! Chúng ta ăn thôi."
+   }
+  ],
+  "unit": 4
+ },
+ {
+  "unit": 5,
+  "title": "Hỏi đường đến ga tàu",
+  "situation": "A visitor asks a local person for directions to the train station.",
+  "turns": [
+   {
+    "speaker": "A",
+    "en": "Excuse me, how do I get to the train station?",
+    "vi": "Xin lỗi, làm sao tôi đến được ga tàu?"
+   },
+   {
+    "speaker": "B",
+    "en": "Go straight ahead, then turn left at the traffic light.",
+    "vi": "Đi thẳng, rồi rẽ trái ở đèn giao thông."
+   },
+   {
+    "speaker": "A",
+    "en": "Is it far from here?",
+    "vi": "Nó có xa đây không?"
+   },
+   {
+    "speaker": "B",
+    "en": "No, it is near the park. It takes about ten minutes.",
+    "vi": "Không, nó gần công viên. Mất khoảng mười phút."
+   },
+   {
+    "speaker": "A",
+    "en": "Can I take a bus there?",
+    "vi": "Tôi có thể bắt xe buýt đến đó không?"
+   },
+   {
+    "speaker": "B",
+    "en": "Yes, take the number 5 bus. Get off at the next stop.",
+    "vi": "Được, bắt xe buýt số 5. Xuống xe ở trạm tiếp theo."
+   },
+   {
+    "speaker": "A",
+    "en": "Thank you very much for your help.",
+    "vi": "Cảm ơn bạn rất nhiều vì đã giúp tôi."
+   },
+   {
+    "speaker": "B",
+    "en": "You are welcome. Have a good trip!",
+    "vi": "Không có gì. Chúc bạn chuyến đi vui vẻ!"
+   }
+  ]
+ },
+ {
+  "unit": 6,
+  "title": "Chuẩn bị cho cuộc họp",
+  "situation": "Two colleagues prepare a report for a meeting in the office.",
+  "turns": [
+   {
+    "speaker": "A",
+    "en": "Hi, do you have the report for the meeting?",
+    "vi": "Chào bạn, bạn có bản báo cáo cho cuộc họp không?"
+   },
+   {
+    "speaker": "B",
+    "en": "Yes, it is on my desk. I will print it now.",
+    "vi": "Có, nó ở trên bàn làm việc của tôi. Tôi sẽ in nó ngay bây giờ."
+   },
+   {
+    "speaker": "A",
+    "en": "What time does the meeting start?",
+    "vi": "Cuộc họp bắt đầu lúc mấy giờ?"
+   },
+   {
+    "speaker": "B",
+    "en": "It starts at two in the meeting room.",
+    "vi": "Nó bắt đầu lúc hai giờ trong phòng họp."
+   },
+   {
+    "speaker": "A",
+    "en": "Is the deadline for the report Friday?",
+    "vi": "Hạn chót nộp báo cáo là thứ Sáu phải không?"
+   },
+   {
+    "speaker": "B",
+    "en": "Yes, but we need to finish it today.",
+    "vi": "Đúng vậy, nhưng chúng ta cần hoàn thành nó hôm nay."
+   },
+   {
+    "speaker": "A",
+    "en": "Can you help me check the schedule?",
+    "vi": "Bạn có thể giúp tôi kiểm tra lịch trình không?"
+   },
+   {
+    "speaker": "B",
+    "en": "Of course. Let's work as a team and finish it together.",
+    "vi": "Tất nhiên rồi. Chúng ta hãy làm việc theo nhóm và cùng hoàn thành nó."
+   }
+  ]
+ },
+ {
+  "unit": 7,
+  "title": "Cuộc gọi xin hẹn gặp khách hàng",
+  "situation": "Anna calls a customer to arrange a meeting and asks him to send the details by email.",
+  "turns": [
+   {
+    "speaker": "A",
+    "en": "Hello, this is Anna speaking. Can I speak to Mr. Lee?",
+    "vi": "Xin chào, tôi là Anna đang nghe máy. Tôi có thể nói chuyện với ông Lee không?"
+   },
+   {
+    "speaker": "B",
+    "en": "Hello, Anna. This is Mr. Lee. Is this a good time to talk?",
+    "vi": "Xin chào, Anna. Tôi là ông Lee. Bây giờ có tiện nói chuyện không?"
+   },
+   {
+    "speaker": "A",
+    "en": "Yes, thank you. I am calling about the order from last week.",
+    "vi": "Vâng, cảm ơn ông. Tôi gọi về đơn hàng từ tuần trước."
+   },
+   {
+    "speaker": "B",
+    "en": "Thank you for calling. Please send me an email with the details.",
+    "vi": "Cảm ơn cô đã gọi. Xin vui lòng gửi email cho tôi kèm các chi tiết."
+   },
+   {
+    "speaker": "A",
+    "en": "Of course. What is your email address, please?",
+    "vi": "Vâng, tất nhiên. Xin hỏi địa chỉ email của ông là gì?"
+   },
+   {
+    "speaker": "B",
+    "en": "Please send it to lee@company.com. I will check my inbox today.",
+    "vi": "Xin vui lòng gửi tới lee@company.com. Hôm nay tôi sẽ kiểm tra hộp thư đến."
+   },
+   {
+    "speaker": "A",
+    "en": "Thank you. I will send you the report by email this afternoon.",
+    "vi": "Cảm ơn ông. Chiều nay tôi sẽ gửi báo cáo cho ông qua email."
+   },
+   {
+    "speaker": "B",
+    "en": "Thank you for your quick reply. Goodbye, talk to you soon.",
+    "vi": "Cảm ơn cô đã trả lời nhanh. Tạm biệt, nói chuyện với cô sau nhé."
+   }
+  ]
+ },
+ {
+  "unit": 8,
+  "title": "Cuộc họp nhóm về dự án mới",
+  "situation": "A small team meets to discuss a new project, share opinions, and divide the work.",
+  "turns": [
+   {
+    "speaker": "A",
+    "en": "Good morning, team. Let's discuss the plan for the new project today.",
+    "vi": "Chào buổi sáng, cả nhóm. Hôm nay chúng ta hãy thảo luận về kế hoạch cho dự án mới."
+   },
+   {
+    "speaker": "B",
+    "en": "Good morning. I think this is a good idea. What do you think about it?",
+    "vi": "Chào buổi sáng. Tôi nghĩ đây là một ý tưởng hay. Bạn nghĩ gì về nó?"
+   },
+   {
+    "speaker": "A",
+    "en": "I agree with you. We need to finish this task by Friday.",
+    "vi": "Tôi đồng ý với bạn. Chúng ta cần hoàn thành nhiệm vụ này trước thứ Sáu."
+   },
+   {
+    "speaker": "B",
+    "en": "Can you share your opinion, please? Who will do this part of the work?",
+    "vi": "Bạn có thể chia sẻ ý kiến của bạn được không? Ai sẽ làm phần việc này?"
+   },
+   {
+    "speaker": "A",
+    "en": "I will do the first part, and you can do the second part.",
+    "vi": "Tôi sẽ làm phần đầu tiên, và bạn có thể làm phần thứ hai."
+   },
+   {
+    "speaker": "B",
+    "en": "Good idea. Let's make a list of tasks and check our progress this week.",
+    "vi": "Ý tưởng hay. Chúng ta hãy lập một danh sách các nhiệm vụ và kiểm tra tiến độ trong tuần này."
+   },
+   {
+    "speaker": "A",
+    "en": "Yes, let's work together on this project. Please ask me if you have any questions.",
+    "vi": "Vâng, chúng ta hãy cùng làm việc trong dự án này. Xin vui lòng hỏi tôi nếu bạn có câu hỏi nào."
+   },
+   {
+    "speaker": "B",
+    "en": "Thank you for your help. Good job, team!",
+    "vi": "Cảm ơn bạn đã giúp đỡ. Làm tốt lắm, cả nhóm!"
+   }
+  ]
+ },
+ {
+  "situation": "A tourist checks in at a hotel in Da Nang and asks about the room, breakfast, and a taxi.",
+  "title": "Nhận phòng khách sạn",
+  "turns": [
+   {
+    "en": "Good afternoon, I have a reservation under the name Lan.",
+    "speaker": "A",
+    "vi": "Chào buổi chiều, tôi có đặt phòng dưới tên Lan."
+   },
+   {
+    "en": "Welcome to our hotel. Can I see your passport, please?",
+    "speaker": "B",
+    "vi": "Chào mừng đến khách sạn của chúng tôi. Tôi có thể xem hộ chiếu của bạn không?"
+   },
+   {
+    "en": "Yes, here it is. Is breakfast included in the price?",
+    "speaker": "A",
+    "vi": "Vâng, đây ạ. Bữa sáng có bao gồm trong giá không?"
+   },
+   {
+    "en": "Yes, breakfast is from six to ten in the morning.",
+    "speaker": "B",
+    "vi": "Vâng, bữa sáng từ sáu giờ đến mười giờ sáng."
+   },
+   {
+    "en": "Thank you. Can you call a taxi for me tomorrow morning?",
+    "speaker": "A",
+    "vi": "Cảm ơn bạn. Bạn có thể gọi taxi giúp tôi sáng mai không?"
+   },
+   {
+    "en": "Of course. What time do you need the taxi?",
+    "speaker": "B",
+    "vi": "Tất nhiên rồi. Bạn cần taxi lúc mấy giờ?"
+   },
+   {
+    "en": "At eight o'clock, please. I want to go to the airport.",
+    "speaker": "A",
+    "vi": "Lúc tám giờ, xin cảm ơn. Tôi muốn đi ra sân bay."
+   },
+   {
+    "en": "No problem. Your room is on the fifth floor. Enjoy your stay!",
+    "speaker": "B",
+    "vi": "Không có vấn đề gì. Phòng của bạn ở tầng năm. Chúc bạn có kỳ nghỉ vui vẻ!"
+   }
+  ],
+  "unit": 9
+ },
+ {
+  "situation": "Two colleagues at work discuss a report, a presentation, and a meeting with a customer.",
+  "title": "Thảo luận về báo cáo và hạn chót",
+  "turns": [
+   {
+    "en": "Hi, can we discuss the sales report this afternoon?",
+    "speaker": "A",
+    "vi": "Chào bạn, chúng ta có thể thảo luận về báo cáo doanh số chiều nay không?"
+   },
+   {
+    "en": "Yes, of course. The deadline for the report is next Monday.",
+    "speaker": "B",
+    "vi": "Vâng, tất nhiên rồi. Hạn chót cho báo cáo là thứ Hai tới."
+   },
+   {
+    "en": "I need more time to prepare the presentation for tomorrow.",
+    "speaker": "A",
+    "vi": "Tôi cần thêm thời gian để chuẩn bị bài thuyết trình cho ngày mai."
+   },
+   {
+    "en": "Do not worry. Our team will finish the project on time.",
+    "speaker": "B",
+    "vi": "Đừng lo lắng. Nhóm của chúng tôi sẽ hoàn thành dự án đúng hạn."
+   },
+   {
+    "en": "Thank you. Can you send the contract to the customer today?",
+    "speaker": "A",
+    "vi": "Cảm ơn bạn. Bạn có thể gửi hợp đồng cho khách hàng hôm nay không?"
+   },
+   {
+    "en": "Yes, I will send it by email this afternoon.",
+    "speaker": "B",
+    "vi": "Vâng, tôi sẽ gửi nó qua email chiều nay."
+   },
+   {
+    "en": "Great. Please be on time for the meeting tomorrow morning.",
+    "speaker": "A",
+    "vi": "Tuyệt vời. Xin hãy đến đúng giờ cho cuộc họp sáng mai."
+   },
+   {
+    "en": "I will. Please let me know if you have any questions.",
+    "speaker": "B",
+    "vi": "Tôi sẽ đến đúng giờ. Xin hãy cho tôi biết nếu bạn có câu hỏi nào."
+   }
+  ],
+  "unit": 10
+ }
+]
