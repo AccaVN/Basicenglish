@@ -4,6 +4,7 @@ export type DialogueTurn = {
   speaker: string;
   en: string;
   vi: string;
+  ipa?: string;
 };
 
 export type Dialogue = {
@@ -24,6 +25,7 @@ export const DIALOGUES: Dialogue[] = (rawDialogues as Array<Record<string, unkno
       speaker: String(turn.speaker ?? ""),
       en: String(turn.en ?? ""),
       vi: String(turn.vi ?? ""),
+      ipa: turn.ipa ? String(turn.ipa) : undefined,
     };
   }),
 }));

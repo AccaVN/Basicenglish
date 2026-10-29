@@ -1,5 +1,10 @@
 // Static phrase content — the ONLY source of phrase text, meanings and
-// examples in this project.
+// examples/dialogues in this project.
+//
+// IPA is reference-only and NOT expert-checked. Each phrase has exactly one
+// usage illustration: either an example sentence (exampleEn/exampleVi/
+// exampleIpa) or a short dialogue (2-3 turns, each with en/vi/ipa).
+// The dialogue or example IPA is also reference-only.
 //
 // The 500 phrases live in data/phrases-500.json, which is bundled with the
 // app when it is deployed on Vercel. They are NOT stored in Neon: Neon keeps
@@ -18,6 +23,13 @@
 
 import rawPhrases from "../../data/phrases-500.json";
 
+export type DialogueTurn = {
+  speaker: string;
+  en: string;
+  vi: string;
+  ipa: string;
+};
+
 export type RawPhrase = {
   topic: string;
   topicSlug: string;
@@ -26,8 +38,12 @@ export type RawPhrase = {
   lessonSlug: string;
   phrase: string;
   meaningVi: string;
+  ipa: string;
+  usageType: "example" | "dialogue";
   exampleEn: string;
   exampleVi: string;
+  exampleIpa: string;
+  dialogue: DialogueTurn[];
   level: string;
   topicSortOrder: number;
   lessonSortOrder: number;
@@ -156,8 +172,12 @@ export function phraseToStudy(phrase: StaticPhrase) {
     id: phrase.id,
     phrase: phrase.phrase,
     meaningVi: phrase.meaningVi,
+    ipa: phrase.ipa,
+    usageType: phrase.usageType,
     exampleEn: phrase.exampleEn,
     exampleVi: phrase.exampleVi,
+    exampleIpa: phrase.exampleIpa,
+    dialogue: phrase.dialogue,
     audioUrl: null as string | null,
   };
 }

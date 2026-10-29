@@ -115,13 +115,13 @@ export default function Roleplay({ dialogues }: { dialogues: Dialogue[] }) {
       <div style={{ display: "grid", gap: 10, marginTop: 16 }}>
         {dialogue.turns.slice(0, turn + 1).map((t, i) => (
           <p key={i} style={{ margin: 0, padding: 12, borderRadius: 12, background: i === turn ? "#eff6ff" : "#f9fafb", lineHeight: 1.6 }}>
-            <strong>{t.speaker}:</strong> {t.en} <span className="muted">— {t.vi}</span>
+            <strong>{t.speaker}:</strong> {t.en} <span className="muted">— {t.vi}</span>{t.ipa ? <span className="muted" style={{ display: "block" }}>{t.ipa}</span> : null}
           </p>
         ))}
       </div>
       {!done && aiTurn && (
         <div style={{ marginTop: 18 }}>
-          <p style={{ lineHeight: 1.6 }}><strong>Nhân vật A nói:</strong> “{current.en}” — {current.vi}</p>
+          <p style={{ lineHeight: 1.6 }}><strong>Nhân vật A nói:</strong> “{current.en}” — {current.vi}</p>{current.ipa ? <p className="muted">{current.ipa}</p> : null}<p className="muted" style={{ fontSize: 12 }}>Phiên âm chỉ mang tính tham khảo, chưa được kiểm chứng bởi chuyên gia.</p>
           <div className="study-secondary-actions" style={{ justifyContent: "flex-start" }}>
             <button type="button" className="button button-secondary" onClick={() => speak(current.en)}>🔊 Nghe nhân vật nói</button>
             <button type="button" className="button button-primary" onClick={next}>Tiếp theo →</button>
@@ -132,6 +132,7 @@ export default function Roleplay({ dialogues }: { dialogues: Dialogue[] }) {
         <div style={{ marginTop: 18 }}>
           <p style={{ lineHeight: 1.6 }}><strong>Đến lượt bạn (vai {current.speaker}). Hãy nói câu này:</strong></p>
           <p style={{ fontSize: 22, fontWeight: 800, lineHeight: 1.4 }}>“{current.en}”</p>
+          {current.ipa ? <p className="muted">{current.ipa}</p> : null}
           <p className="muted">{current.vi}</p>
           <div className="study-secondary-actions" style={{ justifyContent: "flex-start" }}>
             <button type="button" className="button button-secondary" onClick={() => speak(current.en)}>🔊 Nghe câu mẫu</button>

@@ -19,10 +19,23 @@ for (const [index, item] of content.entries()) {
   perTopic.set(item.topicSlug, (perTopic.get(item.topicSlug) ?? 0) + 1);
   if (!item.phrase.trim()) issues.push(`Row ${row}: phrase is empty`);
   if (!item.meaningVi.trim()) issues.push(`Row ${row}: Vietnamese meaning is empty`);
-  if (!item.exampleEn.trim()) issues.push(`Row ${row}: English example is empty`);
-  if (!item.exampleVi.trim()) issues.push(`Row ${row}: Vietnamese example is empty`);
   if (item.phrase.length > 300) issues.push(`Row ${row}: phrase exceeds 300 characters`);
   if (item.meaningVi.length < 2) issues.push(`Row ${row}: Vietnamese meaning looks too short`);
+  if (!item.ipa?.trim() || !item.ipa.startsWith("/") || !item.ipa.endsWith("/")) issues.push(`Row ${row}: missing/invalid IPA: ${item.phrase}`);
+  if (item.usageType !== "example" && item.usageType !== "dialogue") issues.push(`Row ${row}: invalid usageType: ${item.phrase}`);
+  if (item.usageType === "example") {
+    if (!item.exampleEn?.trim() || !item.exampleVi?.trim() || !item.exampleIpa?.trim()) issues.push(`Row ${row}: example missing en/vi/ipa: ${item.phrase}`);
+    if (item.dialogue?.length) issues.push(`Row ${row}: example row must not have dialogue: ${item.phrase}`);
+  }
+  if (item.usageType === "dialogue") {
+    const turns = item.dialogue ?? [];
+    if (turns.length < 2 || turns.length > 3) issues.push(`Row ${row}: dialogue must have 2-3 turns: ${item.phrase}`);
+    for (const turn of turns) {
+      if (!turn.en?.trim() || !turn.vi?.trim() || !turn.ipa?.trim()) issues.push(`Row ${row}: dialogue turn missing en/vi/ipa: ${item.phrase}`);
+    }
+    const dialogueText = turns.map((t) => t.en).join(" ").toLowerCase();
+    if (!dialogueText.includes(normalize(item.phrase))) issues.push(`Row ${row}: phrase not present in dialogue: ${item.phrase}`);
+  }
   const key = normalize(item.phrase);
   if (seen.has(key)) issues.push(`Row ${row}: duplicate phrase: ${item.phrase}`);
   seen.add(key);

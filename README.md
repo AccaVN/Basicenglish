@@ -1,6 +1,6 @@
 # Học Vui English — Phrase Learning MVP
 
-Website học tiếng Anh cho người mới bắt đầu (xấp xỉ TOEIC 300 / CEFR A1–A2), xây dựng bằng Next.js, TypeScript, Neon PostgreSQL và Drizzle ORM.
+Website học tiếng Anh cho người mới bắt đầu, nội dung tiến dần từ A1 lên A2 rồi B1, xây dựng bằng Next.js, TypeScript, Neon PostgreSQL và Drizzle ORM.
 
 ## ⚠️ Kiến trúc bản này: cụm từ là file JSON tĩnh trên Vercel, KHÔNG lưu trong database
 
@@ -34,15 +34,40 @@ SRS, lịch sử ôn, XP, hoạt động ngày và lượt luyện nói.
   File `scripts/seed-phrases.ts` đã bị xóa khỏi bản này — nếu repo trên GitHub
   vẫn còn file đó, hãy xóa nó trước khi deploy lại.
 
+## Bản sửa 2026-10-29: cụm từ khó hơn, có IPA, ví dụ hoặc hội thoại, layout mới
+
+- **Nội dung khó hơn và phong phú hơn:** 500 cụm từ được viết lại, tiến dần
+  A1 → A2 → B1, gồm collocations, phrasal verbs, ngôn ngữ văn phòng TOEIC,
+  yêu cầu lịch sự, họp, email, du lịch và dịch vụ khách hàng. Không trùng
+  cụm từ, không lặp mẫu câu ví dụ.
+- **Mỗi cụm từ có đúng 1 minh họa sử dụng:** hoặc 1 câu ví dụ, hoặc 1 đoạn
+  hội thoại ngắn 2–3 lượt dùng cụm từ đó. Trường `usageType` trong JSON là
+  `"example"` hoặc `"dialogue"`.
+- **Phiên âm IPA:** mỗi cụm từ có `ipa`, câu ví dụ có `exampleIpa`, mỗi lượt
+  hội thoại (cả đoạn hội thoại theo cụm từ và 10 hội thoại mẫu trong
+  `data/dialogues.json`) đều có `ipa`. **Phiên âm chỉ mang tính tham khảo,
+  chưa được kiểm chứng bởi chuyên gia ngôn ngữ.** Trong giao diện, dòng
+  phiên âm luôn kèm ghi chú này.
+- **Layout và font tiếng Việt mới:** font chính là Be Vietnam Pro
+  (vietnamese subset, qua `next/font/google`), line-height thân bài 1.7,
+  tiêu đề không còn letter-spacing âm, bảng màu dịu hơn, thẻ bo tròn,
+  bóng mềm, trạng thái focus rõ ràng và responsive tốt hơn trên mobile.
+  Đây chỉ là thay đổi giao diện, không đổi logic SRS, auth hay luyện nói.
+- **ID ổn định không đổi:** `topicSlug`, `lessonSlug` và `phraseSortOrder`
+  của mọi cụm từ được giữ nguyên, nên ID `topicSlug/lessonSlug/001` và
+  lịch ôn SRS đã lưu trong Neon vẫn khớp.
+- **File CSV:** `data/phrases-500.csv` được tạo lại bằng script từ JSON cuối
+  cùng (JSON vẫn là nguồn thật duy nhất).
+
 ## Tính năng hiện có
 
 - Trang giới thiệu responsive và danh sách chủ đề/bài học từ file JSON tĩnh.
-- Trang học theo bài với flashcard, lật thẻ, ví dụ Anh–Việt và phát âm qua Web Speech API của trình duyệt.
+- Trang học theo bài với flashcard, lật thẻ, phiên âm IPA, ví dụ hoặc đoạn hội thoại ngắn Anh–Việt và phát âm qua Web Speech API của trình duyệt.
 - Tự đánh giá mức độ ghi nhớ: Quên rồi / Khó nhớ / Đã nhớ / Rất dễ.
 - Lưu lịch ôn SRS, lịch sử ôn, XP và hoạt động ngày qua API có xác thực (Neon chỉ lưu các dữ liệu này, kèm ID cụm từ dạng text).
 - Trang ôn các thẻ đến hạn và dashboard thống kê cơ bản.
 - Trang admin xem nội dung (chỉ xem), Auth.js Google OAuth/email, Neon PostgreSQL, Drizzle migrations.
-- Bộ dữ liệu học có 500 cụm từ tiếng Anh, nghĩa tiếng Việt và ví dụ song ngữ, phân loại thành 23 chủ đề, lưu dạng JSON tĩnh.
+- Bộ dữ liệu học có 500 cụm từ tiếng Anh, nghĩa tiếng Việt, phiên âm IPA và ví dụ hoặc hội thoại ngắn song ngữ, phân loại thành 23 chủ đề, lưu dạng JSON tĩnh. Phiên âm chỉ mang tính tham khảo.
 - GitHub Actions chạy typecheck, lint và unit tests.
 
 > AI đánh giá phát âm và hội thoại realtime chưa được tích hợp. Phát âm hiện tại dùng speech synthesis của trình duyệt; đây không phải công cụ chấm phát âm.

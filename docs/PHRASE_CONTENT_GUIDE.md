@@ -8,19 +8,28 @@ Trong bản này, cụm từ **không lưu trong database**. Nguồn duy nhất 
 ngày và lượt luyện nói.
 
 Để sửa nội dung: sửa `data/phrases-500.json`, chạy `npm run content:validate`,
-commit và deploy lại trên Vercel. File `data/phrases-500.csv` chỉ là bản hỗ trợ
-biên tập bằng bảng tính — hiện **chưa có script chuyển CSV thành JSON**, nên nếu
-sửa bằng CSV thì phải đồng bộ tay sang JSON (JSON mới là nguồn thật). Không chạy
+commit và deploy lại trên Vercel. File `data/phrases-500.csv` được tạo lại từ
+JSON cuối cùng để hỗ trợ biên tập bằng bảng tính, nhưng JSON vẫn là nguồn thật
+duy nhất — nếu sửa bằng CSV thì phải đồng bộ tay sang JSON. Không chạy
 bước seed nào vào database, và trang admin cụm từ chỉ xem nội dung, không sửa
 được qua database.
 
-Mỗi cụm từ được gắn với một bài học; bài học thuộc một chủ đề. Trước khi deploy, hãy kiểm tra:
+Mỗi cụm từ được gắn với một bài học; bài học thuộc một chủ đề. Mỗi cụm từ có
+đúng 1 minh họa sử dụng, được ghi bằng `usageType`: `"example"` hoặc
+`"dialogue"`. Trước khi deploy, hãy kiểm tra:
 
 - `phrase`: cụm từ tiếng Anh tự nhiên, tối đa 300 ký tự.
 - `meaningVi`: nghĩa tiếng Việt rõ ràng, không dịch từng chữ nếu không tự nhiên.
-- `exampleEn`: câu ví dụ ngắn, phù hợp A1–A2, thể hiện đúng cách dùng cụm từ.
-- `exampleVi`: bản dịch tự nhiên của câu ví dụ.
+- `ipa`: phiên âm Mỹ của cụm từ, trong dấu gạch chéo, ví dụ `/həˈloʊ/`.
+  Phiên âm chỉ mang tính tham khảo, chưa được kiểm chứng bởi chuyên gia.
+- Nếu `usageType` là `"example"`: `exampleEn` là câu ví dụ ngắn dùng cụm từ,
+  `exampleVi` là bản dịch tự nhiên, `exampleIpa` là phiên âm của câu ví dụ.
+- Nếu `usageType` là `"dialogue"`: `dialogue` là 2–3 lượt hội thoại ngắn,
+  mỗi lượt có `speaker` (`"A"` hoặc `"B"`), `en`, `vi` và `ipa`, và ít nhất
+  một lượt dùng cụm từ đó một cách tự nhiên.
 - Phát âm dùng speech synthesis của trình duyệt (không có trường audio URL trong JSON này).
+- Nội dung tiến dần A1 → A2 → B1, ưu tiên collocations, phrasal verbs và
+  ngôn ngữ văn phòng TOEIC, tránh lặp mẫu câu.
 
 ## ID ổn định — đừng đổi bừa
 
@@ -48,4 +57,4 @@ ID của mỗi cụm từ được sinh từ `src/lib/content.ts` theo dạng
    ID ổn định không trùng (script `content:validate` làm cả hai việc này).
 6. Nên được người biên tập tiếng Anh kiểm duyệt trước khi xuất bản công khai.
 
-Bộ nội dung hiện có 500 cụm từ phân loại theo 23 chủ đề, với nghĩa tiếng Việt và ví dụ song ngữ. Chạy `npm run content:validate` để kiểm tra số lượng, trường bắt buộc, trùng lặp và ID ổn định duy nhất. Nội dung phù hợp làm bản MVP; nên có người biên tập tiếng Anh rà soát trước khi giới thiệu là giáo trình chính thức.
+Bộ nội dung hiện có 500 cụm từ phân loại theo 23 chủ đề, với nghĩa tiếng Việt, phiên âm IPA và ví dụ hoặc hội thoại ngắn song ngữ. Chạy `npm run content:validate` để kiểm tra số lượng, trường bắt buộc (IPA, ví dụ/hội thoại), trùng lặp và ID ổn định duy nhất. Nội dung và phiên âm nên có người biên tập tiếng Anh rà soát trước khi giới thiệu là giáo trình chính thức, vì phiên âm hiện chỉ mang tính tham khảo.
