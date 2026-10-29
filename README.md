@@ -59,6 +59,33 @@ SRS, lịch sử ôn, XP, hoạt động ngày và lượt luyện nói.
 - **File CSV:** `data/phrases-500.csv` được tạo lại bằng script từ JSON cuối
   cùng (JSON vẫn là nguồn thật duy nhất).
 
+## Rà soát IPA 2026-10-29 (bản `-checked` này)
+
+Toàn bộ 1.387 chuỗi IPA đã được rà soát lại từng từ, từng chữ, theo từng
+chủ đề: 500 `ipa` của cụm từ, 249 `exampleIpa`, 558 `ipa` của các lượt hội
+thoại theo cụm từ trong `data/phrases-500.json`, và 80 `ipa` của 10 hội thoại
+mẫu trong `data/dialogues.json`. Chỉ các trường IPA thay đổi; văn bản tiếng
+Anh, tiếng Việt, `topicSlug`, `lessonSlug`, `phraseSortOrder`, ID ổn định,
+level, `usageType`, layout, font và logic code đều không đổi.
+
+Quy ước đã thống nhất và áp dụng xuyên suốt: phát âm Mỹ (General American),
+kiểu từ điển cho người học, trong dấu gạch chéo `/.../`, trọng âm chính `ˈ`,
+trọng âm phụ `ˌ` khi cần, giữ nguyên bộ ký hiệu cũ (kể cả `ː` cho nguyên âm
+dài) chứ không đổi sang hệ ký hiệu khác. Các dạng yếu của từ chức năng được
+thống nhất theo trọng âm trong câu, ví dụ `to` không nhấn là `/tə/`, `your`
+không nhấn là `/jʊr/`, `and` không nhấn là `/ən/`, `for` không nhấn là
+`/fər/`; các dạng mạnh ở cuối câu hoặc khi nhấn mạnh được giữ nguyên
+(ví dụ `to` ở cuối câu, `four`, `too`, `two`).
+
+Kết quả rà soát: 584/1.387 chuỗi IPA được sửa. Các lỗi chủ yếu là dạng yếu
+không nhất quán, tiếp đó là nguyên âm, trọng âm, hậu tố `-ed`/`-es`, từ
+thừa/thiếu trong phiên âm và ký tự lạ (gạch ngang dài, dấu ngoặc kép) lọt
+vào IPA. **Nói rõ và trung thực: đây là một lần rà soát hệ thống bằng kiến
+thức từ điển/AI, KHÔNG phải kiểm chứng của người bản ngữ hay chuyên gia ngữ
+âm, và không thể khẳng định là chuẩn 100%.** Nếu phát hiện phiên âm nào vẫn
+sai, hãy sửa trực tiếp trong JSON, chạy `npm run content:validate` rồi
+deploy lại. File CSV cũng được tạo lại bằng script từ JSON cuối cùng.
+
 ## Tính năng hiện có
 
 - Trang giới thiệu responsive và danh sách chủ đề/bài học từ file JSON tĩnh.

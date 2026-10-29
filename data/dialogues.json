@@ -7,19 +7,19 @@
         "en": "Good morning! What is your name?",
         "speaker": "A",
         "vi": "Chào buổi sáng! Bạn tên là gì?",
-        "ipa": "/ɡʊd ˈmɔːrnɪŋ! wʌt ɪz jɔːr neɪm?/"
+        "ipa": "/ɡʊd ˈmɔːrnɪŋ! wʌt ɪz jʊr neɪm?/"
       },
       {
         "en": "Good morning! My name is Tom. Nice to meet you.",
         "speaker": "B",
         "vi": "Chào buổi sáng! Tên tôi là Tom. Rất vui được gặp bạn.",
-        "ipa": "/ɡʊd ˈmɔːrnɪŋ! maɪ neɪm ɪz tɑːm. naɪs tuː miːt juː./"
+        "ipa": "/ɡʊd ˈmɔːrnɪŋ! maɪ neɪm ɪz tɑːm. naɪs tə miːt juː./"
       },
       {
         "en": "Nice to meet you too. My name is Lan. Where are you from?",
         "speaker": "A",
         "vi": "Tôi cũng rất vui được gặp bạn. Tên tôi là Lan. Bạn đến từ đâu?",
-        "ipa": "/naɪs tuː miːt juː tuː. maɪ neɪm ɪz læn. wɛr ɑːr juː frʌm?/"
+        "ipa": "/naɪs tə miːt juː tuː. maɪ neɪm ɪz læn. wɛr ɑːr juː frʌm?/"
       },
       {
         "en": "I am from Vietnam. I live in Hanoi. How are you?",
@@ -37,19 +37,19 @@
         "en": "Nice to see you, Nam. Are you a student too?",
         "speaker": "B",
         "vi": "Rất vui khi gặp bạn, Nam. Bạn cũng là học sinh phải không?",
-        "ipa": "/naɪs tuː siː juː, nɑːm. ɑːr juː ə ˈstuːdənt tuː?/"
+        "ipa": "/naɪs tə siː juː, nɑːm. ɑːr juː ə ˈstuːdənt tuː?/"
       },
       {
         "en": "Yes, we are students. See you tomorrow in class!",
         "speaker": "A",
         "vi": "Vâng, chúng tôi đều là học sinh. Hẹn gặp bạn ngày mai ở lớp nhé!",
-        "ipa": "/jɛs, wiː ɑːr ˈstuːdənts. siː juː təˈmɔːroʊ ɪn klæs!/"
+        "ipa": "/jɛs, wiː ɑːr ˈstuːdənts. siː juː təˈmɑːroʊ ɪn klæs!/"
       },
       {
         "en": "See you tomorrow! Have a nice day!",
         "speaker": "B",
         "vi": "Hẹn gặp bạn ngày mai! Chúc bạn một ngày tốt lành!",
-        "ipa": "/siː juː təˈmɔːroʊ! hæv ə naɪs deɪ!/"
+        "ipa": "/siː juː təˈmɑːroʊ! hæv ə naɪs deɪ!/"
       }
     ],
     "unit": 1
@@ -74,7 +74,7 @@
         "en": "It is three o'clock. This weekend, do you want to go to the park?",
         "speaker": "A",
         "vi": "Bây giờ là ba giờ. Cuối tuần này, bạn có muốn đi công viên không?",
-        "ipa": "/ɪt ɪz θriː əˈklɑːk. ðɪs ˈwiːkˌɛnd, duː juː wɑːnt tuː ɡoʊ tuː ðə pɑːrk?/"
+        "ipa": "/ɪt ɪz θriː əˈklɑːk. ðɪs ˈwiːkˌɛnd, duː juː wɑːnt tə ɡoʊ tə ðə pɑːrk?/"
       },
       {
         "en": "Yes! See you at five on Saturday. Is that okay?",
@@ -86,7 +86,7 @@
         "en": "Yes, that is good. I work on Friday, but I am free on Saturday.",
         "speaker": "A",
         "vi": "Vâng, tốt đấy. Thứ Sáu tôi làm việc, nhưng thứ Bảy tôi rảnh.",
-        "ipa": "/jɛs, ðæt ɪz ɡʊd. aɪ wɜːrk ɑːn ˈfraɪdeɪ, bʌt aɪ æm friː ɑːn ˈsætərdeɪ./"
+        "ipa": "/jɛs, ðæt ɪz ɡʊd. aɪ wɜːrk ɑːn ˈfraɪdeɪ, bət aɪ æm friː ɑːn ˈsætərdeɪ./"
       },
       {
         "en": "Great! In the afternoon, we can play football. What month is it?",
@@ -135,7 +135,7 @@
         "en": "OK. I will make breakfast for us.",
         "speaker": "B",
         "vi": "Được. Mình sẽ làm bữa sáng cho chúng ta.",
-        "ipa": "/oʊˈkeɪ. aɪ wɪl meɪk ˈbrɛkfəst fɔːr ʌs./"
+        "ipa": "/oʊˈkeɪ. aɪ wɪl meɪk ˈbrɛkfəst fər ʌs./"
       },
       {
         "en": "Thank you! What will we eat today?",
@@ -147,13 +147,13 @@
         "en": "We will eat bread and eggs. Is that OK?",
         "speaker": "B",
         "vi": "Chúng ta sẽ ăn bánh mì và trứng. Được không?",
-        "ipa": "/wiː wɪl iːt brɛd ənd ɛɡz. ɪz ðæt oʊˈkeɪ?/"
+        "ipa": "/wiː wɪl iːt brɛd ən ɛɡz. ɪz ðæt oʊˈkeɪ?/"
       },
       {
         "en": "Yes, that is great. After breakfast, I will go to school.",
         "speaker": "A",
         "vi": "Có, tuyệt lắm. Sau bữa sáng, mình sẽ đi học.",
-        "ipa": "/jɛs, ðæt ɪz ɡreɪt. ˈæftər ˈbrɛkfəst, aɪ wɪl ɡoʊ tuː skuːl./"
+        "ipa": "/jɛs, ðæt ɪz ɡreɪt. ˈæftər ˈbrɛkfəst, aɪ wɪl ɡoʊ tə skuːl./"
       },
       {
         "en": "Have a nice day at school!",
@@ -178,7 +178,7 @@
         "en": "Here is the menu. What do you want to eat?",
         "speaker": "B",
         "vi": "Đây là thực đơn. Bạn muốn ăn gì?",
-        "ipa": "/hɪr ɪz ðə ˈmɛnjuː. wʌt duː juː wɑːnt tuː iːt?/"
+        "ipa": "/hɪr ɪz ðə ˈmɛnjuː. wʌt duː juː wɑːnt tə iːt?/"
       },
       {
         "en": "I want rice with chicken. What about you?",
@@ -190,7 +190,7 @@
         "en": "I want noodles and a glass of water.",
         "speaker": "B",
         "vi": "Tôi muốn mì và một ly nước.",
-        "ipa": "/aɪ wɑːnt ˈnuːdəlz ənd ə ɡlæs ʌv ˈwɔːtər./"
+        "ipa": "/aɪ wɑːnt ˈnuːdəlz ən ə ɡlæs ʌv ˈwɔːtər./"
       },
       {
         "en": "Good choice! The food here is very delicious.",
@@ -228,7 +228,7 @@
         "speaker": "A",
         "en": "Excuse me, how do I get to the train station?",
         "vi": "Xin lỗi, làm sao tôi đến được ga tàu?",
-        "ipa": "/ɪkˈskjuːz miː, haʊ duː aɪ ɡɛt tuː ðə treɪn ˈsteɪʃən?/"
+        "ipa": "/ɪkˈskjuːz miː, haʊ duː aɪ ɡɛt tə ðə treɪn ˈsteɪʃən?/"
       },
       {
         "speaker": "B",
@@ -264,7 +264,7 @@
         "speaker": "A",
         "en": "Thank you very much for your help.",
         "vi": "Cảm ơn bạn rất nhiều vì đã giúp tôi.",
-        "ipa": "/θæŋk juː ˈvɛri mʌtʃ fɔːr jɔːr hɛlp./"
+        "ipa": "/θæŋk juː ˈvɛri mʌtʃ fər jʊr hɛlp./"
       },
       {
         "speaker": "B",
@@ -283,7 +283,7 @@
         "speaker": "A",
         "en": "Hi, do you have the report for the meeting?",
         "vi": "Chào bạn, bạn có bản báo cáo cho cuộc họp không?",
-        "ipa": "/haɪ, duː juː hæv ðə rɪˈpɔːrt fɔːr ðə ˈmiːtɪŋ?/"
+        "ipa": "/haɪ, duː juː hæv ðə rɪˈpɔːrt fər ðə ˈmiːtɪŋ?/"
       },
       {
         "speaker": "B",
@@ -307,13 +307,13 @@
         "speaker": "A",
         "en": "Is the deadline for the report Friday?",
         "vi": "Hạn chót nộp báo cáo là thứ Sáu phải không?",
-        "ipa": "/ɪz ðə ˈdɛdlaɪn fɔːr ðə rɪˈpɔːrt ˈfraɪdeɪ?/"
+        "ipa": "/ɪz ðə ˈdɛdlaɪn fər ðə rɪˈpɔːrt ˈfraɪdeɪ?/"
       },
       {
         "speaker": "B",
         "en": "Yes, but we need to finish it today.",
         "vi": "Đúng vậy, nhưng chúng ta cần hoàn thành nó hôm nay.",
-        "ipa": "/jɛs, bʌt wiː niːd tuː ˈfɪnɪʃ ɪt təˈdeɪ./"
+        "ipa": "/jɛs, bət wiː niːd tə ˈfɪnɪʃ ɪt təˈdeɪ./"
       },
       {
         "speaker": "A",
@@ -325,7 +325,7 @@
         "speaker": "B",
         "en": "Of course. Let's work as a team and finish it together.",
         "vi": "Tất nhiên rồi. Chúng ta hãy làm việc theo nhóm và cùng hoàn thành nó.",
-        "ipa": "/ʌv kɔːrs. lɛts wɜːrk æz ə tiːm ənd ˈfɪnɪʃ ɪt təˈɡɛðər./"
+        "ipa": "/ʌv kɔːrs. lɛts wɜːrk æz ə tiːm ən ˈfɪnɪʃ ɪt təˈɡɛðər./"
       }
     ]
   },
@@ -338,13 +338,13 @@
         "speaker": "A",
         "en": "Hello, this is Anna speaking. Can I speak to Mr. Lee?",
         "vi": "Xin chào, tôi là Anna đang nghe máy. Tôi có thể nói chuyện với ông Lee không?",
-        "ipa": "/həˈloʊ, ðɪs ɪz ˈænə ˈspiːkɪŋ. kæn aɪ spiːk tuː ˈmɪstər liː?/"
+        "ipa": "/həˈloʊ, ðɪs ɪz ˈænə ˈspiːkɪŋ. kæn aɪ spiːk tə ˈmɪstər liː?/"
       },
       {
         "speaker": "B",
         "en": "Hello, Anna. This is Mr. Lee. Is this a good time to talk?",
         "vi": "Xin chào, Anna. Tôi là ông Lee. Bây giờ có tiện nói chuyện không?",
-        "ipa": "/həˈloʊ, ˈænə. ðɪs ɪz ˈmɪstər liː. ɪz ðɪs ə ɡʊd taɪm tuː tɔːk?/"
+        "ipa": "/həˈloʊ, ˈænə. ðɪs ɪz ˈmɪstər liː. ɪz ðɪs ə ɡʊd taɪm tə tɔːk?/"
       },
       {
         "speaker": "A",
@@ -356,19 +356,19 @@
         "speaker": "B",
         "en": "Thank you for calling. Please send me an email with the details.",
         "vi": "Cảm ơn cô đã gọi. Xin vui lòng gửi email cho tôi kèm các chi tiết.",
-        "ipa": "/θæŋk juː fɔːr ˈkɔːlɪŋ. pliːz sɛnd miː ən ˈiːmeɪl wɪð ðə ˈdiːteɪlz./"
+        "ipa": "/θæŋk juː fər ˈkɔːlɪŋ. pliːz sɛnd miː ən ˈiːmeɪl wɪð ðə ˈdiːteɪlz./"
       },
       {
         "speaker": "A",
         "en": "Of course. What is your email address, please?",
         "vi": "Vâng, tất nhiên. Xin hỏi địa chỉ email của ông là gì?",
-        "ipa": "/ʌv kɔːrs. wʌt ɪz jɔːr ˈiːmeɪl əˈdrɛs, pliːz?/"
+        "ipa": "/ʌv kɔːrs. wʌt ɪz jʊr ˈiːmeɪl əˈdrɛs, pliːz?/"
       },
       {
         "speaker": "B",
         "en": "Please send it to lee@company.com. I will check my inbox today.",
         "vi": "Xin vui lòng gửi tới lee@company.com. Hôm nay tôi sẽ kiểm tra hộp thư đến.",
-        "ipa": "/pliːz sɛnd ɪt tuː liː æt ˈkʌmpəni dɑːt kɑːm. aɪ wɪl tʃɛk maɪ ˈɪnbɑːks təˈdeɪ./"
+        "ipa": "/pliːz sɛnd ɪt tə liː æt ˈkʌmpəni dɑːt kɑːm. aɪ wɪl tʃɛk maɪ ˈɪnbɑːks təˈdeɪ./"
       },
       {
         "speaker": "A",
@@ -380,7 +380,7 @@
         "speaker": "B",
         "en": "Thank you for your quick reply. Goodbye, talk to you soon.",
         "vi": "Cảm ơn cô đã trả lời nhanh. Tạm biệt, nói chuyện với cô sau nhé.",
-        "ipa": "/θæŋk juː fɔːr jɔːr kwɪk rɪˈplaɪ. ɡʊdˈbaɪ, tɔːk tuː juː suːn./"
+        "ipa": "/θæŋk juː fər jʊr kwɪk rɪˈplaɪ. ɡʊdˈbaɪ, tɔːk tə juː suːn./"
       }
     ]
   },
@@ -393,7 +393,7 @@
         "speaker": "A",
         "en": "Good morning, team. Let's discuss the plan for the new project today.",
         "vi": "Chào buổi sáng, cả nhóm. Hôm nay chúng ta hãy thảo luận về kế hoạch cho dự án mới.",
-        "ipa": "/ɡʊd ˈmɔːrnɪŋ, tiːm. lɛts dɪˈskʌs ðə plæn fɔːr ðə nuː ˈprɑːdʒɛkt təˈdeɪ./"
+        "ipa": "/ɡʊd ˈmɔːrnɪŋ, tiːm. lɛts dɪˈskʌs ðə plæn fər ðə nuː ˈprɑːdʒɛkt təˈdeɪ./"
       },
       {
         "speaker": "B",
@@ -405,25 +405,25 @@
         "speaker": "A",
         "en": "I agree with you. We need to finish this task by Friday.",
         "vi": "Tôi đồng ý với bạn. Chúng ta cần hoàn thành nhiệm vụ này trước thứ Sáu.",
-        "ipa": "/aɪ əˈɡriː wɪð juː. wiː niːd tuː ˈfɪnɪʃ ðɪs tæsk baɪ ˈfraɪdeɪ./"
+        "ipa": "/aɪ əˈɡriː wɪð juː. wiː niːd tə ˈfɪnɪʃ ðɪs tæsk baɪ ˈfraɪdeɪ./"
       },
       {
         "speaker": "B",
         "en": "Can you share your opinion, please? Who will do this part of the work?",
         "vi": "Bạn có thể chia sẻ ý kiến của bạn được không? Ai sẽ làm phần việc này?",
-        "ipa": "/kæn juː ʃɛr jɔːr əˈpɪnjən, pliːz? huː wɪl duː ðɪs pɑːrt ʌv ðə wɜːrk?/"
+        "ipa": "/kæn juː ʃɛr jʊr əˈpɪnjən, pliːz? huː wɪl duː ðɪs pɑːrt ʌv ðə wɜːrk?/"
       },
       {
         "speaker": "A",
         "en": "I will do the first part, and you can do the second part.",
         "vi": "Tôi sẽ làm phần đầu tiên, và bạn có thể làm phần thứ hai.",
-        "ipa": "/aɪ wɪl duː ðə fɜːrst pɑːrt, ənd juː kæn duː ðə ˈsɛkənd pɑːrt./"
+        "ipa": "/aɪ wɪl duː ðə fɜːrst pɑːrt, ən juː kæn duː ðə ˈsɛkənd pɑːrt./"
       },
       {
         "speaker": "B",
         "en": "Good idea. Let's make a list of tasks and check our progress this week.",
         "vi": "Ý tưởng hay. Chúng ta hãy lập một danh sách các nhiệm vụ và kiểm tra tiến độ trong tuần này.",
-        "ipa": "/ɡʊd aɪˈdiːə. lɛts meɪk ə lɪst ʌv tæsks ənd tʃɛk aʊər ˈprɑːɡrɛs ðɪs wiːk./"
+        "ipa": "/ɡʊd aɪˈdiːə. lɛts meɪk ə lɪst ʌv tæsks ən tʃɛk aʊər ˈprɑːɡrɛs ðɪs wiːk./"
       },
       {
         "speaker": "A",
@@ -435,7 +435,7 @@
         "speaker": "B",
         "en": "Thank you for your help. Good job, team!",
         "vi": "Cảm ơn bạn đã giúp đỡ. Làm tốt lắm, cả nhóm!",
-        "ipa": "/θæŋk juː fɔːr jɔːr hɛlp. ɡʊd dʒɑːb, tiːm!/"
+        "ipa": "/θæŋk juː fər jʊr hɛlp. ɡʊd dʒɑːb, tiːm!/"
       }
     ]
   },
@@ -453,7 +453,7 @@
         "en": "Welcome to our hotel. Can I see your passport, please?",
         "speaker": "B",
         "vi": "Chào mừng đến khách sạn của chúng tôi. Tôi có thể xem hộ chiếu của bạn không?",
-        "ipa": "/ˈwɛlkəm tuː aʊər hoʊˈtɛl. kæn aɪ siː jɔːr ˈpæspɔːrt, pliːz?/"
+        "ipa": "/ˈwɛlkəm tə aʊər hoʊˈtɛl. kæn aɪ siː jʊr ˈpæspɔːrt, pliːz?/"
       },
       {
         "en": "Yes, here it is. Is breakfast included in the price?",
@@ -465,13 +465,13 @@
         "en": "Yes, breakfast is from six to ten in the morning.",
         "speaker": "B",
         "vi": "Vâng, bữa sáng từ sáu giờ đến mười giờ sáng.",
-        "ipa": "/jɛs, ˈbrɛkfəst ɪz frʌm sɪks tuː tɛn ɪn ðə ˈmɔːrnɪŋ./"
+        "ipa": "/jɛs, ˈbrɛkfəst ɪz frʌm sɪks tə tɛn ɪn ðə ˈmɔːrnɪŋ./"
       },
       {
         "en": "Thank you. Can you call a taxi for me tomorrow morning?",
         "speaker": "A",
         "vi": "Cảm ơn bạn. Bạn có thể gọi taxi giúp tôi sáng mai không?",
-        "ipa": "/θæŋk juː. kæn juː kɔːl ə ˈtæksi fɔːr miː təˈmɔːroʊ ˈmɔːrnɪŋ?/"
+        "ipa": "/θæŋk juː. kæn juː kɔːl ə ˈtæksi fər miː təˈmɑːroʊ ˈmɔːrnɪŋ?/"
       },
       {
         "en": "Of course. What time do you need the taxi?",
@@ -483,13 +483,13 @@
         "en": "At eight o'clock, please. I want to go to the airport.",
         "speaker": "A",
         "vi": "Lúc tám giờ, xin cảm ơn. Tôi muốn đi ra sân bay.",
-        "ipa": "/æt eɪt əˈklɑːk, pliːz. aɪ wɑːnt tuː ɡoʊ tuː ðiː ˈɛrpɔːrt./"
+        "ipa": "/æt eɪt əˈklɑːk, pliːz. aɪ wɑːnt tə ɡoʊ tə ðiː ˈɛrpɔːrt./"
       },
       {
         "en": "No problem. Your room is on the fifth floor. Enjoy your stay!",
         "speaker": "B",
         "vi": "Không có vấn đề gì. Phòng của bạn ở tầng năm. Chúc bạn có kỳ nghỉ vui vẻ!",
-        "ipa": "/noʊ ˈprɑːbləm. jɔːr ruːm ɪz ɑːn ðə fɪfθ flɔːr. ɪnˈdʒɔɪ jɔːr steɪ!/"
+        "ipa": "/noʊ ˈprɑːbləm. jʊr ruːm ɪz ɑːn ðə fɪfθ flɔːr. ɪnˈdʒɔɪ jʊr steɪ!/"
       }
     ],
     "unit": 9
@@ -508,13 +508,13 @@
         "en": "Yes, of course. The deadline for the report is next Monday.",
         "speaker": "B",
         "vi": "Vâng, tất nhiên rồi. Hạn chót cho báo cáo là thứ Hai tới.",
-        "ipa": "/jɛs, ʌv kɔːrs. ðə ˈdɛdlaɪn fɔːr ðə rɪˈpɔːrt ɪz nɛkst ˈmʌndeɪ./"
+        "ipa": "/jɛs, ʌv kɔːrs. ðə ˈdɛdlaɪn fər ðə rɪˈpɔːrt ɪz nɛkst ˈmʌndeɪ./"
       },
       {
         "en": "I need more time to prepare the presentation for tomorrow.",
         "speaker": "A",
         "vi": "Tôi cần thêm thời gian để chuẩn bị bài thuyết trình cho ngày mai.",
-        "ipa": "/aɪ niːd mɔːr taɪm tuː prɪˈpɛr ðə ˌprɛzənˈteɪʃən fɔːr təˈmɔːroʊ./"
+        "ipa": "/aɪ niːd mɔːr taɪm tə prɪˈpɛr ðə ˌprɛzənˈteɪʃən fər təˈmɑːroʊ./"
       },
       {
         "en": "Do not worry. Our team will finish the project on time.",
@@ -526,7 +526,7 @@
         "en": "Thank you. Can you send the contract to the customer today?",
         "speaker": "A",
         "vi": "Cảm ơn bạn. Bạn có thể gửi hợp đồng cho khách hàng hôm nay không?",
-        "ipa": "/θæŋk juː. kæn juː sɛnd ðə ˈkɑːntrækt tuː ðə ˈkʌstəmər təˈdeɪ?/"
+        "ipa": "/θæŋk juː. kæn juː sɛnd ðə ˈkɑːntrækt tə ðə ˈkʌstəmər təˈdeɪ?/"
       },
       {
         "en": "Yes, I will send it by email this afternoon.",
@@ -538,7 +538,7 @@
         "en": "Great. Please be on time for the meeting tomorrow morning.",
         "speaker": "A",
         "vi": "Tuyệt vời. Xin hãy đến đúng giờ cho cuộc họp sáng mai.",
-        "ipa": "/ɡreɪt. pliːz biː ɑːn taɪm fɔːr ðə ˈmiːtɪŋ təˈmɔːroʊ ˈmɔːrnɪŋ./"
+        "ipa": "/ɡreɪt. pliːz biː ɑːn taɪm fər ðə ˈmiːtɪŋ təˈmɑːroʊ ˈmɔːrnɪŋ./"
       },
       {
         "en": "I will. Please let me know if you have any questions.",

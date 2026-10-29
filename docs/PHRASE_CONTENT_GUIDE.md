@@ -21,7 +21,13 @@ Mỗi cụm từ được gắn với một bài học; bài học thuộc một
 - `phrase`: cụm từ tiếng Anh tự nhiên, tối đa 300 ký tự.
 - `meaningVi`: nghĩa tiếng Việt rõ ràng, không dịch từng chữ nếu không tự nhiên.
 - `ipa`: phiên âm Mỹ của cụm từ, trong dấu gạch chéo, ví dụ `/həˈloʊ/`.
-  Phiên âm chỉ mang tính tham khảo, chưa được kiểm chứng bởi chuyên gia.
+  Phiên âm đã qua một lần rà soát hệ thống từng từ (1.387 chuỗi IPA, xem
+  README), nhưng vẫn chỉ mang tính tham khảo: đó là rà soát bằng kiến thức
+  từ điển/AI, chưa được kiểm chứng bởi người bản ngữ hay chuyên gia ngữ âm,
+  và không khẳng định chuẩn 100%. Quy ước: phát âm Mỹ, trọng âm chính `ˈ`,
+  trọng âm phụ `ˌ` khi cần, giữ `ː` cho nguyên âm dài; từ chức năng không
+  nhấn dùng dạng yếu (`to` → `/tə/`, `your` → `/jʊr/`, `and` → `/ən/`,
+  `for` → `/fər/`), dạng mạnh chỉ giữ khi nhấn mạnh hoặc ở cuối câu.
 - Nếu `usageType` là `"example"`: `exampleEn` là câu ví dụ ngắn dùng cụm từ,
   `exampleVi` là bản dịch tự nhiên, `exampleIpa` là phiên âm của câu ví dụ.
 - Nếu `usageType` là `"dialogue"`: `dialogue` là 2–3 lượt hội thoại ngắn,
