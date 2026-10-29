@@ -7,7 +7,7 @@ export default function TopicsPage() {
   return (
     <main className="page-shell">
       <header className="page-header"><Link href="/" className="brand">Học Vui <span>English</span></Link><Link className="button button-secondary" href="/dashboard">Bảng học tập</Link></header>
-      <section className="page-intro"><p className="eyebrow">BẮT ĐẦU TỪ NHỮNG ĐIỀU NHỎ</p><h1>Chủ đề học</h1><p>Chọn một bài ngắn, học cụm từ theo ngữ cảnh và ôn lại để ghi nhớ lâu hơn.</p></section>
+      <section className="page-intro"><p className="eyebrow">BẮT ĐẦU TỪ NHỮNG ĐIỀU NHỎ</p><h1>Chủ đề học</h1><p>Chọn một bài ngắn, học cụm từ theo ngữ cảnh và ôn lại để ghi nhớ lâu hơn.</p><p><Link href="/sentences">Luyện câu theo mẫu → 2 bộ, 40 câu: bộ cơ bản và bộ mẫu câu khó hơn (cần đăng nhập).</Link></p></section>
       <div className="topic-list">
         {TOPICS.map((topic) => {
           return <section className="topic-card" key={topic.slug}>

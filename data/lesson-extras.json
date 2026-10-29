@@ -1,0 +1,2831 @@
+[
+  {
+    "lessonSlug": "basic-greetings",
+    "skillEn": "Greet colleagues politely and introduce people at work",
+    "skillVi": "Chào hỏi đồng nghiệp một cách lịch sự và giới thiệu người khác tại nơi làm việc",
+    "openQuestions": [
+      {
+        "qEn": "What does \"It's a pleasure to meet you\" mean, and when do you use it?",
+        "qVi": "\"It's a pleasure to meet you\" có nghĩa là gì và khi nào bạn dùng câu này?",
+        "aEn": "It means you are happy to meet someone for the first time. You use it in a formal first meeting, for example with a new colleague or a business visitor.",
+        "aVi": "Câu này có nghĩa là bạn rất vui khi gặp ai đó lần đầu. Bạn dùng nó trong lần gặp đầu tiên mang tính trang trọng, ví dụ với đồng nghiệp mới hoặc khách đến công ty."
+      },
+      {
+        "qEn": "Why is it useful to say \"Good afternoon, thanks for coming in\" when a visitor arrives at the office?",
+        "qVi": "Vì sao khi khách đến văn phòng, việc nói \"Good afternoon, thanks for coming in\" lại hữu ích?",
+        "aEn": "It greets the visitor politely and thanks them for their time and effort in coming. That helps the visitor feel welcome before a meeting starts.",
+        "aVi": "Câu này chào khách một cách lịch sự và cảm ơn họ đã dành thời gian đến. Nhờ vậy khách cảm thấy được chào đón trước khi cuộc họp bắt đầu."
+      },
+      {
+        "qEn": "A new colleague joins your team today. What would you say when you meet them for the first time?",
+        "qVi": "Hôm nay một đồng nghiệp mới gia nhập nhóm của bạn. Khi gặp họ lần đầu, bạn sẽ nói gì?",
+        "aEn": "You could say, \"Hello, it's nice to meet you. My name's Linh, from Hanoi.\" Then you could add, \"Let me introduce you to my friend Mai.\"",
+        "aVi": "Bạn có thể nói: \"Hello, it's nice to meet you. My name's Linh, from Hanoi.\" Sau đó bạn có thể nói thêm: \"Let me introduce you to my friend Mai.\""
+      }
+    ],
+    "conceptMcqs": [
+      {
+        "qEn": "What does \"It's been a while, hasn't it?\" mean?",
+        "qVi": "\"It's been a while, hasn't it?\" có nghĩa là gì?",
+        "options": [
+          {
+            "en": "We met very recently.",
+            "vi": "Chúng ta mới gặp nhau gần đây."
+          },
+          {
+            "en": "We have not seen each other for a long time.",
+            "vi": "Đã lâu rồi chúng ta không gặp nhau."
+          },
+          {
+            "en": "We will meet again soon.",
+            "vi": "Chúng ta sẽ sớm gặp lại nhau."
+          },
+          {
+            "en": "We have never met before.",
+            "vi": "Chúng ta chưa từng gặp nhau trước đây."
+          }
+        ],
+        "correctIndex": 1,
+        "explanationEn": "\"It's been a while\" means a long time has passed since the last meeting, so it is used when you meet someone again after a long time.",
+        "explanationVi": "\"It's been a while\" nghĩa là đã một thời gian dài trôi qua kể từ lần gặp trước, nên câu này dùng khi bạn gặp lại ai đó sau một thời gian dài."
+      },
+      {
+        "qEn": "Which is the most polite way to ask a new colleague for their name?",
+        "qVi": "Cách nào lịch sự nhất để hỏi tên một đồng nghiệp mới?",
+        "options": [
+          {
+            "en": "Tell me your name now.",
+            "vi": "Nói tên của bạn ngay đi."
+          },
+          {
+            "en": "What is your name, please?",
+            "vi": "Xin cho hỏi tên bạn là gì?"
+          },
+          {
+            "en": "Your name?",
+            "vi": "Tên bạn?"
+          },
+          {
+            "en": "May I ask your name?",
+            "vi": "Tôi có thể hỏi tên bạn được không?"
+          }
+        ],
+        "correctIndex": 3,
+        "explanationEn": "\"May I ask your name?\" is polite because \"May I\" asks for permission. The other short forms sound too direct for a first meeting at work.",
+        "explanationVi": "\"May I ask your name?\" lịch sự vì \"May I\" là cách xin phép. Các cách nói ngắn khác nghe quá trực tiếp trong lần gặp đầu tiên tại nơi làm việc."
+      },
+      {
+        "qEn": "A colleague asks, \"How are you doing today?\" Which is the best reply?",
+        "qVi": "Một đồng nghiệp hỏi: \"How are you doing today?\" Câu trả lời nào phù hợp nhất?",
+        "options": [
+          {
+            "en": "I'm doing really well, thanks.",
+            "vi": "Tôi khỏe lắm, cảm ơn bạn."
+          },
+          {
+            "en": "I work in marketing for a small company.",
+            "vi": "Tôi làm marketing cho một công ty nhỏ."
+          },
+          {
+            "en": "My name's Linh, from Hanoi.",
+            "vi": "Tôi tên là Linh, đến từ Hà Nội."
+          },
+          {
+            "en": "Where are you from originally?",
+            "vi": "Ban đầu bạn đến từ đâu?"
+          }
+        ],
+        "correctIndex": 0,
+        "explanationEn": "\"How are you doing today?\" asks about your day, so a short answer about how you feel is best. The other options answer different questions about your job, name, or origin.",
+        "explanationVi": "\"How are you doing today?\" hỏi về một ngày của bạn, nên câu trả lời ngắn về cảm giác của bạn là phù hợp nhất. Các lựa chọn khác trả lời cho những câu hỏi khác về công việc, tên hoặc quê quán."
+      }
+    ],
+    "writing": {
+      "promptEn": "Write 2-3 sentences welcoming a new colleague on their first day at the office. Use at least two phrases from this lesson.",
+      "promptVi": "Viết 2-3 câu chào đón một đồng nghiệp mới trong ngày đầu tiên của họ tại văn phòng. Dùng ít nhất hai cụm từ trong bài học này.",
+      "modelEn": "Good morning, and welcome to our office. Hello, it's nice to meet you. Let me introduce you to my friend Mai, who works with us.",
+      "modelVi": "Chào buổi sáng, chào mừng bạn đến với văn phòng của chúng tôi. Xin chào, rất vui được gặp bạn. Để tôi giới thiệu bạn với Mai, bạn tôi, người làm việc cùng chúng tôi.",
+      "modelIpa": "/ɡʊd ˈmɔːrnɪŋ ən ˈwɛlkəm tə aʊər ˈɔːfɪs həˈloʊ ɪts naɪs tə miːt juː lɛt miː ˌɪntrəˈduːs juː tə maɪ frɛnd maɪ huː wɜːrks wɪð ʌs/"
+    },
+    "speakModels": [
+      {
+        "termEn": "nice to meet you",
+        "en": "Hello, it's nice to meet you.",
+        "vi": "Xin chào, rất vui được gặp bạn.",
+        "ipa": "/həˈloʊ ɪts naɪs tə miːt juː/"
+      },
+      {
+        "termEn": "Good afternoon",
+        "en": "Good afternoon, thanks for coming in.",
+        "vi": "Chào buổi chiều, cảm ơn bạn đã đến.",
+        "ipa": "/ɡʊd ˌæftərˈnuːn θæŋks fər ˈkʌmɪŋ ɪn/"
+      }
+    ]
+  },
+  {
+    "lessonSlug": "introducing-yourself",
+    "skillEn": "Introduce yourself at work: your name, job, where you live, and why you are learning English",
+    "skillVi": "Tự giới thiệu bản thân tại nơi làm việc: tên, công việc, nơi sống và lý do bạn học tiếng Anh",
+    "openQuestions": [
+      {
+        "qEn": "What does \"I'm here on a business trip\" tell the listener?",
+        "qVi": "\"I'm here on a business trip\" cho người nghe biết điều gì?",
+        "aEn": "It tells the listener that you are in this place for work, not for a holiday. It is useful when you check in at a hotel or meet a new business contact.",
+        "aVi": "Câu này cho người nghe biết bạn đang ở đây vì công việc, không phải để du lịch. Câu này hữu ích khi bạn nhận phòng khách sạn hoặc gặp một đối tác kinh doanh mới."
+      },
+      {
+        "qEn": "Why might someone say \"I can speak a little English, but I'm still learning\" in a workplace conversation?",
+        "qVi": "Vì sao ai đó có thể nói \"I can speak a little English, but I'm still learning\" trong một cuộc trò chuyện tại nơi làm việc?",
+        "aEn": "It is honest about their level and invites the other person to speak clearly and patiently. It also shows they are making an effort to improve their English for work.",
+        "aVi": "Câu này thể hiện trung thực trình độ của họ và mời người đối diện nói rõ ràng, kiên nhẫn hơn. Câu này cũng cho thấy họ đang nỗ lực cải thiện tiếng Anh phục vụ công việc."
+      },
+      {
+        "qEn": "You meet a foreign business partner for the first time. What would you say to introduce yourself?",
+        "qVi": "Bạn gặp một đối tác kinh doanh nước ngoài lần đầu tiên. Bạn sẽ nói gì để tự giới thiệu?",
+        "aEn": "You could say, \"I work as an English teacher at a language centre. I'm learning English to help me at work.\" Then you could add where you live or how long you have worked there.",
+        "aVi": "Bạn có thể nói: \"I work as an English teacher at a language centre. I'm learning English to help me at work.\" Sau đó bạn có thể nói thêm nơi bạn sống hoặc bạn đã làm việc ở đó bao lâu."
+      }
+    ],
+    "conceptMcqs": [
+      {
+        "qEn": "What does \"I'm new in town, so I don't know many people yet\" mean?",
+        "qVi": "\"I'm new in town, so I don't know many people yet\" có nghĩa là gì?",
+        "options": [
+          {
+            "en": "I have lived here for many years.",
+            "vi": "Tôi đã sống ở đây nhiều năm."
+          },
+          {
+            "en": "I know everyone in this town.",
+            "vi": "Tôi quen mọi người ở thành phố này."
+          },
+          {
+            "en": "I have just moved here and do not know many people yet.",
+            "vi": "Tôi vừa chuyển đến đây và chưa quen nhiều người."
+          },
+          {
+            "en": "I am visiting for one day only.",
+            "vi": "Tôi chỉ đến thăm trong một ngày."
+          }
+        ],
+        "correctIndex": 2,
+        "explanationEn": "\"New in town\" means you have recently moved to the town, so you have not yet met many people there.",
+        "explanationVi": "\"New in town\" nghĩa là bạn vừa chuyển đến thành phố này, nên bạn chưa gặp nhiều người ở đó."
+      },
+      {
+        "qEn": "Which sentence is correct?",
+        "qVi": "Câu nào đúng?",
+        "options": [
+          {
+            "en": "I work like an English teacher at a language centre.",
+            "vi": "Tôi làm việc giống như một giáo viên tiếng Anh tại một trung tâm ngoại ngữ."
+          },
+          {
+            "en": "I work as an English teacher at a language centre.",
+            "vi": "Tôi làm giáo viên tiếng Anh tại một trung tâm ngoại ngữ."
+          },
+          {
+            "en": "I work an English teacher at a language centre.",
+            "vi": "Tôi làm một giáo viên tiếng Anh tại một trung tâm ngoại ngữ."
+          },
+          {
+            "en": "I am work as an English teacher at a language centre.",
+            "vi": "Tôi đang làm việc như một giáo viên tiếng Anh tại một trung tâm ngoại ngữ."
+          }
+        ],
+        "correctIndex": 1,
+        "explanationEn": "\"Work as\" is the correct collocation for a job role: \"I work as an English teacher.\" \"Work like\" and \"work an\" do not express a job in this way.",
+        "explanationVi": "\"Work as\" là cách kết hợp đúng để nói về nghề nghiệp: \"I work as an English teacher.\" \"Work like\" và \"work an\" không diễn đạt nghề nghiệp theo cách này."
+      },
+      {
+        "qEn": "A colleague asks where you live. Which is the best answer?",
+        "qVi": "Một đồng nghiệp hỏi bạn sống ở đâu. Câu trả lời nào phù hợp nhất?",
+        "options": [
+          {
+            "en": "My birthday is on the fifth of May.",
+            "vi": "Sinh nhật tôi vào ngày năm tháng Năm."
+          },
+          {
+            "en": "Blue is my favourite colour.",
+            "vi": "Màu xanh dương là màu yêu thích của tôi."
+          },
+          {
+            "en": "I enjoy reading novels before bed.",
+            "vi": "Tôi thích đọc tiểu thuyết trước khi đi ngủ."
+          },
+          {
+            "en": "I live in Ho Chi Minh City, near the city centre.",
+            "vi": "Tôi sống ở Thành phố Hồ Chí Minh, gần trung tâm thành phố."
+          }
+        ],
+        "correctIndex": 3,
+        "explanationEn": "The question asks about where you live, so the answer must name a place. The other options answer questions about a birthday, a colour, or a hobby.",
+        "explanationVi": "Câu hỏi hỏi về nơi bạn sống, nên câu trả lời phải nêu một địa điểm. Các lựa chọn khác trả lời cho câu hỏi về sinh nhật, màu sắc hoặc sở thích."
+      }
+    ],
+    "writing": {
+      "promptEn": "Write 2-3 sentences introducing yourself to a new team at work. Use at least two phrases from this lesson, and mention your job and your reason for learning English.",
+      "promptVi": "Viết 2-3 câu tự giới thiệu với một nhóm mới tại nơi làm việc. Dùng ít nhất hai cụm từ trong bài học này, và nhắc đến công việc của bạn cùng lý do bạn học tiếng Anh.",
+      "modelEn": "I work as an English teacher at a language centre. I'm learning English to help me at work. I can speak a little English, but I'm still learning.",
+      "modelVi": "Tôi làm giáo viên tiếng Anh tại một trung tâm ngoại ngữ. Tôi học tiếng Anh để hỗ trợ công việc. Tôi nói được một ít tiếng Anh, nhưng vẫn đang học.",
+      "modelIpa": "/aɪ wɜːrk əz ən ˈɪŋɡlɪʃ ˈtiːtʃər ət ə ˈlæŋɡwɪdʒ ˈsɛntər aɪm ˈlɜːrnɪŋ ˈɪŋɡlɪʃ tə hɛlp miː ət wɜːrk aɪ kən spiːk ə ˈlɪtəl ˈɪŋɡlɪʃ bət aɪm stɪl ˈlɜːrnɪŋ/"
+    },
+    "speakModels": [
+      {
+        "termEn": "English teacher",
+        "en": "I work as an English teacher at a language centre.",
+        "vi": "Tôi làm giáo viên tiếng Anh tại một trung tâm ngoại ngữ.",
+        "ipa": "/aɪ wɜːrk əz ən ˈɪŋɡlɪʃ ˈtiːtʃər ət ə ˈlæŋɡwɪdʒ ˈsɛntər/"
+      },
+      {
+        "termEn": "learning English",
+        "en": "I'm learning English to help me at work.",
+        "vi": "Tôi học tiếng Anh để hỗ trợ công việc.",
+        "ipa": "/aɪm ˈlɜːrnɪŋ ˈɪŋɡlɪʃ tə hɛlp miː ət wɜːrk/"
+      }
+    ]
+  },
+  {
+    "lessonSlug": "daily-habits",
+    "skillEn": "Describe your daily routine and workday in order, from morning to evening",
+    "skillVi": "Mô tả thói quen hằng ngày và ngày làm việc theo trình tự, từ buổi sáng đến buổi tối",
+    "openQuestions": [
+      {
+        "qEn": "What does \"I commute to work by bus every morning\" mean?",
+        "qVi": "\"I commute to work by bus every morning\" có nghĩa là gì?",
+        "aEn": "It means you travel regularly from home to work by bus each morning. \"Commute\" describes the regular journey to work, not a one-time trip.",
+        "aVi": "Câu này có nghĩa là bạn di chuyển thường xuyên từ nhà đến nơi làm việc bằng xe buýt mỗi buổi sáng. \"Commute\" mô tả hành trình đi làm thường xuyên, không phải một chuyến đi một lần."
+      },
+      {
+        "qEn": "Why does it matter at work to say \"I start work at eight sharp\" rather than just \"I start work at eight\"?",
+        "qVi": "Vì sao tại nơi làm việc, việc nói \"I start work at eight sharp\" lại khác với chỉ nói \"I start work at eight\"?",
+        "aEn": "\"Sharp\" stresses that the time is exact, not approximate. At work, that shows you understand punctuality matters for meetings and for colleagues who depend on you.",
+        "aVi": "\"Sharp\" nhấn mạnh thời gian là chính xác, không phải khoảng chừng. Tại nơi làm việc, điều đó cho thấy bạn hiểu đúng giờ là quan trọng đối với các cuộc họp và đồng nghiệp cần đến bạn."
+      },
+      {
+        "qEn": "A colleague asks about your morning routine on a workday. What would you say?",
+        "qVi": "Một đồng nghiệp hỏi về thói quen buổi sáng của bạn trong ngày làm việc. Bạn sẽ nói gì?",
+        "aEn": "You could say, \"I usually wake up at six, even on weekends. I take a quick shower before breakfast, and I commute to work by bus every morning.\" That gives a clear order from waking up to arriving at work.",
+        "aVi": "Bạn có thể nói: \"I usually wake up at six, even on weekends. I take a quick shower before breakfast, and I commute to work by bus every morning.\" Cách này trình bày rõ trình tự từ lúc thức dậy đến khi đến nơi làm việc."
+      }
+    ],
+    "conceptMcqs": [
+      {
+        "qEn": "What does \"I head home straight after work\" mean?",
+        "qVi": "\"I head home straight after work\" có nghĩa là gì?",
+        "options": [
+          {
+            "en": "I go to a restaurant after work.",
+            "vi": "Tôi đến nhà hàng sau giờ làm."
+          },
+          {
+            "en": "I stay late at the office every day.",
+            "vi": "Tôi ở lại văn phòng muộn mỗi ngày."
+          },
+          {
+            "en": "I visit friends before going home.",
+            "vi": "Tôi thăm bạn bè trước khi về nhà."
+          },
+          {
+            "en": "I go directly home as soon as work finishes.",
+            "vi": "Tôi về thẳng nhà ngay khi công việc kết thúc."
+          }
+        ],
+        "correctIndex": 3,
+        "explanationEn": "\"Straight after work\" means immediately after work, with no other stop in between, and \"head home\" means go home.",
+        "explanationVi": "\"Straight after work\" nghĩa là ngay sau giờ làm, không ghé nơi nào khác ở giữa, và \"head home\" nghĩa là về nhà."
+      },
+      {
+        "qEn": "Which sentence is correct?",
+        "qVi": "Câu nào đúng?",
+        "options": [
+          {
+            "en": "I usually wake up at six, even on weekends.",
+            "vi": "Tôi thường thức dậy lúc sáu giờ, kể cả cuối tuần."
+          },
+          {
+            "en": "I usually wakes up at six, even on weekends.",
+            "vi": "Tôi thường thức dậy lúc sáu giờ, kể cả cuối tuần."
+          },
+          {
+            "en": "I am usually wake up at six, even on weekends.",
+            "vi": "Tôi thường thức dậy lúc sáu giờ, kể cả cuối tuần."
+          },
+          {
+            "en": "I usually waking up at six, even on weekends.",
+            "vi": "Tôi thường thức dậy lúc sáu giờ, kể cả cuối tuần."
+          }
+        ],
+        "correctIndex": 0,
+        "explanationEn": "With \"I\", the present simple verb is \"wake up\", and \"usually\" comes before it. \"Wakes\" is for he, she, or it, not for \"I\".",
+        "explanationVi": "Với \"I\", động từ ở thì hiện tại đơn là \"wake up\", và \"usually\" đứng trước nó. \"Wakes\" dùng cho he, she hoặc it, không dùng cho \"I\"."
+      },
+      {
+        "qEn": "Your manager asks when you finish work on a normal day. Which is the best answer?",
+        "qVi": "Quản lý của bạn hỏi bạn thường tan làm lúc mấy giờ trong một ngày bình thường. Câu trả lời nào phù hợp nhất?",
+        "options": [
+          {
+            "en": "I brush my teeth and wash my face.",
+            "vi": "Tôi đánh răng và rửa mặt."
+          },
+          {
+            "en": "I do the laundry twice a week.",
+            "vi": "Tôi giặt quần áo hai lần một tuần."
+          },
+          {
+            "en": "I usually finish work at five, but sometimes later.",
+            "vi": "Tôi thường tan làm lúc năm giờ, nhưng đôi khi muộn hơn."
+          },
+          {
+            "en": "I check my messages first thing in the morning.",
+            "vi": "Việc đầu tiên vào buổi sáng là tôi kiểm tra tin nhắn."
+          }
+        ],
+        "correctIndex": 2,
+        "explanationEn": "The question asks about finishing work, so the answer must give a finishing time. The other options describe morning habits or housework, not the end of the workday.",
+        "explanationVi": "Câu hỏi hỏi về thời gian tan làm, nên câu trả lời phải nêu giờ tan làm. Các lựa chọn khác mô tả thói quen buổi sáng hoặc việc nhà, không phải cuối ngày làm việc."
+      }
+    ],
+    "writing": {
+      "promptEn": "Write 2-3 sentences describing your workday, from morning to evening. Use at least two phrases from this lesson, and mention how you get to work and when you start.",
+      "promptVi": "Viết 2-3 câu mô tả ngày làm việc của bạn, từ buổi sáng đến buổi tối. Dùng ít nhất hai cụm từ trong bài học này, và nhắc đến cách bạn đến nơi làm việc cùng giờ bạn bắt đầu làm việc.",
+      "modelEn": "I usually wake up at six, even on weekends. I commute to work by bus every morning, and I start work at eight sharp. I usually finish work at five, but sometimes later.",
+      "modelVi": "Tôi thường thức dậy lúc sáu giờ, kể cả cuối tuần. Mỗi buổi sáng tôi đi xe buýt đi làm, và tôi bắt đầu làm việc đúng tám giờ. Tôi thường tan làm lúc năm giờ, nhưng đôi khi muộn hơn.",
+      "modelIpa": "/aɪ ˈjuːʒuəli weɪk ʌp ət sɪks ˈiːvən ɑːn ˈwiːkɛndz aɪ kəˈmjuːt tə wɜːrk baɪ bʌs ˈɛvri ˈmɔːrnɪŋ ən aɪ stɑːrt wɜːrk ət eɪt ʃɑːrp aɪ ˈjuːʒuəli ˈfɪnɪʃ wɜːrk ət faɪv bət ˈsʌmtaɪmz ˈleɪtər/"
+    },
+    "speakModels": [
+      {
+        "termEn": "commute to work",
+        "en": "I commute to work by bus every morning.",
+        "vi": "Mỗi buổi sáng tôi đi xe buýt đi làm.",
+        "ipa": "/aɪ kəˈmjuːt tə wɜːrk baɪ bʌs ˈɛvri ˈmɔːrnɪŋ/"
+      },
+      {
+        "termEn": "eight sharp",
+        "en": "I start work at eight sharp.",
+        "vi": "Tôi bắt đầu làm việc đúng tám giờ.",
+        "ipa": "/aɪ stɑːrt wɜːrk ət eɪt ʃɑːrp/"
+      }
+    ]
+  },
+  {
+    "lessonSlug": "talking-about-family",
+    "skillEn": "Talk about your family and close relationships politely in small talk at work",
+    "skillVi": "Nói về gia đình và các mối quan hệ thân thiết một cách lịch sự trong những cuộc trò chuyện xã giao tại nơi làm việc",
+    "openQuestions": [
+      {
+        "qEn": "What does \"My sister and I get along really well\" mean?",
+        "qVi": "\"My sister and I get along really well\" có nghĩa là gì?",
+        "aEn": "It means you have a good relationship with your sister and you enjoy spending time together. \"Get along\" describes how well people relate to each other.",
+        "aVi": "Câu này có nghĩa là bạn có mối quan hệ tốt với chị/em gái và thích dành thời gian cùng nhau. \"Get along\" mô tả mức độ hòa hợp giữa mọi người."
+      },
+      {
+        "qEn": "Why might you say \"Please give my love to your parents\" at the end of a conversation with a colleague?",
+        "qVi": "Vì sao bạn có thể nói \"Please give my love to your parents\" khi kết thúc một cuộc trò chuyện với đồng nghiệp?",
+        "aEn": "It is a warm, polite way to send good wishes to the colleague's parents, even if you have not met them. It helps end the conversation on a friendly note.",
+        "aVi": "Đây là cách gửi lời chúc tốt đẹp một cách thân mật và lịch sự đến bố mẹ của đồng nghiệp, ngay cả khi bạn chưa gặp họ. Cách này giúp kết thúc cuộc trò chuyện một cách thân thiện."
+      },
+      {
+        "qEn": "A colleague introduces you to their mother at a company event. What would you say?",
+        "qVi": "Một đồng nghiệp giới thiệu bạn với mẹ của họ tại một sự kiện của công ty. Bạn sẽ nói gì?",
+        "aEn": "You could say, \"Hello, it's nice to meet you.\" Then you could say to your colleague, \"I'm so proud of what you've achieved,\" if the event celebrates their work, or simply thank them for the introduction.",
+        "aVi": "Bạn có thể nói: \"Hello, it's nice to meet you.\" Sau đó bạn có thể nói với đồng nghiệp: \"I'm so proud of what you've achieved,\" nếu sự kiện tôn vinh công việc của họ, hoặc đơn giản cảm ơn họ vì đã giới thiệu."
+      }
+    ],
+    "conceptMcqs": [
+      {
+        "qEn": "What does \"I'm an only child\" mean?",
+        "qVi": "\"I'm an only child\" có nghĩa là gì?",
+        "options": [
+          {
+            "en": "I have no brothers or sisters.",
+            "vi": "Tôi không có anh chị em ruột."
+          },
+          {
+            "en": "I am the oldest child in my family.",
+            "vi": "Tôi là con lớn nhất trong gia đình."
+          },
+          {
+            "en": "I live alone in a big house.",
+            "vi": "Tôi sống một mình trong một ngôi nhà lớn."
+          },
+          {
+            "en": "I have many brothers and sisters.",
+            "vi": "Tôi có nhiều anh chị em ruột."
+          }
+        ],
+        "correctIndex": 0,
+        "explanationEn": "An \"only child\" is a child with no brothers or sisters. It does not say anything about age order or where the person lives.",
+        "explanationVi": "\"Only child\" là con một, không có anh chị em ruột. Cụm này không nói gì về thứ tự tuổi tác hay nơi người đó sống."
+      },
+      {
+        "qEn": "Which sentence is correct?",
+        "qVi": "Câu nào đúng?",
+        "options": [
+          {
+            "en": "My sister and me get along really well.",
+            "vi": "Chị em tôi và tôi hòa hợp với nhau lắm."
+          },
+          {
+            "en": "My sister and I gets along really well.",
+            "vi": "Chị em tôi và tôi hòa hợp với nhau lắm."
+          },
+          {
+            "en": "My sister and I get along really well.",
+            "vi": "Chị em tôi hòa hợp với nhau lắm."
+          },
+          {
+            "en": "My sister and I get along really good.",
+            "vi": "Chị em tôi hòa hợp với nhau lắm."
+          }
+        ],
+        "correctIndex": 2,
+        "explanationEn": "With \"My sister and I\" the verb is \"get\", and \"well\" describes how you get along. \"Gets\" is wrong for a plural subject, and \"good\" should be \"well\" after this verb.",
+        "explanationVi": "Với chủ ngữ \"My sister and I\", động từ là \"get\", và \"well\" mô tả cách bạn hòa hợp. \"Gets\" sai với chủ ngữ số nhiều, và \"good\" nên là \"well\" sau động từ này."
+      },
+      {
+        "qEn": "A colleague asks, \"Do you have any brothers or sisters?\" Which is the best answer?",
+        "qVi": "Một đồng nghiệp hỏi: \"Do you have any brothers or sisters?\" Câu trả lời nào phù hợp nhất?",
+        "options": [
+          {
+            "en": "We get together every Sunday for lunch.",
+            "vi": "Chúng tôi tụ họp mỗi Chủ nhật để ăn trưa."
+          },
+          {
+            "en": "I'm an only child, so I grew up quite quietly.",
+            "vi": "Tôi là con một nên lớn lên khá lặng lẽ."
+          },
+          {
+            "en": "My parents live just round the corner.",
+            "vi": "Bố mẹ tôi sống ngay gần đây."
+          },
+          {
+            "en": "Let's keep in touch on social media.",
+            "vi": "Chúng ta hãy giữ liên lạc qua mạng xã hội nhé."
+          }
+        ],
+        "correctIndex": 1,
+        "explanationEn": "The question asks about brothers or sisters, so saying you are an only child answers it directly. The other options talk about family meetings, where parents live, or keeping in touch.",
+        "explanationVi": "Câu hỏi hỏi về anh chị em ruột, nên nói bạn là con một trả lời trực tiếp câu hỏi. Các lựa chọn khác nói về buổi họp mặt gia đình, nơi bố mẹ sống, hoặc việc giữ liên lạc."
+      }
+    ],
+    "writing": {
+      "promptEn": "Write 2-3 sentences about your family for small talk with a colleague. Use at least two phrases from this lesson, and mention a regular family meeting if you can.",
+      "promptVi": "Viết 2-3 câu về gia đình của bạn để trò chuyện xã giao với đồng nghiệp. Dùng ít nhất hai cụm từ trong bài học này, và nhắc đến một buổi họp mặt gia đình thường xuyên nếu có thể.",
+      "modelEn": "I come from a big family of six. We get together every Sunday for lunch. My sister and I get along really well.",
+      "modelVi": "Tôi xuất thân từ một gia đình đông người, có sáu thành viên. Chúng tôi tụ họp mỗi Chủ nhật để ăn trưa. Chị em tôi hòa hợp với nhau lắm.",
+      "modelIpa": "/aɪ kʌm frəm ə bɪɡ ˈfæməli əv sɪks wiː ɡɛt təˈɡɛðər ˈɛvri ˈsʌndeɪ fər lʌntʃ maɪ ˈsɪstər ən aɪ ɡɛt əˈlɔːŋ ˈrɪəli wɛl/"
+    },
+    "speakModels": [
+      {
+        "termEn": "get together",
+        "en": "We get together every Sunday for lunch.",
+        "vi": "Chúng tôi tụ họp mỗi Chủ nhật để ăn trưa.",
+        "ipa": "/wiː ɡɛt təˈɡɛðər ˈɛvri ˈsʌndeɪ fər lʌntʃ/"
+      },
+      {
+        "termEn": "close to my mother",
+        "en": "I'm very close to my mother.",
+        "vi": "Tôi rất thân thiết với mẹ.",
+        "ipa": "/aɪm ˈvɛri kloʊs tə maɪ ˈmʌðər/"
+      }
+    ]
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 1,
+        "explanationEn": "Confirmed means the appointment is definitely arranged; the sentence does not say it is cancelled, and it does not limit it to Friday morning.",
+        "explanationVi": "Confirmed nghĩa là cuộc hẹn chắc chắn đã được sắp xếp; câu này không nói cuộc hẹn bị hủy, và cũng không giới hạn chỉ vào sáng thứ Sáu.",
+        "options": [
+          {
+            "en": "The appointment is cancelled.",
+            "vi": "Cuộc hẹn đã bị hủy."
+          },
+          {
+            "en": "The appointment is definitely arranged for Friday.",
+            "vi": "Cuộc hẹn chắc chắn đã được sắp xếp vào thứ Sáu."
+          },
+          {
+            "en": "You must wait until Friday to ask for an appointment.",
+            "vi": "Bạn phải đợi đến thứ Sáu mới được xin lịch hẹn."
+          },
+          {
+            "en": "The appointment will take place on Friday morning only.",
+            "vi": "Cuộc hẹn chỉ diễn ra vào sáng thứ Sáu."
+          }
+        ],
+        "qEn": "What does 'Your appointment is confirmed for Friday' mean?",
+        "qVi": "'Your appointment is confirmed for Friday' có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 3,
+        "explanationEn": "'Could we bring the meeting forward?' is a polite request form; the other options sound like orders.",
+        "explanationVi": "'Could we bring the meeting forward?' là dạng yêu cầu lịch sự; các lựa chọn khác nghe như mệnh lệnh.",
+        "options": [
+          {
+            "en": "Move the meeting now.",
+            "vi": "Dời cuộc họp ngay đi."
+          },
+          {
+            "en": "You must bring the meeting forward.",
+            "vi": "Bạn phải dời cuộc họp lên sớm hơn."
+          },
+          {
+            "en": "Bring the meeting forward, OK?",
+            "vi": "Dời cuộc họp lên sớm hơn nhé?"
+          },
+          {
+            "en": "Could we bring the meeting forward?",
+            "vi": "Chúng ta có thể dời cuộc họp lên sớm hơn không?"
+          }
+        ],
+        "qEn": "Which sentence is the most polite way to move a meeting earlier?",
+        "qVi": "Câu nào là cách lịch sự nhất để dời một cuộc họp lên sớm hơn?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "This explains the delay and gives an arrival time, which is what the client needs to know.",
+        "explanationVi": "Câu này giải thích lý do đến muộn và cho biết thời gian đến, đó là điều khách hàng cần biết.",
+        "options": [
+          {
+            "en": "I'm running a bit late because of the traffic. I'll be there in about ten minutes.",
+            "vi": "Tôi đến muộn một chút vì kẹt xe. Tôi sẽ đến đó trong khoảng mười phút nữa."
+          },
+          {
+            "en": "I have a meeting that runs until four.",
+            "vi": "Tôi có một cuộc họp kéo dài đến bốn giờ."
+          },
+          {
+            "en": "What day works best for everyone?",
+            "vi": "Ngày nào phù hợp nhất với mọi người?"
+          },
+          {
+            "en": "Your appointment is confirmed for Friday.",
+            "vi": "Cuộc hẹn của bạn đã được xác nhận vào thứ Sáu."
+          }
+        ],
+        "qEn": "You are stuck in traffic and will arrive late for a client meeting. What should you say?",
+        "qVi": "Bạn bị kẹt xe và sẽ đến muộn cuộc họp với khách hàng. Bạn nên nói gì?"
+      }
+    ],
+    "lessonSlug": "appointments-and-schedules",
+    "openQuestions": [
+      {
+        "aEn": "It means to change an appointment to a different time or day, for example moving a meeting from Friday to next week.",
+        "aVi": "Nghĩa là đổi một cuộc hẹn sang một thời gian hoặc ngày khác, ví dụ dời cuộc họp từ thứ Sáu sang tuần sau.",
+        "qEn": "What does 'reschedule' mean?",
+        "qVi": "'Reschedule' có nghĩa là gì?"
+      },
+      {
+        "aEn": "It helps you avoid double-booking and gives you time to check your real availability, so your answer is reliable.",
+        "aVi": "Câu này giúp bạn tránh trùng lịch và có thời gian kiểm tra lịch trống thật sự, nên câu trả lời của bạn đáng tin cậy hơn.",
+        "qEn": "Why is it useful to say 'Let me check my diary and get back to you' at work instead of agreeing at once?",
+        "qVi": "Tại sao ở nơi làm việc, nói 'Let me check my diary and get back to you' lại hữu ích hơn là đồng ý ngay?"
+      },
+      {
+        "aEn": "You could say, 'I have a meeting that runs until four, so I am not free at three. Are you free this afternoon after four?'",
+        "aVi": "Bạn có thể nói: 'Tôi có một cuộc họp kéo dài đến bốn giờ nên lúc ba giờ tôi không rảnh. Chiều nay sau bốn giờ bạn có rảnh không?'",
+        "qEn": "Your meeting runs until four, but a colleague asks to meet at three. What would you say?",
+        "qVi": "Cuộc họp của bạn kéo dài đến bốn giờ, nhưng một đồng nghiệp muốn gặp lúc ba giờ. Bạn sẽ nói gì?"
+      }
+    ],
+    "skillEn": "Use polite language to arrange, change, and confirm work appointments.",
+    "skillVi": "Dùng ngôn ngữ lịch sự để sắp xếp, thay đổi và xác nhận lịch hẹn công việc.",
+    "speakModels": [
+      {
+        "en": "Can we reschedule for next week?",
+        "ipa": "/kən wiː ˌriːˈskɛdʒuːl fər nɛkst wiːk/",
+        "termEn": "reschedule",
+        "vi": "Chúng ta có thể đổi lịch sang tuần sau không?"
+      },
+      {
+        "en": "Your appointment is confirmed for Friday.",
+        "ipa": "/jʊr əˈpɔɪntmənt ɪz kənˈfɜːrmd fər ˈfraɪdeɪ/",
+        "termEn": "appointment is confirmed",
+        "vi": "Cuộc hẹn của bạn đã được xác nhận vào thứ Sáu."
+      }
+    ],
+    "writing": {
+      "modelEn": "I'm afraid I have to cancel our appointment on Friday. Can we reschedule for next week? Let me check my diary and get back to you.",
+      "modelIpa": "/aɪm əˈfreɪd aɪ hæv tə ˈkænsəl aʊər əˈpɔɪntmənt ɑːn ˈfraɪdeɪ kən wiː ˌriːˈskɛdʒuːl fər nɛkst wiːk lɛt miː tʃɛk maɪ ˈdaɪəri ən ɡɛt bæk tə juː/",
+      "modelVi": "Tôi e rằng tôi phải hủy cuộc hẹn của chúng ta vào thứ Sáu. Chúng ta có thể đổi lịch sang tuần sau không? Để tôi kiểm tra lịch rồi trả lời bạn sau.",
+      "promptEn": "Write 2–3 sentences to a colleague: you must cancel your Friday appointment and suggest a new time. Use at least one phrase from this lesson.",
+      "promptVi": "Viết 2–3 câu cho một đồng nghiệp: bạn phải hủy cuộc hẹn thứ Sáu và đề xuất thời gian mới. Dùng ít nhất một cụm từ trong bài học này."
+    }
+  },
+  {
+    "lessonSlug": "describing-your-home",
+    "skillEn": "Describe your home and welcome guests politely when they visit",
+    "skillVi": "Mô tả nhà ở và đón tiếp khách một cách lịch sự khi họ đến thăm",
+    "openQuestions": [
+      {
+        "qEn": "What does \"The kitchen is fully equipped\" mean?",
+        "qVi": "\"The kitchen is fully equipped\" có nghĩa là gì?",
+        "aEn": "It means the kitchen has everything you need for cooking, such as a gas cooker and a fridge-freezer. \"Fully equipped\" means nothing important is missing.",
+        "aVi": "Câu này có nghĩa là nhà bếp có mọi thứ bạn cần để nấu ăn, ví dụ bếp ga và tủ lạnh ngăn đông. \"Fully equipped\" nghĩa là không thiếu thứ gì quan trọng."
+      },
+      {
+        "qEn": "Why is \"Please take your shoes off at the door\" useful when guests visit your home?",
+        "qVi": "Vì sao \"Please take your shoes off at the door\" hữu ích khi khách đến thăm nhà bạn?",
+        "aEn": "It politely protects a clean floor and keeps the home tidy. \"Please\" makes the request polite, and saying it at the door makes the rule clear before guests walk inside.",
+        "aVi": "Câu này giúp bảo vệ sàn nhà sạch sẽ và giữ nhà gọn gàng một cách lịch sự. \"Please\" làm cho lời đề nghị trở nên lịch sự, và việc nói ngay ở cửa giúp quy tắc rõ ràng trước khi khách bước vào trong."
+      },
+      {
+        "qEn": "A colleague visits your home for the first time. What would you say when they arrive, and how would you show them the bathroom?",
+        "qVi": "Một đồng nghiệp đến thăm nhà bạn lần đầu tiên. Khi họ đến, bạn sẽ nói gì, và bạn sẽ chỉ nhà vệ sinh cho họ như thế nào?",
+        "aEn": "You could say, \"Come on in and take a seat. Make yourself at home while I put the kettle on.\" For the bathroom, you could say, \"The bathroom is down the hall, on your right.\"",
+        "aVi": "Bạn có thể nói: \"Come on in and take a seat. Make yourself at home while I put the kettle on.\" Về nhà vệ sinh, bạn có thể nói: \"The bathroom is down the hall, on your right.\""
+      }
+    ],
+    "conceptMcqs": [
+      {
+        "qEn": "What is a \"spare room\"?",
+        "qVi": "\"Spare room\" là gì?",
+        "options": [
+          {
+            "en": "The main bedroom of the house.",
+            "vi": "Phòng ngủ chính của ngôi nhà."
+          },
+          {
+            "en": "An extra room kept for guests and storage.",
+            "vi": "Một phòng trống dành cho khách và để đồ."
+          },
+          {
+            "en": "A room that is always locked.",
+            "vi": "Một căn phòng luôn bị khóa."
+          },
+          {
+            "en": "The kitchen of a small apartment.",
+            "vi": "Nhà bếp của một căn hộ nhỏ."
+          }
+        ],
+        "correctIndex": 1,
+        "explanationEn": "A spare room is an extra room, not the main bedroom. In this lesson it is kept for guests and storage.",
+        "explanationVi": "Phòng trống là một phòng phụ, không phải phòng ngủ chính. Trong bài học này, phòng trống được dành cho khách và để đồ."
+      },
+      {
+        "qEn": "Which is the most polite way to ask a guest to open the window?",
+        "qVi": "Cách nào lịch sự nhất để nhờ khách mở cửa sổ?",
+        "options": [
+          {
+            "en": "Open the window now.",
+            "vi": "Mở cửa sổ ngay đi."
+          },
+          {
+            "en": "You open the window.",
+            "vi": "Bạn mở cửa sổ đi."
+          },
+          {
+            "en": "The window is closed.",
+            "vi": "Cửa sổ đang đóng."
+          },
+          {
+            "en": "Could you open the window to let in some fresh air?",
+            "vi": "Bạn mở cửa sổ cho thoáng khí được không?"
+          }
+        ],
+        "correctIndex": 3,
+        "explanationEn": "\"Could you\" makes a polite request, and the reason \"to let in some fresh air\" explains why. The direct commands sound rude to a guest.",
+        "explanationVi": "\"Could you\" tạo thành một lời đề nghị lịch sự, và lý do \"to let in some fresh air\" giải thích vì sao cần mở. Các câu mệnh lệnh trực tiếp nghe thô lỗ đối với khách."
+      },
+      {
+        "qEn": "A guest asks where the bathroom is. Which is the best answer?",
+        "qVi": "Một vị khách hỏi nhà vệ sinh ở đâu. Câu trả lời nào phù hợp nhất?",
+        "options": [
+          {
+            "en": "The bathroom is down the hall, on your right.",
+            "vi": "Nhà vệ sinh ở cuối hành lang, bên tay phải của bạn."
+          },
+          {
+            "en": "The rent has gone up again this year.",
+            "vi": "Tiền thuê nhà lại tăng trong năm nay."
+          },
+          {
+            "en": "I can't find my phone charger anywhere.",
+            "vi": "Tôi không tìm thấy sạc điện thoại ở đâu cả."
+          },
+          {
+            "en": "The room gets plenty of morning sunlight.",
+            "vi": "Căn phòng đón nhiều ánh nắng buổi sáng."
+          }
+        ],
+        "correctIndex": 0,
+        "explanationEn": "The question asks for a location, so the answer must give directions to the bathroom. The other options talk about rent, a charger, or sunlight.",
+        "explanationVi": "Câu hỏi hỏi về vị trí, nên câu trả lời phải chỉ đường đến nhà vệ sinh. Các lựa chọn khác nói về tiền thuê nhà, sạc điện thoại hoặc ánh nắng."
+      }
+    ],
+    "writing": {
+      "promptEn": "Write 2-3 sentences describing your home to a colleague who will visit you. Use at least two phrases from this lesson, and mention one room and how you welcome guests.",
+      "promptVi": "Viết 2-3 câu mô tả nhà của bạn cho một đồng nghiệp sẽ đến thăm bạn. Dùng ít nhất hai cụm từ trong bài học này, và nhắc đến một căn phòng cùng cách bạn đón tiếp khách.",
+      "modelEn": "Come on in and take a seat. The living room looks out onto a small balcony. The kitchen is fully equipped, with a gas cooker and a fridge-freezer.",
+      "modelVi": "Mời vào nhà và ngồi đi. Phòng khách nhìn ra một ban công nhỏ. Nhà bếp được trang bị đầy đủ, có bếp ga và tủ lạnh ngăn đông.",
+      "modelIpa": "/kʌm ɑːn ɪn ən teɪk ə siːt ðə ˈlɪvɪŋ ruːm lʊks aʊt ˈɑːntuː ə smɔːl ˈbælkəni ðə ˈkɪtʃən ɪz ˈfʊli ɪˈkwɪpt wɪð ə ɡæs ˈkʊkər ən ə frɪdʒ-ˈfriːzər/"
+    },
+    "speakModels": [
+      {
+        "termEn": "living room",
+        "en": "The living room looks out onto a small balcony.",
+        "vi": "Phòng khách nhìn ra một ban công nhỏ.",
+        "ipa": "/ðə ˈlɪvɪŋ ruːm lʊks aʊt ˈɑːntuː ə smɔːl ˈbælkəni/"
+      },
+      {
+        "termEn": "at home",
+        "en": "Make yourself at home while I put the kettle on.",
+        "vi": "Cứ tự nhiên như ở nhà trong lúc tôi đun nước.",
+        "ipa": "/meɪk jʊrˈsɛlf ət hoʊm waɪl aɪ pʊt ðə ˈkɛtl ɑːn/"
+      }
+    ]
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 0,
+        "explanationEn": "\"Allergic to\" means a food makes you ill, and \"leave them out\" means do not include them.",
+        "explanationVi": "\"Allergic to\" nghĩa là một món ăn làm bạn bị ốm, và \"leave them out\" nghĩa là đừng cho chúng vào.",
+        "options": [
+          {
+            "en": "Peanuts make me ill, so do not put them in my dish",
+            "vi": "Đậu phộng làm tôi bị ốm, nên đừng cho vào món của tôi"
+          },
+          {
+            "en": "I love peanuts and want extra peanuts in my dish",
+            "vi": "Tôi thích đậu phộng và muốn thêm đậu phộng vào món"
+          },
+          {
+            "en": "I want to take the peanuts home with me",
+            "vi": "Tôi muốn mang đậu phộng về nhà"
+          },
+          {
+            "en": "Peanuts are too expensive, so I will not order them",
+            "vi": "Đậu phộng quá đắt nên tôi sẽ không gọi"
+          }
+        ],
+        "qEn": "What does \"I'm allergic to peanuts, so please leave them out\" mean?",
+        "qVi": "\"I'm allergic to peanuts, so please leave them out\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "\"Could we have..., please?\" is a polite request, and \"when you're ready\" shows respect for the waiter's time.",
+        "explanationVi": "\"Could we have..., please?\" là mẫu câu yêu cầu lịch sự, và \"when you're ready\" thể hiện sự tôn trọng thời gian của nhân viên.",
+        "options": [
+          {
+            "en": "Bill! Now!",
+            "vi": "Hóa đơn! Ngay! (thô lỗ)"
+          },
+          {
+            "en": "I want the bill, give it.",
+            "vi": "Tôi muốn hóa đơn, đưa đây. (ra lệnh)"
+          },
+          {
+            "en": "Could we have the bill, please, when you're ready?",
+            "vi": "Cho chúng tôi xin hóa đơn khi bạn rảnh nhé?"
+          },
+          {
+            "en": "You bring bill, please?",
+            "vi": "Bạn mang hóa đơn, nhé? (sai ngữ pháp)"
+          }
+        ],
+        "qEn": "Which is the correct, polite way to ask for the bill?",
+        "qVi": "Cách nào đúng và lịch sự để xin hóa đơn?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "\"A bit too salty for my taste\" describes your own taste politely instead of blaming the cook.",
+        "explanationVi": "\"A bit too salty for my taste\" mô tả khẩu vị của chính bạn một cách lịch sự thay vì đổ lỗi cho đầu bếp.",
+        "options": [
+          {
+            "en": "This soup is terrible, take it away.",
+            "vi": "Món súp này dở tệ, mang đi đi. (thô lỗ)"
+          },
+          {
+            "en": "The soup is a bit too salty for my taste.",
+            "vi": "Món súp hơi mặn so với khẩu vị của tôi."
+          },
+          {
+            "en": "You cooked this soup badly.",
+            "vi": "Bạn nấu món súp này dở. (chê bai trực tiếp)"
+          },
+          {
+            "en": "I will never eat here again.",
+            "vi": "Tôi sẽ không bao giờ ăn ở đây nữa. (đe dọa)"
+          }
+        ],
+        "qEn": "The soup is a bit too salty for your taste. What is the most polite thing to say?",
+        "qVi": "Món súp hơi mặn so với khẩu vị của bạn. Câu nào lịch sự nhất để nói?"
+      }
+    ],
+    "lessonSlug": "ordering-at-a-restaurant",
+    "openQuestions": [
+      {
+        "aEn": "It means as the first dish, before the main course.",
+        "aVi": "Nó nghĩa là món đầu tiên, trước món chính.",
+        "qEn": "What does \"to start with\" mean in \"I'd like a bowl of noodle soup to start with\"?",
+        "qVi": "\"To start with\" trong câu \"I'd like a bowl of noodle soup to start with\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because an ingredient you are allergic to, like peanuts, could be hidden in a sauce, so the kitchen needs to leave it out to keep you safe.",
+        "aVi": "Vì một nguyên liệu bạn dị ứng, như đậu phộng, có thể ẩn trong nước sốt, nên bếp cần bỏ nó ra để đảm bảo an toàn cho bạn.",
+        "qEn": "Why is it important to tell the waiter about a food allergy when you order?",
+        "qVi": "Vì sao việc báo cho nhân viên phục vụ về dị ứng thực phẩm khi gọi món lại quan trọng?"
+      },
+      {
+        "aEn": "\"A table for two by the window, please. Could we have a look at the menu, please?\"",
+        "aVi": "\"Cho chúng tôi một bàn hai người cạnh cửa sổ. Cho chúng tôi xem thực đơn được không?\"",
+        "qEn": "You arrive at a restaurant with a colleague for a business lunch. What would you say to ask for a table?",
+        "qVi": "Bạn đến nhà hàng cùng đồng nghiệp để ăn trưa công việc. Bạn sẽ nói gì để xin bàn?"
+      }
+    ],
+    "skillEn": "Order food politely, ask about dishes, and explain what you cannot eat.",
+    "skillVi": "Gọi món lịch sự, hỏi về món ăn và giải thích những gì bạn không ăn được.",
+    "speakModels": [
+      {
+        "en": "Could we have a look at the menu, please?",
+        "ipa": "/kʊd wiː hæv ə lʊk ət ðə ˈmɛnjuː, pliːz/",
+        "termEn": "menu",
+        "vi": "Cho chúng tôi xem thực đơn được không?"
+      },
+      {
+        "en": "Could we have the bill, please, when you're ready?",
+        "ipa": "/kʊd wiː hæv ðə bɪl, pliːz, wɛn jʊr ˈrɛdi/",
+        "termEn": "bill",
+        "vi": "Cho chúng tôi xin hóa đơn khi bạn rảnh nhé?"
+      }
+    ],
+    "writing": {
+      "modelEn": "We have a business lunch tomorrow. A table for two by the window, please. I don't eat pork, but chicken and fish are fine.",
+      "modelIpa": "/wiː hæv ə ˈbɪznəs lʌntʃ təˈmɑːroʊ. ə ˈteɪbl fər tuː baɪ ðə ˈwɪndoʊ, pliːz. aɪ doʊnt iːt pɔːrk, bət ˈtʃɪkən ən fɪʃ ɑːr faɪn/",
+      "modelVi": "Ngày mai chúng tôi có bữa trưa công việc. Cho chúng tôi một bàn hai người cạnh cửa sổ. Tôi không ăn thịt heo, nhưng gà và cá thì được.",
+      "promptEn": "Write 2-3 sentences about a business lunch tomorrow. Use at least 2 phrases from this lesson, and mention one thing you do or do not eat.",
+      "promptVi": "Viết 2-3 câu về một bữa trưa công việc vào ngày mai. Dùng ít nhất 2 cụm từ trong bài học này và nêu một thứ bạn ăn hoặc không ăn."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 2,
+        "explanationEn": "\"Price range\" is the range of prices you are willing to pay, so \"out of my price range\" means too expensive for you.",
+        "explanationVi": "\"Price range\" là khoảng giá bạn sẵn sàng trả, nên \"out of my price range\" nghĩa là quá đắt so với bạn.",
+        "options": [
+          {
+            "en": "The item is exactly the price I expected",
+            "vi": "Món hàng đúng với giá tôi dự kiến"
+          },
+          {
+            "en": "The item is on sale this week",
+            "vi": "Món hàng đang giảm giá trong tuần này"
+          },
+          {
+            "en": "The item costs a bit more than I can afford",
+            "vi": "Món hàng đắt hơn một chút so với khả năng chi trả của tôi"
+          },
+          {
+            "en": "The item is cheaper in another shop",
+            "vi": "Món hàng rẻ hơn ở cửa hàng khác"
+          }
+        ],
+        "qEn": "What does \"That's a bit out of my price range\" mean?",
+        "qVi": "\"That's a bit out of my price range\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "\"Could I have..., please?\" is a polite request form, while the other options sound like orders or are grammatically incomplete.",
+        "explanationVi": "\"Could I have..., please?\" là mẫu câu yêu cầu lịch sự, còn các lựa chọn khác nghe như ra lệnh hoặc thiếu ngữ pháp.",
+        "options": [
+          {
+            "en": "Could I have a receipt, please?",
+            "vi": "Cho tôi xin hóa đơn được không?"
+          },
+          {
+            "en": "Give me a receipt now.",
+            "vi": "Đưa tôi hóa đơn ngay. (thô lỗ)"
+          },
+          {
+            "en": "I want receipt.",
+            "vi": "Tôi muốn hóa đơn. (thiếu mạo từ, kém lịch sự)"
+          },
+          {
+            "en": "You must give me a receipt.",
+            "vi": "Bạn phải đưa tôi hóa đơn. (ra lệnh)"
+          }
+        ],
+        "qEn": "Which sentence is the most polite way to ask for a receipt?",
+        "qVi": "Câu nào là cách hỏi hóa đơn lịch sự nhất?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "\"I'm just browsing\" politely tells the assistant you are only looking and do not need help yet.",
+        "explanationVi": "\"I'm just browsing\" là cách lịch sự để nói bạn chỉ đang xem và chưa cần giúp đỡ.",
+        "options": [
+          {
+            "en": "I'm comparing prices online before I buy anything.",
+            "vi": "Tôi đang so sánh giá trên mạng trước khi mua gì."
+          },
+          {
+            "en": "I'm just browsing, thanks, but I'll ask if I need help.",
+            "vi": "Cảm ơn, tôi chỉ xem thôi, nhưng tôi sẽ hỏi nếu cần giúp."
+          },
+          {
+            "en": "I'll take the grey one, please.",
+            "vi": "Tôi sẽ lấy cái màu xám, làm ơn."
+          },
+          {
+            "en": "Can I return this if it doesn't fit?",
+            "vi": "Tôi có thể trả lại món này nếu nó không vừa không?"
+          }
+        ],
+        "qEn": "A shop assistant asks if you need help, but you only want to look around. What should you say?",
+        "qVi": "Nhân viên hỏi bạn có cần giúp không, nhưng bạn chỉ muốn xem quanh. Bạn nên nói gì?"
+      }
+    ],
+    "lessonSlug": "shopping-for-items",
+    "openQuestions": [
+      {
+        "aEn": "\"In stock\" means the shop has the item available to sell now, as in: \"Do you have a smaller size in stock?\"",
+        "aVi": "\"In stock\" nghĩa là cửa hàng hiện có sẵn món hàng để bán, ví dụ: \"Do you have a smaller size in stock?\" (Bạn còn cỡ nhỏ hơn trong kho không?)",
+        "qEn": "What does \"in stock\" mean?",
+        "qVi": "\"In stock\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because you may find at home that it does not fit, so you need to know if you can return it or swap it for another size.",
+        "aVi": "Vì về nhà bạn có thể thấy áo không vừa, nên bạn cần biết mình có thể trả lại hay đổi sang cỡ khác không.",
+        "qEn": "Why should you ask about returns before you buy a jacket for work?",
+        "qVi": "Vì sao bạn nên hỏi về chính sách trả hàng trước khi mua áo khoác đi làm?"
+      },
+      {
+        "aEn": "\"It's a little too tight around the waist. Can I swap it for a larger size?\"",
+        "aVi": "\"Nó hơi chật ở phần eo. Tôi đổi sang cỡ lớn hơn được không?\"",
+        "qEn": "You try on a jacket and it is a little too tight around the waist. What would you say to the shop assistant?",
+        "qVi": "Bạn thử một chiếc áo khoác và thấy hơi chật ở phần eo. Bạn sẽ nói gì với nhân viên bán hàng?"
+      }
+    ],
+    "skillEn": "Ask about sizes, colours, prices and returns when shopping for clothes.",
+    "skillVi": "Hỏi về cỡ, màu sắc, giá cả và đổi trả khi mua quần áo.",
+    "speakModels": [
+      {
+        "en": "Do you have a smaller size in stock?",
+        "ipa": "/duː juː hæv ə ˈsmɔːlər saɪz ɪn stɑːk/",
+        "termEn": "smaller size",
+        "vi": "Bạn còn cỡ nhỏ hơn trong kho không?"
+      },
+      {
+        "en": "Is there any discount if I buy two?",
+        "ipa": "/ɪz ðɛər ˈɛni ˈdɪskaʊnt ɪf aɪ baɪ tuː/",
+        "termEn": "discount",
+        "vi": "Có giảm giá nếu tôi mua hai cái không?"
+      }
+    ],
+    "writing": {
+      "modelEn": "I bought a jacket last week, but it is a little too tight around the waist. Can I swap it for a larger size? Could I have a receipt, please, for the exchange?",
+      "modelIpa": "/aɪ bɔːt ə ˈdʒækɪt læst wiːk, bət ɪt ɪz ə ˈlɪtl tuː taɪt əˈraʊnd ðə weɪst. kæn aɪ swɑːp ɪt fər ə ˈlɑːrdʒər saɪz. kʊd aɪ hæv ə rɪˈsiːt, pliːz, fər ðiː ɪksˈtʃeɪndʒ/",
+      "modelVi": "Tôi đã mua một chiếc áo khoác tuần trước, nhưng nó hơi chật ở phần eo. Tôi đổi sang cỡ lớn hơn được không? Cho tôi xin hóa đơn cho việc đổi hàng được không?",
+      "promptEn": "Write 2-3 sentences to a shop about a jacket you bought that does not fit well. Use at least 2 phrases from this lesson, and say what you would like the shop to do.",
+      "promptVi": "Viết 2-3 câu gửi cửa hàng về một chiếc áo khoác bạn đã mua nhưng không vừa. Dùng ít nhất 2 cụm từ trong bài học này và nói bạn muốn cửa hàng làm gì."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 1,
+        "explanationEn": "\"Rush hour\" is the busy morning or evening period when roads and public transport are crowded with commuters.",
+        "explanationVi": "\"Rush hour\" là khoảng thời gian đông đúc buổi sáng hoặc buổi chiều khi đường sá và phương tiện công cộng chật kín người đi làm.",
+        "options": [
+          {
+            "en": "The time when trains run fastest",
+            "vi": "Thời gian tàu chạy nhanh nhất"
+          },
+          {
+            "en": "The busy time of day when many people travel to or from work",
+            "vi": "Thời gian cao điểm trong ngày khi nhiều người đi làm hoặc tan làm"
+          },
+          {
+            "en": "The last hour before a station closes",
+            "vi": "Giờ cuối cùng trước khi nhà ga đóng cửa"
+          },
+          {
+            "en": "An hour when all travel is free",
+            "vi": "Một giờ mà mọi chuyến đi đều miễn phí"
+          }
+        ],
+        "qEn": "What does \"rush hour\" mean?",
+        "qVi": "\"Rush hour\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "\"I'd like\" plus \"please\" is the polite request form for buying a ticket, and it is a statement, not a question.",
+        "explanationVi": "\"I'd like\" cùng \"please\" là mẫu câu yêu cầu lịch sự khi mua vé, và đó là câu trần thuật, không phải câu hỏi.",
+        "options": [
+          {
+            "en": "I'd like a one-way ticket to the central station, please.",
+            "vi": "Tôi muốn mua vé một chiều tới ga trung tâm."
+          },
+          {
+            "en": "I'd like a one-way ticket to the central station, please?",
+            "vi": "Câu này dùng sai dấu câu cho câu yêu cầu lịch sự."
+          },
+          {
+            "en": "I like a one-way ticket to the central station, please.",
+            "vi": "Tôi thích vé một chiều... (sai động từ cho yêu cầu mua)"
+          },
+          {
+            "en": "I'd like a one-way ticket at the central station, please.",
+            "vi": "Tôi muốn mua vé một chiều tại ga trung tâm. (sai giới từ: vé đi tới ga, không phải tại ga)"
+          }
+        ],
+        "qEn": "Which sentence is correct for buying a ticket?",
+        "qVi": "Câu nào đúng khi mua vé?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "The lesson phrase \"Let's take the underground; it'll be much faster\" shows the useful response to a delay: switch to a faster option.",
+        "explanationVi": "Cụm từ trong bài \"Let's take the underground; it'll be much faster\" cho thấy cách xử lý khi bị trễ: chuyển sang phương án nhanh hơn.",
+        "options": [
+          {
+            "en": "Wait without telling anyone and hope the meeting waits",
+            "vi": "Cứ đợi mà không báo ai và hy vọng cuộc họp sẽ đợi"
+          },
+          {
+            "en": "Walk home and skip the meeting",
+            "vi": "Đi bộ về nhà và bỏ cuộc họp"
+          },
+          {
+            "en": "Take a taxi or the underground if it will be much faster",
+            "vi": "Đi taxi hoặc tàu điện ngầm nếu nhanh hơn nhiều"
+          },
+          {
+            "en": "Get on any bus, even if it goes the wrong way",
+            "vi": "Lên bất kỳ xe buýt nào, kể cả đi sai hướng"
+          }
+        ],
+        "qEn": "The bus is running twenty minutes late and you have a meeting soon. What is the best thing to do?",
+        "qVi": "Xe buýt đang trễ hai mươi phút và bạn sắp có cuộc họp. Việc tốt nhất nên làm là gì?"
+      }
+    ],
+    "lessonSlug": "getting-around-town",
+    "openQuestions": [
+      {
+        "aEn": "A single fare is the price of a ticket for one journey in one direction only, not a return trip.",
+        "aVi": "Single fare là giá vé cho một chuyến đi một chiều duy nhất, không phải vé khứ hồi.",
+        "qEn": "What does \"a single fare\" mean?",
+        "qVi": "\"A single fare\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because if you miss the last train, you may get stuck in town after midnight and need an expensive taxi home.",
+        "aVi": "Vì nếu lỡ chuyến tàu cuối, bạn có thể bị kẹt lại trong thành phố sau nửa đêm và phải đi taxi đắt tiền về nhà.",
+        "qEn": "Why should you ask what time the last train leaves before a late evening out?",
+        "qVi": "Vì sao bạn nên hỏi chuyến tàu cuối cùng khởi hành lúc mấy giờ trước một buổi tối muộn?"
+      },
+      {
+        "aEn": "\"Please take me to this address, and avoid the motorway if you can.\"",
+        "aVi": "\"Làm ơn đưa tôi đến địa chỉ này, và tránh đường cao tốc nếu được.\"",
+        "qEn": "You get into a taxi and want to go to a hotel, but you do not want to use the motorway. What would you say to the driver?",
+        "qVi": "Bạn lên taxi và muốn đến khách sạn, nhưng không muốn đi đường cao tốc. Bạn sẽ nói gì với tài xế?"
+      }
+    ],
+    "skillEn": "Use buses, trains and taxis to get around town and deal with delays.",
+    "skillVi": "Di chuyển trong thành phố bằng xe buýt, tàu và taxi, và xử lý khi bị trễ.",
+    "speakModels": [
+      {
+        "en": "Where's the nearest bus stop to the museum?",
+        "ipa": "/wɛərz ðə ˈnɪərɪst bʌs stɑːp tə ðə mjuːˈziːəm/",
+        "termEn": "bus stop",
+        "vi": "Trạm xe buýt gần nhất tới bảo tàng ở đâu?"
+      },
+      {
+        "en": "I need a return ticket for tomorrow morning.",
+        "ipa": "/aɪ niːd ə rɪˈtɜːrn ˈtɪkɪt fər təˈmɑːroʊ ˈmɔːrnɪŋ/",
+        "termEn": "return ticket",
+        "vi": "Tôi cần vé khứ hồi cho sáng mai."
+      }
+    ],
+    "writing": {
+      "modelEn": "My flight leaves early tomorrow. I need to catch a taxi to the airport, but the traffic is really heavy this morning. How long does the journey usually take at rush hour?",
+      "modelIpa": "/maɪ flaɪt liːvz ˈɜːrli təˈmɑːroʊ. aɪ niːd tə kætʃ ə ˈtæksi tə ðiː ˈɛərpɔːrt, bət ðə ˈtræfɪk ɪz ˈrɪəli ˈhɛvi ðɪs ˈmɔːrnɪŋ. haʊ lɔːŋ dʌz ðə ˈdʒɜːrni ˈjuːʒuəli teɪk ət rʌʃ aʊər/",
+      "modelVi": "Chuyến bay của tôi khởi hành sớm vào ngày mai. Tôi cần bắt taxi ra sân bay, nhưng giao thông sáng nay thực sự đông đúc. Hành trình thường mất bao lâu vào giờ cao điểm?",
+      "promptEn": "Write 2-3 sentences to a colleague about getting to the airport tomorrow. Use at least 2 phrases from this lesson, and mention traffic or journey time.",
+      "promptVi": "Viết 2-3 câu cho một đồng nghiệp về việc ra sân bay ngày mai. Dùng ít nhất 2 cụm từ trong bài học này và nhắc đến giao thông hoặc thời gian di chuyển."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 3,
+        "explanationEn": "A zebra crossing has black and white stripes like a zebra, and it marks where pedestrians should cross the road.",
+        "explanationVi": "Vạch zebra có các sọc đen trắng như ngựa vằn, và đánh dấu nơi người đi bộ nên băng qua đường.",
+        "options": [
+          {
+            "en": "A road where cars drive very fast",
+            "vi": "Một con đường xe chạy rất nhanh"
+          },
+          {
+            "en": "A bridge only for bicycles",
+            "vi": "Một cây cầu chỉ dành cho xe đạp"
+          },
+          {
+            "en": "A place where a zoo keeps zebras",
+            "vi": "Một nơi sở thú nuôi ngựa vằn"
+          },
+          {
+            "en": "A marked place on the road where people can cross safely",
+            "vi": "Một vị trí được kẻ vạch trên đường để người đi bộ qua đường an toàn"
+          }
+        ],
+        "qEn": "What is a \"zebra crossing\"?",
+        "qVi": "\"Zebra crossing\" là gì?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "Directions use the imperative \"Turn left\" plus \"at the corner\" and a landmark introduced by \"by\".",
+        "explanationVi": "Câu chỉ đường dùng mệnh lệnh \"Turn left\" cùng \"at the corner\" và một mốc địa điểm giới thiệu bằng \"by\".",
+        "options": [
+          {
+            "en": "Left at the corner you turn, by the pharmacy.",
+            "vi": "Rẽ trái ở góc đường bạn rẽ, cạnh hiệu thuốc. (sai thứ tự từ)"
+          },
+          {
+            "en": "Turn left at the corner, by the pharmacy.",
+            "vi": "Rẽ trái ở góc đường, cạnh hiệu thuốc."
+          },
+          {
+            "en": "Turn left at corner, by pharmacy.",
+            "vi": "Rẽ trái ở góc đường, cạnh hiệu thuốc. (thiếu mạo từ)"
+          },
+          {
+            "en": "Turning left at the corner, by the pharmacy, please go.",
+            "vi": "Đang rẽ trái ở góc đường... (không phải mẫu câu mệnh lệnh)"
+          }
+        ],
+        "qEn": "Which sentence gives a correct direction?",
+        "qVi": "Câu nào chỉ đường đúng?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "Only this answer gives the bank's location, using a clear landmark as in the lesson phrases.",
+        "explanationVi": "Chỉ câu trả lời này cho biết vị trí của ngân hàng, dùng một mốc rõ ràng như trong các cụm từ của bài học.",
+        "options": [
+          {
+            "en": "The bank is right next to the supermarket.",
+            "vi": "Ngân hàng nằm ngay cạnh siêu thị."
+          },
+          {
+            "en": "Banks are very important in a town.",
+            "vi": "Ngân hàng rất quan trọng trong một thành phố."
+          },
+          {
+            "en": "I do not like banks at all.",
+            "vi": "Tôi hoàn toàn không thích ngân hàng."
+          },
+          {
+            "en": "The bank opens in the morning.",
+            "vi": "Ngân hàng mở cửa vào buổi sáng."
+          }
+        ],
+        "qEn": "A visitor asks: \"Excuse me, where's the nearest bank?\" Which answer is most helpful?",
+        "qVi": "Một vị khách hỏi: \"Excuse me, where's the nearest bank?\" Câu trả lời nào hữu ích nhất?"
+      }
+    ],
+    "lessonSlug": "asking-for-directions",
+    "openQuestions": [
+      {
+        "aEn": "It means the place is close enough to walk to easily, without needing a bus, taxi or car.",
+        "aVi": "Nó nghĩa là địa điểm đủ gần để đi bộ tới một cách dễ dàng, không cần xe buýt, taxi hay ô tô.",
+        "qEn": "What does \"within easy walking distance\" mean?",
+        "qVi": "\"Within easy walking distance\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because walking further in the wrong direction wastes time, and a local person can correct a wrong turn quickly.",
+        "aVi": "Vì đi xa hơn theo hướng sai sẽ tốn thời gian, và người địa phương có thể sửa hướng rẽ sai một cách nhanh chóng.",
+        "qEn": "Why is it better to ask someone for directions before you go any further when you are lost?",
+        "qVi": "Vì sao khi bị lạc, hỏi ai đó chỉ đường trước khi đi xa hơn lại tốt hơn?"
+      },
+      {
+        "aEn": "\"Go straight on past the post office. Turn left at the corner, by the pharmacy, and the café is across from the park.\"",
+        "aVi": "\"Đi thẳng qua bưu điện. Rẽ trái ở góc đường, cạnh hiệu thuốc, và quán cà phê nằm đối diện công viên.\"",
+        "qEn": "A visitor asks how to get to the café on the corner. What would you say, using two directions from this lesson?",
+        "qVi": "Một vị khách hỏi đường đến quán cà phê ở góc đường. Bạn sẽ nói gì, dùng hai cách chỉ đường trong bài học này?"
+      }
+    ],
+    "skillEn": "Ask for directions and give clear step-by-step directions to a place.",
+    "skillVi": "Hỏi đường và chỉ đường từng bước rõ ràng đến một địa điểm.",
+    "speakModels": [
+      {
+        "en": "How do I get to the railway station from here?",
+        "ipa": "/haʊ duː aɪ ɡɛt tə ðə ˈreɪlweɪ ˈsteɪʃən frəm hɪər/",
+        "termEn": "railway station",
+        "vi": "Tôi đến ga xe lửa từ đây bằng cách nào?"
+      },
+      {
+        "en": "Turn right at the second set of traffic lights.",
+        "ipa": "/tɜːrn raɪt ət ðə ˈsɛkənd sɛt əv ˈtræfɪk laɪts/",
+        "termEn": "traffic lights",
+        "vi": "Rẽ phải ở cụm đèn giao thông thứ hai."
+      }
+    ],
+    "writing": {
+      "modelEn": "Go straight on past the post office. Turn left at the corner, by the pharmacy. The café is across from the park, on the corner.",
+      "modelIpa": "/ɡoʊ streɪt ɑːn pæst ðə poʊst ˈɔːfɪs. tɜːrn lɛft ət ðə ˈkɔːrnər, baɪ ðə ˈfɑːrməsi. ðə kæˈfeɪ ɪz əˈkrɔːs frəm ðə pɑːrk, ɑːn ðə ˈkɔːrnər/",
+      "modelVi": "Đi thẳng qua bưu điện. Rẽ trái ở góc đường, cạnh hiệu thuốc. Quán cà phê nằm đối diện công viên, ở góc đường.",
+      "promptEn": "Write 2-3 sentences giving directions to a visitor going from your office to a café. Use at least 2 phrases from this lesson, and mention one landmark.",
+      "promptVi": "Viết 2-3 câu chỉ đường cho một vị khách đi từ văn phòng của bạn đến một quán cà phê. Dùng ít nhất 2 cụm từ trong bài học này và nhắc đến một mốc địa điểm."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 1,
+        "explanationEn": "\"On board with\" means agreeing with and supporting a plan or idea.",
+        "explanationVi": "\"On board with\" nghĩa là đồng ý và ủng hộ một kế hoạch hay ý tưởng.",
+        "options": [
+          {
+            "en": "I have heard your idea but I need more time to think.",
+            "vi": "Tôi đã nghe ý tưởng của bạn nhưng cần thêm thời gian suy nghĩ."
+          },
+          {
+            "en": "I completely agree with and support your idea.",
+            "vi": "Tôi hoàn toàn đồng ý và ủng hộ ý tưởng của bạn."
+          },
+          {
+            "en": "I do not understand your idea at all.",
+            "vi": "Tôi hoàn toàn không hiểu ý tưởng của bạn."
+          },
+          {
+            "en": "I am too busy to discuss your idea.",
+            "vi": "Tôi quá bận nên không thể thảo luận ý tưởng của bạn."
+          }
+        ],
+        "qEn": "What does \"I'm totally on board with your idea\" mean?",
+        "qVi": "\"I'm totally on board with your idea\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "\"Could you...?\" is a polite request form, while orders and demands sound rude at work.",
+        "explanationVi": "\"Could you...?\" là dạng yêu cầu lịch sự, còn ra lệnh hay đòi hỏi nghe có vẻ thô lỗ trong công việc.",
+        "options": [
+          {
+            "en": "Could you forward me the file?",
+            "vi": "Bạn có thể chuyển tiếp tệp đó cho tôi không?"
+          },
+          {
+            "en": "Forward me the file now!",
+            "vi": "Chuyển ngay tệp đó cho tôi!"
+          },
+          {
+            "en": "You must forward me the file.",
+            "vi": "Bạn phải chuyển tiếp tệp đó cho tôi."
+          },
+          {
+            "en": "Where is my file?",
+            "vi": "Tệp của tôi đâu?"
+          }
+        ],
+        "qEn": "Which is the most polite way to ask a colleague to send you a file?",
+        "qVi": "Cách nào lịch sự nhất để nhờ đồng nghiệp gửi cho bạn một tệp?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "This sentence directly answers the question about the new deadline.",
+        "explanationVi": "Câu này trả lời trực tiếp câu hỏi về hạn chót mới.",
+        "options": [
+          {
+            "en": "Let's put this off until tomorrow.",
+            "vi": "Chúng ta hãy hoãn việc này đến ngày mai."
+          },
+          {
+            "en": "I'm running a bit behind this morning.",
+            "vi": "Sáng nay tôi hơi trễ một chút."
+          },
+          {
+            "en": "The deadline has been moved to Friday.",
+            "vi": "Hạn chót đã được dời sang thứ Sáu."
+          },
+          {
+            "en": "Could you take down the main points?",
+            "vi": "Bạn có thể ghi lại các ý chính không?"
+          }
+        ],
+        "qEn": "A colleague asks: \"When's the deadline for this project?\" The deadline is now Friday. What do you answer?",
+        "qVi": "Đồng nghiệp hỏi: \"Hạn chót của dự án này là khi nào?\" Hạn chót giờ là thứ Sáu. Bạn trả lời thế nào?"
+      }
+    ],
+    "lessonSlug": "office-communication",
+    "openQuestions": [
+      {
+        "aEn": "It means you will tell the other person about any changes as soon as you know them, so they are not surprised later.",
+        "aVi": "Nghĩa là bạn sẽ báo cho người kia về bất kỳ thay đổi nào ngay khi bạn biết, để họ không bị bất ngờ sau đó.",
+        "qEn": "What does \"I'll keep you posted on any changes\" mean?",
+        "qVi": "\"I'll keep you posted on any changes\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because asking politely helps you understand the task correctly and avoids mistakes, and it shows you are paying attention.",
+        "aVi": "Vì hỏi một cách lịch sự giúp bạn hiểu đúng nhiệm vụ và tránh sai sót, đồng thời cho thấy bạn đang chú ý lắng nghe.",
+        "qEn": "Why is it better to say \"Could you run that by me again?\" when you do not understand a colleague, instead of staying silent?",
+        "qVi": "Vì sao khi không hiểu đồng nghiệp, nói \"Could you run that by me again?\" tốt hơn là im lặng?"
+      },
+      {
+        "aEn": "I would say: \"I'm still working on the presentation. I need a couple more days to wrap it up, but I'll keep you posted on any changes.\"",
+        "aVi": "Tôi sẽ nói: \"Tôi vẫn đang làm bài thuyết trình. Tôi cần thêm vài ngày để hoàn tất, nhưng tôi sẽ báo cho bạn về bất kỳ thay đổi nào.\"",
+        "qEn": "Your manager asks when the report will be ready, but you need more time. What would you say?",
+        "qVi": "Quản lý hỏi khi nào báo cáo sẽ xong, nhưng bạn cần thêm thời gian. Bạn sẽ nói gì?"
+      }
+    ],
+    "skillEn": "Give clear updates about meetings, deadlines and documents at work",
+    "skillVi": "Cập nhật rõ ràng về cuộc họp, hạn chót và tài liệu trong công việc",
+    "speakModels": [
+      {
+        "en": "I'll keep you posted on any changes.",
+        "ipa": "/aɪl kiːp ju ˈpoʊstɪd ɑn ˈɛni ˈtʃeɪndʒɪz/",
+        "termEn": "keep you posted",
+        "vi": "Tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào."
+      },
+      {
+        "en": "Let me double-check the schedule before the meeting.",
+        "ipa": "/lɛt mi ˈdʌbəl tʃɛk ðə ˈskɛdʒuːl bɪˈfɔːr ðə ˈmiːtɪŋ/",
+        "termEn": "double-check the schedule",
+        "vi": "Để tôi kiểm tra lại lịch trình trước cuộc họp."
+      }
+    ],
+    "writing": {
+      "modelEn": "The meeting has been pushed back to next week. I should finish it by the end of the day, and I'll keep you posted on any changes.",
+      "modelIpa": "/ðə ˈmiːtɪŋ həz bɪn pʊʃt bæk tə nɛkst wiːk. aɪ ʃʊd ˈfɪnɪʃ ɪt baɪ ðiː ɛnd əv ðə deɪ, ən aɪl kiːp ju ˈpoʊstɪd ɑn ˈɛni ˈtʃeɪndʒɪz/",
+      "modelVi": "Cuộc họp đã bị dời lại sang tuần sau. Tôi nên hoàn thành việc đó trước cuối ngày, và tôi sẽ thông báo cho bạn về bất kỳ thay đổi nào.",
+      "promptEn": "Write 2-3 sentences to a colleague: tell them the meeting has been moved, say when you will finish your work, and promise to update them. Use at least 2 phrases from this lesson.",
+      "promptVi": "Viết 2-3 câu cho một đồng nghiệp: báo rằng cuộc họp đã được dời lại, nói khi nào bạn sẽ hoàn thành công việc, và hứa sẽ cập nhật cho họ. Dùng ít nhất 2 cụm từ trong bài này."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 0,
+        "explanationEn": "\"Follow up on\" means to check again about something mentioned before.",
+        "explanationVi": "\"Follow up on\" nghĩa là hỏi lại về một việc đã đề cập trước đó.",
+        "options": [
+          {
+            "en": "I am writing about my earlier email because I have not had a reply yet.",
+            "vi": "Tôi viết về email trước đó vì tôi vẫn chưa nhận được phản hồi."
+          },
+          {
+            "en": "I am cancelling my previous email.",
+            "vi": "Tôi đang hủy email trước đó của mình."
+          },
+          {
+            "en": "I am sending my first email to you.",
+            "vi": "Tôi đang gửi email đầu tiên cho bạn."
+          },
+          {
+            "en": "I am replying to your email from today.",
+            "vi": "Tôi đang trả lời email hôm nay của bạn."
+          }
+        ],
+        "qEn": "What does \"Just following up on my previous email\" mean at the start of an email?",
+        "qVi": "\"Just following up on my previous email\" ở đầu email có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "After \"look forward to\", use a verb with -ing: \"hearing\".",
+        "explanationVi": "Sau \"look forward to\" dùng động từ thêm -ing: \"hearing\".",
+        "options": [
+          {
+            "en": "I look forward to hear from you soon.",
+            "vi": "Tôi mong sớm nhận được phản hồi từ bạn. (sai ngữ pháp)"
+          },
+          {
+            "en": "I looking forward to hearing from you soon.",
+            "vi": "Tôi mong sớm nhận được phản hồi từ bạn. (sai ngữ pháp)"
+          },
+          {
+            "en": "I look forward to hearing from you soon.",
+            "vi": "Tôi mong sớm nhận được phản hồi từ bạn."
+          },
+          {
+            "en": "I look forward hearing from you soon.",
+            "vi": "Tôi mong sớm nhận được phản hồi từ bạn. (sai ngữ pháp)"
+          }
+        ],
+        "qEn": "Which is the correct polite closing for a work email?",
+        "qVi": "Câu kết email công việc nào sau đây là đúng và lịch sự?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "This sentence politely explains the hearing problem so the caller can speak louder or call back.",
+        "explanationVi": "Câu này lịch sự giải thích vấn đề nghe không rõ, để người gọi có thể nói to hơn hoặc gọi lại.",
+        "options": [
+          {
+            "en": "May I speak with Ms. Anna, please?",
+            "vi": "Tôi có thể nói chuyện với cô Anna được không?"
+          },
+          {
+            "en": "I'm sorry, I can barely hear you.",
+            "vi": "Xin lỗi, tôi hầu như không nghe thấy bạn."
+          },
+          {
+            "en": "Please leave a message after the tone.",
+            "vi": "Vui lòng để lại lời nhắn sau tiếng bíp."
+          },
+          {
+            "en": "I left a voicemail with my number.",
+            "vi": "Tôi đã để lại lời nhắn thoại kèm số điện thoại của tôi."
+          }
+        ],
+        "qEn": "During a call, you can hardly hear the other person. What do you say?",
+        "qVi": "Trong một cuộc gọi, bạn hầu như không nghe thấy người kia. Bạn nói gì?"
+      }
+    ],
+    "lessonSlug": "phone-calls-and-emails",
+    "openQuestions": [
+      {
+        "aEn": "It means the person will connect your call to the manager, so you can speak to the manager directly.",
+        "aVi": "Nghĩa là người đó sẽ nối máy cho bạn gặp quản lý, để bạn có thể nói chuyện trực tiếp với quản lý.",
+        "qEn": "What does \"I'll put you through to the manager\" mean on a phone call?",
+        "qVi": "\"I'll put you through to the manager\" trong một cuộc gọi có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because it politely asks permission and shows respect for the caller's time, so the caller is less likely to feel ignored or annoyed.",
+        "aVi": "Vì câu này lịch sự xin phép và thể hiện sự tôn trọng thời gian của người gọi, nên người gọi ít cảm thấy bị phớt lờ hay khó chịu hơn.",
+        "qEn": "Why do people say \"Would you mind holding for a moment?\" instead of just putting a caller on hold without a word?",
+        "qVi": "Vì sao người ta nói \"Would you mind holding for a moment?\" thay vì cứ để người gọi chờ máy mà không nói gì?"
+      },
+      {
+        "aEn": "I would say: \"I'm afraid the line is busy right now. Could you call me back at your convenience?\"",
+        "aVi": "Tôi sẽ nói: \"Rất tiếc, đường dây hiện đang bận. Bạn có thể gọi lại cho tôi khi thuận tiện không?\"",
+        "qEn": "You call a company, but the line is busy and you need to talk later. What would you say?",
+        "qVi": "Bạn gọi cho một công ty nhưng đường dây đang bận và bạn cần nói chuyện sau. Bạn sẽ nói gì?"
+      }
+    ],
+    "skillEn": "Make and handle phone calls and write polite work emails",
+    "skillVi": "Thực hiện và xử lý cuộc gọi điện thoại, đồng thời viết email công việc lịch sự",
+    "speakModels": [
+      {
+        "en": "May I speak with Ms. Anna, please?",
+        "ipa": "/meɪ aɪ spiːk wɪð mɪz ˈænə, pliːz/",
+        "termEn": "speak with Ms. Anna",
+        "vi": "Tôi có thể nói chuyện với cô Anna được không?"
+      },
+      {
+        "en": "Could you call me back at your convenience?",
+        "ipa": "/kʊd ju kɔːl mi bæk ət jʊr kənˈviːniəns/",
+        "termEn": "call me back",
+        "vi": "Bạn có thể gọi lại cho tôi khi thuận tiện không?"
+      }
+    ],
+    "writing": {
+      "modelEn": "Just following up on my previous email. I've attached the contract for your review. I look forward to hearing from you soon.",
+      "modelIpa": "/dʒʌst ˈfɑːloʊɪŋ ʌp ɑːn maɪ ˈpriːviəs ˈiːmeɪl. aɪv əˈtætʃt ðə ˈkɑːntrækt fər jʊr rɪˈvjuː. aɪ lʊk ˈfɔːrwərd tə ˈhɪrɪŋ frəm ju suːn/",
+      "modelVi": "Tôi chỉ hỏi tiếp về email trước đó của tôi. Tôi đã đính kèm hợp đồng để bạn xem xét. Tôi mong sớm nhận được phản hồi từ bạn.",
+      "promptEn": "Write 2-3 sentences as a follow-up email: refer to your previous email, say you have attached a contract for review, and close politely. Use at least 2 phrases from this lesson.",
+      "promptVi": "Viết 2-3 câu dưới dạng email hỏi tiếp: nhắc đến email trước đó, nói bạn đã đính kèm hợp đồng để xem xét, và kết thư lịch sự. Dùng ít nhất 2 cụm từ trong bài này."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 1,
+        "explanationEn": "'Steady progress, little by little' means gradual improvement over time, not fast learning in one day or stopping.",
+        "explanationVi": "'Steady progress, little by little' nghĩa là tiến bộ dần dần theo thời gian, không phải học nhanh trong một ngày hay ngừng học.",
+        "options": [
+          {
+            "en": "I am learning very fast in one day.",
+            "vi": "Tôi đang học rất nhanh trong một ngày."
+          },
+          {
+            "en": "I am improving gradually, step by step.",
+            "vi": "Tôi đang tiến bộ dần dần, từng bước một."
+          },
+          {
+            "en": "I have stopped learning completely.",
+            "vi": "Tôi đã ngừng học hoàn toàn."
+          },
+          {
+            "en": "I learn only when I have a test.",
+            "vi": "Tôi chỉ học khi có bài kiểm tra."
+          }
+        ],
+        "qEn": "What does 'I'm making steady progress, little by little' mean?",
+        "qVi": "'I'm making steady progress, little by little' có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "'Could you slow down a little, please?' is polite and correct; 'Speak slow!' is also ungrammatical, since it should be 'slowly'.",
+        "explanationVi": "'Could you slow down a little, please?' lịch sự và đúng; 'Speak slow!' cũng sai ngữ pháp, vì phải là 'slowly'.",
+        "options": [
+          {
+            "en": "Could you slow down a little, please?",
+            "vi": "Bạn có thể nói chậm lại một chút được không?"
+          },
+          {
+            "en": "Speak slow!",
+            "vi": "Nói chậm lại!"
+          },
+          {
+            "en": "You speak too fast, stop it.",
+            "vi": "Bạn nói quá nhanh, dừng lại đi."
+          },
+          {
+            "en": "Slow down now.",
+            "vi": "Chậm lại ngay."
+          }
+        ],
+        "qEn": "Which is the most polite way to ask a trainer to speak more slowly?",
+        "qVi": "Câu nào là cách lịch sự nhất để nhờ giảng viên nói chậm hơn?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "'The word just slipped my mind' describes forgetting; 'It just came back to me' means you have remembered it again, which is the opposite moment.",
+        "explanationVi": "'The word just slipped my mind' mô tả việc quên; 'It just came back to me' nghĩa là bạn vừa nhớ lại, đó là thời điểm ngược lại.",
+        "options": [
+          {
+            "en": "Let's prepare a short presentation for Friday.",
+            "vi": "Chúng ta hãy chuẩn bị một bài thuyết trình ngắn cho thứ Sáu."
+          },
+          {
+            "en": "It just came back to me.",
+            "vi": "Tôi chợt nhớ ra rồi."
+          },
+          {
+            "en": "The word just slipped my mind. Let me have another go at it.",
+            "vi": "Tôi chợt quên mất từ đó. Để tôi thử lại lần nữa."
+          },
+          {
+            "en": "Could you write the new words on the board?",
+            "vi": "Bạn có thể viết các từ mới lên bảng không?"
+          }
+        ],
+        "qEn": "During a workplace presentation, a word suddenly leaves your mind. What should you say?",
+        "qVi": "Trong một bài thuyết trình tại nơi làm việc, bạn chợt quên mất một từ. Bạn nên nói gì?"
+      }
+    ],
+    "lessonSlug": "classroom-and-learning",
+    "openQuestions": [
+      {
+        "aEn": "It means the meaning of the word as it is used in that sentence or situation, not just its dictionary meaning on its own.",
+        "aVi": "Nghĩa là ý nghĩa của từ khi được dùng trong câu hoặc tình huống đó, chứ không chỉ là nghĩa trong từ điển một cách riêng lẻ.",
+        "qEn": "What does 'in context' mean in 'What exactly does this word mean in context?'",
+        "qVi": "'In context' trong câu 'What exactly does this word mean in context?' có nghĩa là gì?"
+      },
+      {
+        "aEn": "It helps you understand the point correctly instead of guessing, and it shows the trainer exactly where you need more help.",
+        "aVi": "Câu này giúp bạn hiểu đúng ý thay vì đoán mò, và cho giảng viên biết chính xác chỗ bạn cần được giúp thêm.",
+        "qEn": "Why is it helpful to say 'Could you slow down a little, please?' or 'Could you go over that part again?' in training?",
+        "qVi": "Tại sao trong khóa đào tạo, nói 'Could you slow down a little, please?' hoặc 'Could you go over that part again?' lại hữu ích?"
+      },
+      {
+        "aEn": "You could say, 'I keep mixing up these two words. What's the difference between these two words? Could you give me an example in a sentence?'",
+        "aVi": "Bạn có thể nói: 'Tôi cứ nhầm lẫn hai từ này với nhau. Hai từ này khác nhau ở điểm nào? Bạn có thể cho tôi một ví dụ trong một câu không?'",
+        "qEn": "In a training session, you keep mixing up two new words. What would you say to the trainer?",
+        "qVi": "Trong một buổi đào tạo, bạn cứ nhầm lẫn hai từ mới với nhau. Bạn sẽ nói gì với giảng viên?"
+      }
+    ],
+    "skillEn": "Ask clear questions in adult training and practise new English regularly.",
+    "skillVi": "Đặt câu hỏi rõ ràng trong các khóa đào tạo dành cho người lớn và luyện tiếng Anh mới thường xuyên.",
+    "speakModels": [
+      {
+        "en": "Could you slow down a little, please?",
+        "ipa": "/kʊd ju sloʊ daʊn ə ˈlɪtəl pliːz/",
+        "termEn": "slow down",
+        "vi": "Bạn có thể nói chậm lại một chút được không?"
+      },
+      {
+        "en": "I need to practise speaking more regularly.",
+        "ipa": "/aɪ niːd tə ˈpræktɪs ˈspiːkɪŋ mɔːr ˈrɛɡjələrli/",
+        "termEn": "practise speaking",
+        "vi": "Tôi cần luyện nói thường xuyên hơn."
+      }
+    ],
+    "writing": {
+      "modelEn": "Let's prepare a short presentation for Friday. I need to practise speaking more regularly, so let's go over the lesson one more time.",
+      "modelIpa": "/lɛts prɪˈpɛr ə ʃɔːrt ˌprɛzənˈteɪʃən fər ˈfraɪdeɪ aɪ niːd tə ˈpræktɪs ˈspiːkɪŋ mɔːr ˈrɛɡjələrli soʊ lɛts ɡoʊ ˈoʊvər ðə ˈlɛsən wʌn mɔːr taɪm/",
+      "modelVi": "Chúng ta hãy chuẩn bị một bài thuyết trình ngắn cho thứ Sáu. Tôi cần luyện nói thường xuyên hơn, vì vậy chúng ta hãy ôn lại bài học thêm một lần nữa.",
+      "promptEn": "Write 2–3 sentences to a colleague in workplace training: you are preparing a short presentation for Friday and want to practise together. Use at least two phrases from this lesson.",
+      "promptVi": "Viết 2–3 câu cho một đồng nghiệp trong khóa đào tạo tại nơi làm việc: bạn đang chuẩn bị một bài thuyết trình ngắn cho thứ Sáu và muốn luyện tập cùng nhau. Dùng ít nhất hai cụm từ trong bài học này."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 0,
+        "explanationEn": "'Splitting' here means very severe, so it is a very bad headache, not a cut or a cold feeling.",
+        "explanationVi": "'Splitting' ở đây nghĩa là rất dữ dội, nên đây là cơn đau đầu rất nặng, không phải vết cắt hay cảm giác lạnh.",
+        "options": [
+          {
+            "en": "I have a very bad headache.",
+            "vi": "Tôi bị đau đầu rất nặng."
+          },
+          {
+            "en": "I have a small cut on my head.",
+            "vi": "Tôi bị một vết cắt nhỏ trên đầu."
+          },
+          {
+            "en": "I feel a little tired.",
+            "vi": "Tôi cảm thấy hơi mệt."
+          },
+          {
+            "en": "My head feels cold.",
+            "vi": "Đầu tôi cảm thấy lạnh."
+          }
+        ],
+        "qEn": "What does 'I've got a splitting headache' mean?",
+        "qVi": "'I've got a splitting headache' có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "The lesson instruction is 'Take one tablet after meals, twice a day.' The last option is also wrong because 'one tablets' is ungrammatical.",
+        "explanationVi": "Hướng dẫn trong bài là 'Take one tablet after meals, twice a day.' Lựa chọn cuối cũng sai vì 'one tablets' không đúng ngữ pháp.",
+        "options": [
+          {
+            "en": "Take one tablet after meals, twice a week.",
+            "vi": "Uống một viên sau bữa ăn, hai lần một tuần."
+          },
+          {
+            "en": "Take one tablet before eating, three times a night.",
+            "vi": "Uống một viên trước khi ăn, ba lần một đêm."
+          },
+          {
+            "en": "Take one tablet after meals, twice a day.",
+            "vi": "Uống một viên sau bữa ăn, hai lần một ngày."
+          },
+          {
+            "en": "Take one tablets after meal, twice a day.",
+            "vi": "Uống một viên thuốc sau bữa ăn, hai lần một ngày."
+          }
+        ],
+        "qEn": "Which sentence gives a correct medicine instruction from this lesson?",
+        "qVi": "Câu nào đưa ra hướng dẫn dùng thuốc đúng theo bài học này?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "This sentence directly answers how you feel now compared with yesterday; the other options describe an emergency, an allergy, or a different question.",
+        "explanationVi": "Câu này trả lời trực tiếp bạn cảm thấy thế nào so với hôm qua; các lựa chọn khác mô tả trường hợp khẩn cấp, dị ứng, hoặc một câu hỏi khác.",
+        "options": [
+          {
+            "en": "Please call an ambulance — it's an emergency.",
+            "vi": "Làm ơn gọi xe cấp cứu — đây là trường hợp khẩn cấp."
+          },
+          {
+            "en": "I'm feeling a lot better than I did yesterday.",
+            "vi": "Tôi cảm thấy khá hơn nhiều so với hôm qua."
+          },
+          {
+            "en": "I'm allergic to penicillin, I'm afraid.",
+            "vi": "Rất tiếc, tôi bị dị ứng với penicillin."
+          },
+          {
+            "en": "Is there a pharmacy open late nearby?",
+            "vi": "Có hiệu thuốc nào mở khuya gần đây không?"
+          }
+        ],
+        "qEn": "A colleague says you look ill and asks how you feel. You feel much better than yesterday. What should you say?",
+        "qVi": "Một đồng nghiệp nói trông bạn có vẻ ốm và hỏi bạn cảm thấy thế nào. Bạn cảm thấy khá hơn nhiều so với hôm qua. Bạn nên nói gì?"
+      }
+    ],
+    "lessonSlug": "talking-about-health",
+    "openQuestions": [
+      {
+        "aEn": "It means feeling slightly ill, but not seriously ill, for example feeling tired with a blocked nose or a sore throat.",
+        "aVi": "Nghĩa là cảm thấy hơi ốm, nhưng không ốm nặng, ví dụ cảm thấy mệt kèm nghẹt mũi hoặc đau họng.",
+        "qEn": "What does 'feeling under the weather' mean?",
+        "qVi": "'Feeling under the weather' có nghĩa là gì?"
+      },
+      {
+        "aEn": "The length of time helps the doctor judge how serious the problem is and what treatment you may need, so 'It's been bothering me for a couple of days' is useful information.",
+        "aVi": "Khoảng thời gian giúp bác sĩ đánh giá vấn đề nghiêm trọng đến mức nào và bạn có thể cần điều trị gì, nên câu 'Nó làm tôi khó chịu đã vài ngày nay' là thông tin hữu ích.",
+        "qEn": "Why should you tell a doctor how long your symptoms have been going on?",
+        "qVi": "Tại sao bạn nên nói với bác sĩ các triệu chứng đã kéo dài bao lâu?"
+      },
+      {
+        "aEn": "You could ask, 'Do I need a prescription for this medicine? How often am I supposed to take these tablets?'",
+        "aVi": "Bạn có thể hỏi: 'Tôi có cần đơn thuốc cho loại thuốc này không? Tôi phải uống những viên thuốc này bao lâu một lần?'",
+        "qEn": "You are at a pharmacy and you are not sure if you need a prescription. What would you ask?",
+        "qVi": "Bạn đang ở hiệu thuốc và không chắc mình có cần đơn thuốc hay không. Bạn sẽ hỏi gì?"
+      }
+    ],
+    "skillEn": "Describe symptoms clearly and ask a doctor or pharmacist for advice.",
+    "skillVi": "Mô tả triệu chứng rõ ràng và hỏi bác sĩ hoặc dược sĩ để được tư vấn.",
+    "speakModels": [
+      {
+        "en": "Take one tablet after meals, twice a day.",
+        "ipa": "/teɪk wʌn ˈtæblət ˈæftər miːlz twaɪs ə deɪ/",
+        "termEn": "tablet",
+        "vi": "Uống một viên sau bữa ăn, hai lần một ngày."
+      },
+      {
+        "en": "Make sure you drink plenty of fluids.",
+        "ipa": "/meɪk ʃʊr ju drɪŋk ˈplɛnti əv ˈfluːədz/",
+        "termEn": "fluids",
+        "vi": "Hãy chắc chắn là bạn uống nhiều chất lỏng."
+      }
+    ],
+    "writing": {
+      "modelEn": "I've had a blocked nose all week. I've got a splitting headache. I think I should book an appointment with a doctor.",
+      "modelIpa": "/aɪv hæd ə blɑkt noʊz ɔːl wiːk aɪv ɡɑt ə ˈsplɪtɪŋ ˈhɛdeɪk aɪ θɪŋk aɪ ʃʊd bʊk ən əˈpɔɪntmənt wɪð ə ˈdɑːktər/",
+      "modelVi": "Tôi bị nghẹt mũi cả tuần nay. Tôi bị đau đầu dữ dội. Tôi nghĩ tôi nên đặt lịch hẹn với bác sĩ.",
+      "promptEn": "Write 2–3 sentences to a doctor: describe your symptoms and say what you think you should do. Use at least two phrases from this lesson.",
+      "promptVi": "Viết 2–3 câu cho bác sĩ: mô tả triệu chứng của bạn và nói bạn nghĩ mình nên làm gì. Dùng ít nhất hai cụm từ trong bài học này."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 2,
+        "explanationEn": "\"Over the moon\" is an idiom meaning very happy or delighted.",
+        "explanationVi": "\"Over the moon\" là thành ngữ nghĩa là rất vui mừng, vô cùng hạnh phúc.",
+        "options": [
+          {
+            "en": "I am confused by that news.",
+            "vi": "Tôi bối rối trước tin đó."
+          },
+          {
+            "en": "I am not interested in that news.",
+            "vi": "Tôi không quan tâm đến tin đó."
+          },
+          {
+            "en": "I am extremely happy to hear that news.",
+            "vi": "Tôi vô cùng vui mừng khi nghe tin đó."
+          },
+          {
+            "en": "I am tired after hearing that news.",
+            "vi": "Tôi mệt mỏi sau khi nghe tin đó."
+          }
+        ],
+        "qEn": "What does \"I'm over the moon to hear that news\" mean?",
+        "qVi": "\"I'm over the moon to hear that news\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "After \"should\", use the base verb \"start\", not a past or -ing form.",
+        "explanationVi": "Sau \"should\" dùng động từ nguyên thể \"start\", không dùng dạng quá khứ hay -ing.",
+        "options": [
+          {
+            "en": "In my view, we should started earlier.",
+            "vi": "Theo quan điểm của tôi, chúng ta nên bắt đầu sớm hơn. (sai ngữ pháp)"
+          },
+          {
+            "en": "In my view, we should start earlier.",
+            "vi": "Theo quan điểm của tôi, chúng ta nên bắt đầu sớm hơn."
+          },
+          {
+            "en": "In my view, we should starting earlier.",
+            "vi": "Theo quan điểm của tôi, chúng ta nên bắt đầu sớm hơn. (sai ngữ pháp)"
+          },
+          {
+            "en": "In my view, we should starts earlier.",
+            "vi": "Theo quan điểm của tôi, chúng ta nên bắt đầu sớm hơn. (sai ngữ pháp)"
+          }
+        ],
+        "qEn": "Which sentence correctly gives an opinion about starting earlier?",
+        "qVi": "Câu nào đúng để đưa ra ý kiến về việc bắt đầu sớm hơn?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "This softens disagreement with \"not so sure\" instead of directly saying the plan is wrong.",
+        "explanationVi": "Câu này làm mềm sự không đồng ý bằng \"not so sure\" thay vì nói thẳng rằng kế hoạch đó sai.",
+        "options": [
+          {
+            "en": "I'm not so sure that's the best approach.",
+            "vi": "Tôi không chắc lắm đó có phải là cách tốt nhất không."
+          },
+          {
+            "en": "I'm absolutely with you on that one.",
+            "vi": "Tôi hoàn toàn đồng ý với bạn về điểm đó."
+          },
+          {
+            "en": "I'm over the moon to hear that news.",
+            "vi": "Tôi vô cùng vui mừng khi nghe tin đó."
+          },
+          {
+            "en": "Don't beat yourself up about it.",
+            "vi": "Đừng tự trách mình về chuyện đó."
+          }
+        ],
+        "qEn": "You are not certain that a colleague's plan is the best one. What do you say politely?",
+        "qVi": "Bạn không chắc kế hoạch của đồng nghiệp có phải là tốt nhất không. Bạn nói gì một cách lịch sự?"
+      }
+    ],
+    "lessonSlug": "expressing-feelings-and-opinions",
+    "openQuestions": [
+      {
+        "aEn": "It means you have not decided yet and are still weighing the options.",
+        "aVi": "Nghĩa là bạn vẫn chưa quyết định và vẫn đang cân nhắc các phương án.",
+        "qEn": "What does \"I'm still on the fence about it\" mean?",
+        "qVi": "\"I'm still on the fence about it\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because it shows you understand their view first, so your disagreement sounds respectful and the discussion stays friendly.",
+        "aVi": "Vì câu này cho thấy bạn đã hiểu quan điểm của họ trước, nên sự không đồng ý của bạn nghe tôn trọng hơn và cuộc thảo luận vẫn giữ được không khí thân thiện.",
+        "qEn": "Why is it useful to say \"I see where you're coming from\" before you disagree with a colleague?",
+        "qVi": "Vì sao nói \"I see where you're coming from\" trước khi không đồng ý với đồng nghiệp lại hữu ích?"
+      },
+      {
+        "aEn": "I would say: \"That sounds like a brilliant idea to me. I couldn't agree more, honestly.\"",
+        "aVi": "Tôi sẽ nói: \"Với tôi, nghe có vẻ là một ý tưởng tuyệt vời. Thật lòng mà nói, tôi không thể đồng ý hơn được nữa.\"",
+        "qEn": "A colleague suggests starting a project earlier, and you think it is a great idea. What would you say?",
+        "qVi": "Một đồng nghiệp đề xuất bắt đầu dự án sớm hơn, và bạn nghĩ đó là ý tưởng tuyệt vời. Bạn sẽ nói gì?"
+      }
+    ],
+    "skillEn": "Express feelings and give opinions politely in discussions",
+    "skillVi": "Bày tỏ cảm xúc và đưa ra ý kiến một cách lịch sự trong các cuộc thảo luận",
+    "speakModels": [
+      {
+        "en": "That sounds like a brilliant idea to me.",
+        "ipa": "/ðæt saʊndz laɪk ə ˈbrɪljənt aɪˈdiːə tə mi/",
+        "termEn": "brilliant idea",
+        "vi": "Với tôi, nghe có vẻ là một ý tưởng tuyệt vời."
+      },
+      {
+        "en": "I'm still on the fence about it.",
+        "ipa": "/aɪm stɪl ɑn ðə fɛns əˈbaʊt ɪt/",
+        "termEn": "on the fence",
+        "vi": "Tôi vẫn còn phân vân về chuyện đó."
+      }
+    ],
+    "writing": {
+      "modelEn": "In my view, we should start earlier. I'd rather go with the second option, and I couldn't agree more, honestly.",
+      "modelIpa": "/ɪn maɪ vjuː, wi ʃʊd stɑːrt ˈɜːrliər. aɪd ˈræðər ɡoʊ wɪð ðə ˈsɛkənd ˈɑːpʃən, ən aɪ ˈkʊdənt əˈɡriː mɔːr, ˈɑːnəstli/",
+      "modelVi": "Theo quan điểm của tôi, chúng ta nên bắt đầu sớm hơn. Tôi thà chọn phương án thứ hai hơn, và thật lòng mà nói, tôi không thể đồng ý hơn được nữa.",
+      "promptEn": "Write 2-3 sentences in a team discussion: give your view on starting earlier, say which option you prefer, and agree with a colleague's plan. Use at least 2 phrases from this lesson.",
+      "promptVi": "Viết 2-3 câu trong một cuộc thảo luận nhóm: nêu quan điểm của bạn về việc bắt đầu sớm hơn, nói bạn thích phương án nào hơn, và đồng ý với kế hoạch của đồng nghiệp. Dùng ít nhất 2 cụm từ trong bài này."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 1,
+        "explanationEn": "\"Bear with me\" is an idiom meaning \"be patient with me\".",
+        "explanationVi": "\"Bear with me\" là thành ngữ nghĩa là \"hãy kiên nhẫn với tôi\".",
+        "options": [
+          {
+            "en": "Thank you for carrying something heavy for me.",
+            "vi": "Cảm ơn bạn đã mang vật nặng giúp tôi."
+          },
+          {
+            "en": "Thank you for being patient with me.",
+            "vi": "Cảm ơn bạn đã kiên nhẫn với tôi."
+          },
+          {
+            "en": "Thank you for lending me money.",
+            "vi": "Cảm ơn bạn đã cho tôi mượn tiền."
+          },
+          {
+            "en": "Thank you for leaving early.",
+            "vi": "Cảm ơn bạn đã về sớm."
+          }
+        ],
+        "qEn": "What does \"Thank you so much for bearing with me\" mean?",
+        "qVi": "\"Thank you so much for bearing with me\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "\"Would you mind...?\" with a verb in -ing form is a standard polite request.",
+        "explanationVi": "\"Would you mind...?\" kèm động từ thêm -ing là dạng yêu cầu lịch sự chuẩn.",
+        "options": [
+          {
+            "en": "Help me with this report!",
+            "vi": "Giúp tôi với bản báo cáo này!"
+          },
+          {
+            "en": "You will help me with this report.",
+            "vi": "Bạn sẽ giúp tôi với bản báo cáo này."
+          },
+          {
+            "en": "Would you mind giving me a hand with this report?",
+            "vi": "Bạn có phiền giúp tôi một tay với bản báo cáo này không?"
+          },
+          {
+            "en": "Why don't you help me with this report?",
+            "vi": "Sao bạn không giúp tôi với bản báo cáo này?"
+          }
+        ],
+        "qEn": "Which is the most polite way to ask a colleague for help with a report?",
+        "qVi": "Cách nào lịch sự nhất để nhờ đồng nghiệp giúp với một bản báo cáo?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "This sentence directly apologises for the missed call and names when it happened.",
+        "explanationVi": "Câu này xin lỗi trực tiếp về cuộc gọi bị bỏ lỡ và nêu rõ thời điểm xảy ra.",
+        "options": [
+          {
+            "en": "I'm terribly sorry for missing your call yesterday.",
+            "vi": "Tôi vô cùng xin lỗi vì đã bỏ lỡ cuộc gọi của bạn hôm qua."
+          },
+          {
+            "en": "That's very kind of you, but I couldn't possibly accept.",
+            "vi": "Bạn thật tốt, nhưng tôi không thể nào nhận được."
+          },
+          {
+            "en": "I hope you don't mind me asking, but is this seat taken?",
+            "vi": "Tôi hy vọng bạn không phiền khi tôi hỏi, nhưng chỗ này đã có người ngồi chưa?"
+          },
+          {
+            "en": "Sorry, I got held up in traffic on the way here.",
+            "vi": "Xin lỗi, tôi bị kẹt xe trên đường đến đây."
+          }
+        ],
+        "qEn": "You missed a colleague's call yesterday and want to apologise. What do you say?",
+        "qVi": "Bạn đã bỏ lỡ cuộc gọi của đồng nghiệp hôm qua và muốn xin lỗi. Bạn nói gì?"
+      }
+    ],
+    "lessonSlug": "polite-requests",
+    "openQuestions": [
+      {
+        "aEn": "It is a polite way to ask someone to help you with the report.",
+        "aVi": "Đây là cách lịch sự để nhờ ai đó giúp bạn với bản báo cáo.",
+        "qEn": "What does \"Would you mind giving me a hand with this report?\" mean?",
+        "qVi": "\"Would you mind giving me a hand with this report?\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because the longer, softer form sounds like a polite request rather than an order, so it shows respect and is more likely to get a willing reply.",
+        "aVi": "Vì dạng câu dài và nhẹ nhàng hơn nghe như một yêu cầu lịch sự chứ không phải mệnh lệnh, nên nó thể hiện sự tôn trọng và dễ nhận được phản hồi thiện chí hơn.",
+        "qEn": "Why is \"I was wondering if you could send me the details later today\" often better than \"Send me the details\" when you write to a manager?",
+        "qVi": "Vì sao \"I was wondering if you could send me the details later today\" thường tốt hơn \"Send me the details\" khi viết cho quản lý?"
+      },
+      {
+        "aEn": "I would say: \"Could I possibly borrow your charger for an hour?\"",
+        "aVi": "Tôi sẽ nói: \"Tôi có thể mượn sạc của bạn trong một giờ được không?\"",
+        "qEn": "You need to borrow a colleague's charger for one hour. What would you say?",
+        "qVi": "Bạn cần mượn sạc của đồng nghiệp trong một giờ. Bạn sẽ nói gì?"
+      }
+    ],
+    "skillEn": "Make polite requests and apologise gracefully at work and in daily life",
+    "skillVi": "Đưa ra yêu cầu lịch sự và xin lỗi một cách khéo léo trong công việc và đời sống hằng ngày",
+    "speakModels": [
+      {
+        "en": "Could you possibly move the meeting to Thursday?",
+        "ipa": "/kʊd ju ˈpɑːsəbli muːv ðə ˈmiːtɪŋ tə ˈθɜːrzdeɪ/",
+        "termEn": "move the meeting to Thursday",
+        "vi": "Bạn có thể dời cuộc họp sang thứ Năm được không?"
+      },
+      {
+        "en": "Could I possibly borrow your charger for an hour?",
+        "ipa": "/kʊd aɪ ˈpɑːsəbli ˈbɑːroʊ jʊr ˈtʃɑːrdʒər fər ən ˈaʊər/",
+        "termEn": "borrow your charger",
+        "vi": "Tôi có thể mượn sạc của bạn trong một giờ được không?"
+      }
+    ],
+    "writing": {
+      "modelEn": "Could you possibly move the meeting to Thursday? I was wondering if you could send me the details later today, and I'd really appreciate it if you could let me know in advance.",
+      "modelIpa": "/kʊd ju ˈpɑːsəbli muːv ðə ˈmiːtɪŋ tə ˈθɜːrzdeɪ? aɪ wəz ˈwʌndərɪŋ ɪf ju kʊd sɛnd mi ðə ˈdiːteɪlz ˈleɪtər təˈdeɪ, ən aɪd ˈriːəli əˈpriːʃieɪt ɪt ɪf ju kʊd lɛt mi noʊ ɪn ədˈvæns/",
+      "modelVi": "Bạn có thể dời cuộc họp sang thứ Năm được không? Tôi tự hỏi không biết bạn có thể gửi cho tôi thông tin chi tiết vào cuối ngày hôm nay không, và tôi sẽ rất cảm kích nếu bạn có thể báo trước cho tôi.",
+      "promptEn": "Write 2-3 sentences to a colleague: politely ask to move a meeting to Thursday, ask them to send you the details later today, and thank them in advance for letting you know. Use at least 2 phrases from this lesson.",
+      "promptVi": "Viết 2-3 câu cho một đồng nghiệp: lịch sự nhờ dời cuộc họp sang thứ Năm, nhờ họ gửi thông tin chi tiết vào cuối ngày hôm nay, và cảm ơn trước vì họ sẽ báo cho bạn biết. Dùng ít nhất 2 cụm từ trong bài này."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 1,
+        "explanationEn": "\"Late check-out\" means leaving later than normal, and \"until two o'clock\" gives the new time you must vacate the room.",
+        "explanationVi": "\"Late check-out\" nghĩa là trả phòng muộn hơn bình thường, và \"until two o'clock\" cho biết giờ mới bạn phải rời phòng.",
+        "options": [
+          {
+            "en": "You must leave the room before breakfast",
+            "vi": "Bạn phải rời phòng trước bữa sáng"
+          },
+          {
+            "en": "You may stay in the room until 2 p.m. instead of the usual check-out time",
+            "vi": "Bạn có thể ở trong phòng đến 2 giờ chiều thay vì giờ trả phòng thông thường"
+          },
+          {
+            "en": "You arrive at the hotel late at night",
+            "vi": "Bạn đến khách sạn muộn vào ban đêm"
+          },
+          {
+            "en": "You pay for the room two days late",
+            "vi": "Bạn trả tiền phòng trễ hai ngày"
+          }
+        ],
+        "qEn": "What does \"a late check-out until two o'clock\" mean?",
+        "qVi": "\"A late check-out until two o'clock\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "\"Could I have...?\" is the polite request form used throughout this lesson for hotel requests.",
+        "explanationVi": "\"Could I have...?\" là mẫu câu yêu cầu lịch sự được dùng xuyên suốt bài học này cho các yêu cầu tại khách sạn.",
+        "options": [
+          {
+            "en": "I check out late, OK?",
+            "vi": "Tôi trả phòng muộn, nhé? (kém lịch sự, sai thì)"
+          },
+          {
+            "en": "You let me check out late.",
+            "vi": "Bạn cho tôi trả phòng muộn. (ra lệnh)"
+          },
+          {
+            "en": "Could I have a late check-out until two o'clock?",
+            "vi": "Tôi có thể trả phòng muộn đến hai giờ được không?"
+          },
+          {
+            "en": "Late check-out me, please.",
+            "vi": "Trả phòng muộn tôi, làm ơn. (sai ngữ pháp)"
+          }
+        ],
+        "qEn": "Which sentence is the correct, polite way to ask for a later check-out?",
+        "qVi": "Câu nào đúng và lịch sự để xin trả phòng muộn?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "Reception can fix or replace a key card quickly, and reporting the problem politely is the normal hotel procedure.",
+        "explanationVi": "Lễ tân có thể sửa hoặc cấp lại thẻ phòng nhanh chóng, và báo sự cố một cách lịch sự là quy trình bình thường tại khách sạn.",
+        "options": [
+          {
+            "en": "Go to reception and say: \"My key card has stopped working again.\"",
+            "vi": "Đến lễ tân và nói: \"Thẻ phòng của tôi lại không hoạt động nữa.\""
+          },
+          {
+            "en": "Wait outside your room until the next morning",
+            "vi": "Đợi ngoài phòng đến sáng hôm sau"
+          },
+          {
+            "en": "Try to open the door of a different room",
+            "vi": "Thử mở cửa một phòng khác"
+          },
+          {
+            "en": "Leave the hotel without telling anyone",
+            "vi": "Rời khách sạn mà không báo ai"
+          }
+        ],
+        "qEn": "Your key card has stopped working again. What is the best thing to do?",
+        "qVi": "Thẻ phòng của bạn lại không hoạt động nữa. Việc tốt nhất nên làm là gì?"
+      }
+    ],
+    "lessonSlug": "at-the-hotel",
+    "openQuestions": [
+      {
+        "aEn": "A reservation is a booking made in advance, as in: \"I have a reservation under the name Lan.\"",
+        "aVi": "Reservation là việc đặt trước, ví dụ: \"I have a reservation under the name Lan\" (Tôi có đặt phòng dưới tên Lan).",
+        "qEn": "What does \"a reservation\" mean?",
+        "qVi": "\"A reservation\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because your company may need to see each separate charge, such as the room and breakfast, before it pays your expenses back.",
+        "aVi": "Vì công ty của bạn có thể cần xem từng khoản phí riêng, như tiền phòng và bữa sáng, trước khi hoàn lại chi phí cho bạn.",
+        "qEn": "Why should you ask for an itemized receipt when you check out from a work trip?",
+        "qVi": "Vì sao bạn nên xin hóa đơn chi tiết khi trả phòng sau chuyến công tác?"
+      },
+      {
+        "aEn": "\"The Wi-Fi keeps dropping out in my room, so I cannot join my online meeting. Could you send someone up to fix it, please?\"",
+        "aVi": "\"Wi-Fi trong phòng tôi cứ liên tục bị ngắt, nên tôi không thể tham gia cuộc họp trực tuyến. Bạn có thể cử người lên sửa giúp được không?\"",
+        "qEn": "The Wi-Fi keeps dropping out in your room and you have an online meeting soon. What would you say to reception?",
+        "qVi": "Wi-Fi trong phòng bạn cứ liên tục bị ngắt và bạn sắp có cuộc họp trực tuyến. Bạn sẽ nói gì với lễ tân?"
+      }
+    ],
+    "skillEn": "Check in, report room problems, and check out at a hotel on a work trip.",
+    "skillVi": "Nhận phòng, báo sự cố phòng và trả phòng tại khách sạn trong chuyến công tác.",
+    "speakModels": [
+      {
+        "en": "I have a reservation under the name Lan.",
+        "ipa": "/aɪ hæv ə ˌrɛzərˈveɪʃən ˈʌndər ðə neɪm lɑːn/",
+        "termEn": "reservation",
+        "vi": "Tôi có đặt phòng dưới tên Lan."
+      },
+      {
+        "en": "Could you wake me at seven with a wake-up call?",
+        "ipa": "/kʊd juː weɪk miː ət ˈsɛvən wɪð ə ˈweɪkʌp kɔːl/",
+        "termEn": "wake-up call",
+        "vi": "Bạn có thể gọi đánh thức tôi lúc bảy giờ không?"
+      }
+    ],
+    "writing": {
+      "modelEn": "I have a reservation under the name Lan. I'd like to check in for two nights, please. Could I upgrade to a room with a sea view?",
+      "modelIpa": "/aɪ hæv ə ˌrɛzərˈveɪʃən ˈʌndər ðə neɪm lɑːn. aɪd laɪk tə tʃɛk ɪn fər tuː naɪts, pliːz. kʊd aɪ ʌpˈɡreɪd tə ə ruːm wɪð ə siː vjuː/",
+      "modelVi": "Tôi có đặt phòng dưới tên Lan. Tôi muốn nhận phòng trong hai đêm. Tôi có thể nâng cấp lên phòng có view biển không?",
+      "promptEn": "Write 2-3 sentences to a hotel before a work trip. Use at least 2 phrases from this lesson, and say how long you will stay and what kind of room you want.",
+      "promptVi": "Viết 2-3 câu gửi khách sạn trước một chuyến công tác. Dùng ít nhất 2 cụm từ trong bài học này và nói bạn sẽ ở bao lâu và muốn loại phòng nào."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 1,
+        "explanationEn": "\"Scattered\" means spread out in different places, so scattered showers are short rains in some areas only.",
+        "explanationVi": "\"Scattered\" nghĩa là rải rác ở nhiều nơi khác nhau, nên scattered showers là những cơn mưa ngắn chỉ ở một số khu vực.",
+        "options": [
+          {
+            "en": "Rain all day, everywhere, without a break",
+            "vi": "Mưa cả ngày, khắp mọi nơi, không ngớt"
+          },
+          {
+            "en": "Short periods of rain in some places, but not everywhere",
+            "vi": "Những cơn mưa ngắn ở một số nơi, không phải khắp mọi nơi"
+          },
+          {
+            "en": "A long period with no rain at all",
+            "vi": "Một thời gian dài hoàn toàn không có mưa"
+          },
+          {
+            "en": "Snow falling heavily in the mountains",
+            "vi": "Tuyết rơi dày ở vùng núi"
+          }
+        ],
+        "qEn": "What does \"scattered showers\" mean?",
+        "qVi": "\"Scattered showers\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "After \"in case it\", we use the present simple \"turns\" for a possible future change in the weather.",
+        "explanationVi": "Sau \"in case it\", ta dùng hiện tại đơn \"turns\" để nói về khả năng thời tiết thay đổi trong tương lai.",
+        "options": [
+          {
+            "en": "Bring a light jacket in case it turns chilly.",
+            "vi": "Hãy mang theo áo khoác mỏng phòng khi trời trở lạnh."
+          },
+          {
+            "en": "Bring a light jacket in case it turn chilly.",
+            "vi": "Hãy mang theo áo khoác mỏng phòng khi trời trở lạnh. (sai ngữ pháp)"
+          },
+          {
+            "en": "Bring a light jacket in case it turned chilly yesterday.",
+            "vi": "Hãy mang theo áo khoác mỏng phòng khi hôm qua trời đã trở lạnh. (sai thì)"
+          },
+          {
+            "en": "Bring a light jacket in case it turns chill.",
+            "vi": "Hãy mang theo áo khoác mỏng phòng khi trời trở lạnh. (sai từ loại)"
+          }
+        ],
+        "qEn": "Which sentence is correct?",
+        "qVi": "Câu nào đúng?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "Slippery roads need more time and slower, careful driving, so leaving earlier is the safe choice.",
+        "explanationVi": "Đường trơn cần nhiều thời gian hơn và lái xe chậm, cẩn thận, nên rời nhà sớm hơn là lựa chọn an toàn.",
+        "options": [
+          {
+            "en": "Drive faster so you arrive before the ice forms",
+            "vi": "Lái nhanh hơn để đến nơi trước khi băng hình thành"
+          },
+          {
+            "en": "Park under large trees to stay out of the wind",
+            "vi": "Đỗ xe dưới cây lớn để tránh gió"
+          },
+          {
+            "en": "Leave home a bit earlier and drive carefully",
+            "vi": "Rời nhà sớm hơn một chút và lái xe cẩn thận"
+          },
+          {
+            "en": "Open all the car windows to keep the car cool",
+            "vi": "Mở hết cửa sổ xe để xe mát"
+          }
+        ],
+        "qEn": "The roads could get slippery when it freezes. What is the best advice for a colleague driving to work?",
+        "qVi": "Đường có thể trơn trượt khi trời đóng băng. Lời khuyên tốt nhất cho đồng nghiệp lái xe đi làm là gì?"
+      }
+    ],
+    "lessonSlug": "talking-about-weather",
+    "openQuestions": [
+      {
+        "aEn": "A forecast is a prediction of what the weather will be like, for example: \"The forecast says heavy rain is on the way.\"",
+        "aVi": "Forecast là dự báo về thời tiết sắp tới, ví dụ: \"The forecast says heavy rain is on the way\" (Dự báo nói rằng mưa lớn đang đến).",
+        "qEn": "What does the word \"forecast\" mean?",
+        "qVi": "Từ \"forecast\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because rain, strong winds or a heatwave can make the event unsafe or uncomfortable, so you can postpone it or move it indoors in time.",
+        "aVi": "Vì mưa, gió mạnh hay nắng nóng có thể khiến sự kiện không an toàn hoặc khó chịu, nên bạn có thể hoãn hoặc chuyển vào trong nhà kịp thời.",
+        "qEn": "Why should you check the forecast before an outdoor work event?",
+        "qVi": "Vì sao bạn nên kiểm tra dự báo thời tiết trước một sự kiện ngoài trời của công ty?"
+      },
+      {
+        "aEn": "\"Let's check the forecast before we head out. If it rains, let's postpone the picnic until the weather improves.\"",
+        "aVi": "\"Chúng ta hãy kiểm tra dự báo thời tiết trước khi ra ngoài. Nếu trời mưa, chúng ta hãy hoãn buổi dã ngoại cho đến khi thời tiết tốt hơn.\"",
+        "qEn": "A colleague suggests a picnic this afternoon, but the forecast is calling for scattered showers. What would you say?",
+        "qVi": "Một đồng nghiệp đề xuất đi dã ngoại chiều nay, nhưng dự báo có mưa rào rải rác. Bạn sẽ nói gì?"
+      }
+    ],
+    "skillEn": "Talk about the weather forecast and change plans when the weather changes.",
+    "skillVi": "Nói về dự báo thời tiết và thay đổi kế hoạch khi thời tiết thay đổi.",
+    "speakModels": [
+      {
+        "en": "Let's check the forecast before we head out.",
+        "ipa": "/lɛts tʃɛk ðə ˈfɔːrkæst bɪˈfɔːr wiː hɛd aʊt/",
+        "termEn": "forecast",
+        "vi": "Chúng ta hãy kiểm tra dự báo thời tiết trước khi ra ngoài."
+      },
+      {
+        "en": "The forecast says heavy rain is on the way.",
+        "ipa": "/ðə ˈfɔːrkæst sɛz ˈhɛvi reɪn ɪz ɑːn ðə weɪ/",
+        "termEn": "heavy rain",
+        "vi": "Dự báo nói rằng mưa lớn đang đến."
+      }
+    ],
+    "writing": {
+      "modelEn": "Let's check the forecast before we head out. The forecast says heavy rain is on the way. Let's postpone the picnic until the weather improves.",
+      "modelIpa": "/lɛts tʃɛk ðə ˈfɔːrkæst bɪˈfɔːr wiː hɛd aʊt. ðə ˈfɔːrkæst sɛz ˈhɛvi reɪn ɪz ɑːn ðə weɪ. lɛts poʊstˈpoʊn ðə ˈpɪknɪk ənˈtɪl ðə ˈwɛðər ɪmˈpruːvz/",
+      "modelVi": "Chúng ta hãy kiểm tra dự báo thời tiết trước khi ra ngoài. Dự báo nói rằng mưa lớn đang đến. Chúng ta hãy hoãn buổi dã ngoại cho đến khi thời tiết tốt hơn.",
+      "promptEn": "Write 2-3 sentences to a colleague about a weekend picnic plan. Use at least 2 phrases from this lesson, and say what you will do if the weather is bad.",
+      "promptVi": "Viết 2-3 câu cho một đồng nghiệp về kế hoạch dã ngoại cuối tuần. Dùng ít nhất 2 cụm từ trong bài học này và nói bạn sẽ làm gì nếu thời tiết xấu."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 2,
+        "explanationEn": "Withdraw means to take money out, as in 'I need to withdraw two hundred in cash.'",
+        "explanationVi": "Withdraw nghĩa là rút tiền ra, như trong câu 'I need to withdraw two hundred in cash.'",
+        "options": [
+          {
+            "en": "To pay money into an account.",
+            "vi": "Nạp tiền vào tài khoản."
+          },
+          {
+            "en": "To open a new bank account.",
+            "vi": "Mở một tài khoản ngân hàng mới."
+          },
+          {
+            "en": "To take money out of an account, usually in cash.",
+            "vi": "Rút tiền ra khỏi tài khoản, thường là tiền mặt."
+          },
+          {
+            "en": "To change money into another currency.",
+            "vi": "Đổi tiền sang một loại tiền tệ khác."
+          }
+        ],
+        "qEn": "What does 'withdraw' mean in banking?",
+        "qVi": "'Withdraw' trong ngân hàng có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "'Could you print out a statement for last month?' is a polite request; the others sound like orders.",
+        "explanationVi": "'Could you print out a statement for last month?' là một yêu cầu lịch sự; các lựa chọn khác nghe như mệnh lệnh.",
+        "options": [
+          {
+            "en": "Could you print out a statement for last month?",
+            "vi": "Bạn có thể in sao kê cho tháng trước không?"
+          },
+          {
+            "en": "Print a statement now.",
+            "vi": "In sao kê ngay đi."
+          },
+          {
+            "en": "You must print my statement.",
+            "vi": "Bạn phải in sao kê của tôi."
+          },
+          {
+            "en": "I want a statement, OK?",
+            "vi": "Tôi muốn một bản sao kê, được chứ?"
+          }
+        ],
+        "qEn": "Which is the most polite way to ask the bank for last month's statement?",
+        "qVi": "Câu nào là cách lịch sự nhất để xin ngân hàng cấp sao kê tháng trước?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "This states the exact problem and asks the bank to check it, which can help you get a refund.",
+        "explanationVi": "Câu này nêu đúng vấn đề và nhờ ngân hàng kiểm tra, điều này có thể giúp bạn được hoàn tiền.",
+        "options": [
+          {
+            "en": "That shop only takes contactless payments.",
+            "vi": "Cửa hàng đó chỉ chấp nhận thanh toán không tiếp xúc."
+          },
+          {
+            "en": "I accidentally paid the same bill twice. Could you check the payments for me?",
+            "vi": "Tôi đã vô tình thanh toán cùng một hóa đơn hai lần. Bạn có thể kiểm tra các khoản thanh toán giúp tôi không?"
+          },
+          {
+            "en": "I need to top up my travel card before Friday.",
+            "vi": "Tôi cần nạp thêm tiền vào thẻ đi lại của mình trước thứ Sáu."
+          },
+          {
+            "en": "That brings the total to forty-five, including tax.",
+            "vi": "Như vậy tổng cộng là bốn mươi lăm, đã bao gồm thuế."
+          }
+        ],
+        "qEn": "You accidentally paid the same bill twice. What is the best thing to say at the bank?",
+        "qVi": "Bạn đã vô tình thanh toán cùng một hóa đơn hai lần. Bạn nên nói gì ở ngân hàng là tốt nhất?"
+      }
+    ],
+    "lessonSlug": "payments-and-banking",
+    "openQuestions": [
+      {
+        "aEn": "It is a regular, automatic payment from your bank account, for example a monthly payment for your rent.",
+        "aVi": "Đó là khoản thanh toán tự động đều đặn từ tài khoản ngân hàng của bạn, ví dụ khoản thanh toán tiền thuê nhà hằng tháng.",
+        "qEn": "What is a standing order?",
+        "qVi": "Standing order là gì?"
+      },
+      {
+        "aEn": "The receipt proves what you bought, when you bought it, and how much you paid, so a shop can check a return or a refund more easily.",
+        "aVi": "Hóa đơn chứng minh bạn đã mua gì, mua khi nào và trả bao nhiêu, nên cửa hàng có thể kiểm tra việc trả hàng hoặc hoàn tiền dễ dàng hơn.",
+        "qEn": "Why should you keep the receipt in case you need to return something?",
+        "qVi": "Tại sao bạn nên giữ hóa đơn phòng khi cần trả lại món đồ?"
+      },
+      {
+        "aEn": "You could say, 'The payment failed because my card had expired. I will pay with another card.'",
+        "aVi": "Bạn có thể nói: 'Việc thanh toán thất bại vì thẻ của tôi đã hết hạn. Tôi sẽ thanh toán bằng một thẻ khác.'",
+        "qEn": "You are paying in a shop, but the payment fails because your card has expired. What would you say to the shop assistant?",
+        "qVi": "Bạn đang thanh toán ở cửa hàng nhưng việc thanh toán thất bại vì thẻ của bạn đã hết hạn. Bạn sẽ nói gì với nhân viên cửa hàng?"
+      }
+    ],
+    "skillEn": "Explain bank payments, deal with a payment problem, and ask the bank for help.",
+    "skillVi": "Giải thích các khoản thanh toán qua ngân hàng, xử lý sự cố thanh toán và nhờ ngân hàng giúp đỡ.",
+    "speakModels": [
+      {
+        "en": "Could you print out a statement for last month?",
+        "ipa": "/kʊd ju prɪnt aʊt ə ˈsteɪtmənt fər læst mʌnθ/",
+        "termEn": "statement",
+        "vi": "Bạn có thể in sao kê cho tháng trước không?"
+      },
+      {
+        "en": "Keep the receipt in case you need to return it.",
+        "ipa": "/kiːp ðə rɪˈsiːt ɪn keɪs ju niːd tə rɪˈtɜːrn ɪt/",
+        "termEn": "receipt",
+        "vi": "Hãy giữ hóa đơn phòng khi bạn cần trả lại món đồ."
+      }
+    ],
+    "writing": {
+      "modelEn": "I'd like to report my card as lost or stolen. Could you freeze my card until I find it?",
+      "modelIpa": "/aɪd laɪk tə rɪˈpɔːrt maɪ kɑːrd æz lɔːst ɔːr ˈstoʊlən kʊd ju friːz maɪ kɑːrd ənˈtɪl aɪ faɪnd ɪt/",
+      "modelVi": "Tôi muốn báo thẻ của tôi bị mất hoặc bị đánh cắp. Bạn có thể khóa tạm thẻ của tôi cho đến khi tôi tìm thấy nó không?",
+      "promptEn": "Write 2–3 sentences to your bank: you cannot find your card and you want it blocked for now. Use at least two phrases from this lesson.",
+      "promptVi": "Viết 2–3 câu cho ngân hàng của bạn: bạn không tìm thấy thẻ và muốn khóa tạm thẻ. Dùng ít nhất hai cụm từ trong bài học này."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 3,
+        "explanationEn": "A spare part is a replacement piece, as in 'The technician needs to come back with a spare part.'",
+        "explanationVi": "Spare part là linh kiện thay thế, như trong câu 'The technician needs to come back with a spare part.'",
+        "options": [
+          {
+            "en": "A new machine to replace the old one.",
+            "vi": "Một chiếc máy mới để thay chiếc máy cũ."
+          },
+          {
+            "en": "A tool the technician uses once and throws away.",
+            "vi": "Một dụng cụ kỹ thuật viên dùng một lần rồi vứt đi."
+          },
+          {
+            "en": "A copy of the invoice for the repair.",
+            "vi": "Một bản sao hóa đơn sửa chữa."
+          },
+          {
+            "en": "An extra piece used to replace a broken piece in a machine.",
+            "vi": "Một linh kiện dự phòng dùng để thay thế bộ phận bị hỏng trong máy."
+          }
+        ],
+        "qEn": "What is a 'spare part'?",
+        "qVi": "'Spare part' là gì?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "'Could you give me a written estimate before you start?' is a polite request; the others sound rude or demanding.",
+        "explanationVi": "'Could you give me a written estimate before you start?' là một yêu cầu lịch sự; các lựa chọn khác nghe thô lỗ hoặc đòi hỏi.",
+        "options": [
+          {
+            "en": "Tell me the price, or I will complain.",
+            "vi": "Nói giá cho tôi, nếu không tôi sẽ khiếu nại."
+          },
+          {
+            "en": "Could you give me a written estimate before you start?",
+            "vi": "Bạn có thể đưa cho tôi báo giá bằng văn bản trước khi bắt đầu không?"
+          },
+          {
+            "en": "Give me the final cost now.",
+            "vi": "Cho tôi biết chi phí cuối cùng ngay đi."
+          },
+          {
+            "en": "I want the price, no questions.",
+            "vi": "Tôi muốn biết giá, không hỏi thêm."
+          }
+        ],
+        "qEn": "Which is the most polite way to ask for a price before work starts?",
+        "qVi": "Câu nào là cách lịch sự nhất để hỏi giá trước khi công việc bắt đầu?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "This states the delivery problem and asks to speak to the person in charge, which is the right next step.",
+        "explanationVi": "Câu này nêu vấn đề giao hàng và xin nói chuyện với người phụ trách, đó là bước tiếp theo phù hợp.",
+        "options": [
+          {
+            "en": "All sorted now, thanks for fixing it so quickly.",
+            "vi": "Mọi thứ đã ổn thỏa, cảm ơn bạn đã sửa nhanh như vậy."
+          },
+          {
+            "en": "The job is finished, and everything works again.",
+            "vi": "Công việc đã hoàn thành, và mọi thứ lại hoạt động."
+          },
+          {
+            "en": "The parcel was delivered to the wrong address. Could I speak to someone in charge about this?",
+            "vi": "Bưu kiện đã được giao đến địa chỉ sai. Tôi có thể nói chuyện với người phụ trách về việc này không?"
+          },
+          {
+            "en": "The tap in the bathroom is dripping all night.",
+            "vi": "Vòi nước trong phòng tắm nhỏ giọt suốt đêm."
+          }
+        ],
+        "qEn": "A parcel was delivered to the wrong address. What should you say to the delivery company?",
+        "qVi": "Một bưu kiện đã được giao đến địa chỉ sai. Bạn nên nói gì với công ty giao hàng?"
+      }
+    ],
+    "lessonSlug": "asking-for-service",
+    "openQuestions": [
+      {
+        "aEn": "It means the repair may be free or paid for by the maker or seller, because the product is still within the guarantee period.",
+        "aVi": "Nghĩa là việc sửa chữa có thể miễn phí hoặc do nhà sản xuất hoặc người bán chi trả, vì sản phẩm vẫn còn trong thời hạn bảo hành.",
+        "qEn": "What does 'under the warranty' mean in 'Is this fault covered under the warranty?'",
+        "qVi": "'Under the warranty' trong câu 'Is this fault covered under the warranty?' có nghĩa là gì?"
+      },
+      {
+        "aEn": "A written estimate shows the expected cost in advance, so you can agree the price and avoid a surprise bill when the job is finished.",
+        "aVi": "Báo giá bằng văn bản cho thấy chi phí dự kiến trước, nên bạn có thể đồng ý giá và tránh hóa đơn bất ngờ khi công việc hoàn thành.",
+        "qEn": "Why should you ask for a written estimate before a repair starts?",
+        "qVi": "Tại sao bạn nên xin báo giá bằng văn bản trước khi bắt đầu sửa chữa?"
+      },
+      {
+        "aEn": "You could say, 'The internet keeps cutting out during video calls. Could you take a look at it this week?'",
+        "aVi": "Bạn có thể nói: 'Internet cứ bị ngắt trong khi gọi video. Bạn có thể xem qua nó trong tuần này không?'",
+        "qEn": "Your internet keeps cutting out during work video calls. What would you say to the service provider?",
+        "qVi": "Internet của bạn cứ bị ngắt trong các cuộc gọi video công việc. Bạn sẽ nói gì với nhà cung cấp dịch vụ?"
+      }
+    ],
+    "skillEn": "Report a fault clearly, ask for a repair, and check the cost and time politely.",
+    "skillVi": "Báo cáo sự cố rõ ràng, yêu cầu sửa chữa và hỏi về chi phí và thời gian một cách lịch sự.",
+    "speakModels": [
+      {
+        "en": "Could you send a copy of the invoice by email?",
+        "ipa": "/kʊd ju sɛnd ə ˈkɑːpi əv ðiː ˈɪnvɔɪs baɪ ˈiːmeɪl/",
+        "termEn": "invoice",
+        "vi": "Bạn có thể gửi một bản sao hóa đơn qua email không?"
+      },
+      {
+        "en": "The internet keeps cutting out during video calls.",
+        "ipa": "/ðiː ˈɪntərnɛt kiːps ˈkʌtɪŋ aʊt ˈdʊərɪŋ ˈvɪdioʊ kɔːlz/",
+        "termEn": "internet",
+        "vi": "Internet cứ bị ngắt trong khi gọi video."
+      }
+    ],
+    "writing": {
+      "modelEn": "The tap in the bathroom is dripping all night. Could you take a look at it this week? How long will the repair take, roughly?",
+      "modelIpa": "/ðə tæp ɪn ðə ˈbæθruːm ɪz ˈdrɪpɪŋ ɔːl naɪt kʊd ju teɪk ə lʊk æt ɪt ðɪs wiːk haʊ lɔːŋ wɪl ðə rɪˈpɛər teɪk ˈrʌfli/",
+      "modelVi": "Vòi nước trong phòng tắm nhỏ giọt suốt đêm. Bạn có thể xem qua nó trong tuần này không? Việc sửa chữa sẽ mất khoảng bao lâu?",
+      "promptEn": "Write 2–3 sentences to a repair service: a tap is dripping all night and you want a visit this week. Use at least two phrases from this lesson.",
+      "promptVi": "Viết 2–3 câu cho dịch vụ sửa chữa: một vòi nước nhỏ giọt suốt đêm và bạn muốn họ đến xem trong tuần này. Dùng ít nhất hai cụm từ trong bài học này."
+    }
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 2,
+        "explanationEn": "\"Cut down on\" means reduce, and \"unnecessary\" means not needed.",
+        "explanationVi": "\"Cut down on\" nghĩa là cắt giảm, và \"unnecessary\" nghĩa là không cần thiết.",
+        "options": [
+          {
+            "en": "We need to spend more money this quarter.",
+            "vi": "Chúng ta cần chi tiêu nhiều tiền hơn trong quý này."
+          },
+          {
+            "en": "We need to count all expenses carefully.",
+            "vi": "Chúng ta cần đếm cẩn thận mọi chi phí."
+          },
+          {
+            "en": "We need to reduce spending on things we do not really need.",
+            "vi": "Chúng ta cần cắt giảm chi tiêu cho những thứ không thật sự cần thiết."
+          },
+          {
+            "en": "We need to pay all expenses today.",
+            "vi": "Chúng ta cần thanh toán mọi chi phí ngay hôm nay."
+          }
+        ],
+        "qEn": "What does \"We need to cut down on unnecessary expenses this quarter\" mean?",
+        "qVi": "\"We need to cut down on unnecessary expenses this quarter\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 0,
+        "explanationEn": "After \"before I\", use the base verb \"send\"; \"Could you...?\" makes it a polite request.",
+        "explanationVi": "Sau \"before I\" dùng động từ nguyên thể \"send\"; \"Could you...?\" tạo thành câu yêu cầu lịch sự.",
+        "options": [
+          {
+            "en": "Could you look over the invoice before I send it?",
+            "vi": "Bạn có thể xem qua hóa đơn trước khi tôi gửi không?"
+          },
+          {
+            "en": "Could you look over the invoice before I sending it?",
+            "vi": "Bạn có thể xem qua hóa đơn trước khi tôi gửi không? (sai ngữ pháp)"
+          },
+          {
+            "en": "Could you looks over the invoice before I send it?",
+            "vi": "Bạn có thể xem qua hóa đơn trước khi tôi gửi không? (sai ngữ pháp)"
+          },
+          {
+            "en": "You look over the invoice before I send it?",
+            "vi": "Bạn xem qua hóa đơn trước khi tôi gửi nhé? (thiếu dạng câu hỏi lịch sự)"
+          }
+        ],
+        "qEn": "Which sentence correctly asks someone to check a document before you send it?",
+        "qVi": "Câu nào đúng để nhờ ai đó kiểm tra một tài liệu trước khi bạn gửi đi?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "This sentence explains the delay and its cause, which is what the waiting client needs to know.",
+        "explanationVi": "Câu này giải thích sự chậm trễ và nguyên nhân của nó, đúng điều khách hàng đang chờ cần biết.",
+        "options": [
+          {
+            "en": "Please sign the contract at the bottom of the last page.",
+            "vi": "Vui lòng ký hợp đồng ở cuối trang cuối cùng."
+          },
+          {
+            "en": "The delivery has been delayed due to bad weather.",
+            "vi": "Việc giao hàng đã bị chậm do thời tiết xấu."
+          },
+          {
+            "en": "The printer has run out of paper again.",
+            "vi": "Máy in lại hết giấy rồi."
+          },
+          {
+            "en": "Please book a conference room for the presentation.",
+            "vi": "Vui lòng đặt một phòng họp cho buổi thuyết trình."
+          }
+        ],
+        "qEn": "A client is waiting for a parcel, but bad weather has slowed the delivery. What do you tell the client?",
+        "qVi": "Một khách hàng đang chờ bưu kiện, nhưng thời tiết xấu làm chậm việc giao hàng. Bạn nói gì với khách hàng?"
+      }
+    ],
+    "lessonSlug": "toeic-office-situations",
+    "openQuestions": [
+      {
+        "aEn": "It means the manager is busy in a meeting and cannot meet anyone else until noon.",
+        "aVi": "Nghĩa là quản lý đang bận họp và không thể gặp ai khác cho đến trưa.",
+        "qEn": "What does \"Our manager is tied up in a meeting until noon\" mean?",
+        "qVi": "\"Our manager is tied up in a meeting until noon\" có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because it politely asks colleagues to update you, so you can plan your work and avoid missing a changed meeting or deadline.",
+        "aVi": "Vì câu này lịch sự nhờ đồng nghiệp cập nhật cho bạn, để bạn có thể sắp xếp công việc và không bỏ lỡ cuộc họp hay hạn chót đã thay đổi.",
+        "qEn": "Why should you say \"Please keep me posted on any changes to the schedule\" instead of just waiting to hear news?",
+        "qVi": "Vì sao bạn nên nói \"Please keep me posted on any changes to the schedule\" thay vì chỉ chờ tin tức?"
+      },
+      {
+        "aEn": "I would say: \"The lift is out of order, so please use the stairs.\"",
+        "aVi": "Tôi sẽ nói: \"Thang máy đang hỏng, vì vậy vui lòng đi cầu thang bộ.\"",
+        "qEn": "A visitor arrives but the lift is broken. What would you say to the visitor?",
+        "qVi": "Một vị khách đến nhưng thang máy bị hỏng. Bạn sẽ nói gì với vị khách?"
+      }
+    ],
+    "skillEn": "Handle common office situations: forms, bookings, deliveries and schedule changes",
+    "skillVi": "Xử lý các tình huống văn phòng thường gặp: biểu mẫu, đặt phòng, giao hàng và thay đổi lịch trình",
+    "speakModels": [
+      {
+        "en": "Please fill in this form before the deadline.",
+        "ipa": "/pliːz fɪl ɪn ðɪs fɔːrm bɪˈfɔːr ðə ˈdɛdˌlaɪn/",
+        "termEn": "fill in this form",
+        "vi": "Vui lòng điền vào biểu mẫu này trước hạn chót."
+      },
+      {
+        "en": "The delivery has been delayed due to bad weather.",
+        "ipa": "/ðə dɪˈlɪvəri həz bɪn dɪˈleɪd duː tə bæd ˈwɛðər/",
+        "termEn": "delayed due to bad weather",
+        "vi": "Việc giao hàng đã bị chậm do thời tiết xấu."
+      }
+    ],
+    "writing": {
+      "modelEn": "The meeting has been moved to Thursday afternoon. Please arrive early so we can set up the room, and please keep me posted on any changes to the schedule.",
+      "modelIpa": "/ðə ˈmiːtɪŋ həz bɪn muːvd tə ˈθɜːrzdeɪ ˌæftərˈnuːn. pliːz əˈraɪv ˈɜːrli soʊ wi kən sɛt ʌp ðə ruːm, ən pliːz kiːp mi ˈpoʊstɪd ɑːn ˈɛni ˈtʃeɪndʒɪz tə ðə ˈskɛdʒuːl/",
+      "modelVi": "Cuộc họp đã được dời sang chiều thứ Năm. Vui lòng đến sớm để chúng ta có thể chuẩn bị phòng, và vui lòng cập nhật cho tôi về bất kỳ thay đổi nào của lịch trình.",
+      "promptEn": "Write 2-3 sentences to your team: tell them the meeting has moved to Thursday afternoon, ask them to arrive early to prepare the room, and ask for schedule updates. Use at least 2 phrases from this lesson.",
+      "promptVi": "Viết 2-3 câu cho nhóm của bạn: báo rằng cuộc họp đã dời sang chiều thứ Năm, nhờ họ đến sớm để chuẩn bị phòng, và nhờ cập nhật lịch trình. Dùng ít nhất 2 cụm từ trong bài này."
+    }
+  },
+  {
+    "lessonSlug": "hobbies-and-weekends",
+    "skillEn": "Talk about your hobbies and make weekend plans with colleagues",
+    "skillVi": "Nói về sở thích của bạn và lên kế hoạch cuối tuần cùng đồng nghiệp",
+    "openQuestions": [
+      {
+        "qEn": "What does \"I'd love to, but I'm tied up this weekend\" mean?",
+        "qVi": "\"I'd love to, but I'm tied up this weekend\" có nghĩa là gì?",
+        "aEn": "It means you would like to accept an invitation, but you are already busy this weekend. \"Tied up\" means busy with other plans or work.",
+        "aVi": "Câu này có nghĩa là bạn muốn nhận lời mời, nhưng cuối tuần này bạn đã bận rồi. \"Tied up\" nghĩa là bận với các kế hoạch hoặc công việc khác."
+      },
+      {
+        "qEn": "Why is it better to say \"I'm afraid I can't make it this time. Maybe we could meet up another time\" than just \"No\" when you decline an invitation from a colleague?",
+        "qVi": "Vì sao khi từ chối lời mời của đồng nghiệp, việc nói \"I'm afraid I can't make it this time. Maybe we could meet up another time\" lại tốt hơn chỉ nói \"No\"?",
+        "aEn": "It declines politely and shows you still value the colleague. Suggesting another time keeps the relationship friendly and leaves the door open for a future plan.",
+        "aVi": "Cách này từ chối một cách lịch sự và cho thấy bạn vẫn trân trọng đồng nghiệp. Việc đề xuất một dịp khác giúp giữ mối quan hệ thân thiện và mở ra cơ hội cho một kế hoạch trong tương lai."
+      },
+      {
+        "qEn": "You want to invite a colleague to a picnic on Sunday. What would you say?",
+        "qVi": "Bạn muốn mời một đồng nghiệp đi dã ngoại vào Chủ nhật. Bạn sẽ nói gì?",
+        "aEn": "You could say, \"Would you like to join us for a picnic on Sunday?\" If they are free, you could add, \"Let's make the most of the long weekend.\"",
+        "aVi": "Bạn có thể nói: \"Would you like to join us for a picnic on Sunday?\" Nếu họ rảnh, bạn có thể nói thêm: \"Let's make the most of the long weekend.\""
+      }
+    ],
+    "conceptMcqs": [
+      {
+        "qEn": "What does \"I took up painting as a new hobby last year\" mean?",
+        "qVi": "\"I took up painting as a new hobby last year\" có nghĩa là gì?",
+        "options": [
+          {
+            "en": "I stopped painting last year.",
+            "vi": "Tôi đã ngừng vẽ vào năm ngoái."
+          },
+          {
+            "en": "I sold my paintings last year.",
+            "vi": "Tôi đã bán tranh của mình vào năm ngoái."
+          },
+          {
+            "en": "I started painting as a new hobby last year.",
+            "vi": "Năm ngoái tôi bắt đầu học vẽ như một sở thích mới."
+          },
+          {
+            "en": "I watched other people paint last year.",
+            "vi": "Năm ngoái tôi đã xem người khác vẽ."
+          }
+        ],
+        "correctIndex": 2,
+        "explanationEn": "\"Take up\" a hobby means start doing it regularly. It does not mean stop, sell, or only watch.",
+        "explanationVi": "\"Take up\" một sở thích nghĩa là bắt đầu thực hiện nó thường xuyên. Cụm này không có nghĩa là dừng lại, bán đi, hay chỉ xem."
+      },
+      {
+        "qEn": "Which sentence is correct?",
+        "qVi": "Câu nào đúng?",
+        "options": [
+          {
+            "en": "I'm thinking of taking up photography.",
+            "vi": "Tôi đang nghĩ đến việc bắt đầu học nhiếp ảnh."
+          },
+          {
+            "en": "I'm thinking of take up photography.",
+            "vi": "Tôi đang nghĩ đến việc bắt đầu học nhiếp ảnh."
+          },
+          {
+            "en": "I'm thinking of to taking up photography.",
+            "vi": "Tôi đang nghĩ đến việc bắt đầu học nhiếp ảnh."
+          },
+          {
+            "en": "I'm thinking of took up photography.",
+            "vi": "Tôi đang nghĩ đến việc bắt đầu học nhiếp ảnh."
+          }
+        ],
+        "correctIndex": 0,
+        "explanationEn": "After \"thinking of\", use the -ing form: \"taking up photography\". \"Take\", \"to taking\", and \"took\" do not follow \"of\" in this pattern.",
+        "explanationVi": "Sau \"thinking of\", dùng dạng -ing: \"taking up photography\". \"Take\", \"to taking\" và \"took\" không đi sau \"of\" trong mẫu câu này."
+      },
+      {
+        "qEn": "A colleague invites you for a day trip this Saturday, but you are already busy. Which is the best reply?",
+        "qVi": "Một đồng nghiệp mời bạn đi chơi trong ngày vào thứ Bảy này, nhưng bạn đã bận rồi. Câu trả lời nào phù hợp nhất?",
+        "options": [
+          {
+            "en": "What time does the exhibition open on Saturday?",
+            "vi": "Triển lãm mở cửa lúc mấy giờ vào thứ Bảy?"
+          },
+          {
+            "en": "I'd love to, but I'm tied up this weekend.",
+            "vi": "Tôi rất muốn, nhưng cuối tuần này tôi bận rồi."
+          },
+          {
+            "en": "I spend far too much time scrolling through social media.",
+            "vi": "Tôi dành quá nhiều thời gian lướt mạng xã hội."
+          },
+          {
+            "en": "What kind of music are you into these days?",
+            "vi": "Dạo này bạn mê thể loại nhạc nào?"
+          }
+        ],
+        "correctIndex": 1,
+        "explanationEn": "This reply accepts the idea warmly but declines clearly because you are busy. The other options ask a different question or talk about an unrelated habit.",
+        "explanationVi": "Câu trả lời này đón nhận ý tưởng một cách thân mật nhưng từ chối rõ ràng vì bạn bận. Các lựa chọn khác hỏi một câu hỏi khác hoặc nói về một thói quen không liên quan."
+      }
+    ],
+    "writing": {
+      "promptEn": "Write 2-3 sentences inviting a colleague to do something this weekend. Use at least two phrases from this lesson, and say what you want to do and when.",
+      "promptVi": "Viết 2-3 câu mời một đồng nghiệp làm gì đó vào cuối tuần này. Dùng ít nhất hai cụm từ trong bài học này, và nói rõ bạn muốn làm gì và khi nào.",
+      "modelEn": "Let's catch a film at the cinema this weekend. Are you free this Saturday for a day trip? Let's make the most of the long weekend.",
+      "modelVi": "Cuối tuần này chúng ta đi xem phim ở rạp nhé. Thứ Bảy này bạn có rảnh để đi chơi trong ngày không? Chúng ta hãy tận hưởng tối đa kỳ nghỉ dài này.",
+      "modelIpa": "/lɛts kætʃ ə fɪlm ət ðə ˈsɪnəmə ðɪs ˈwiːkˌɛnd ɑːr juː friː ðɪs ˈsætərdeɪ fər ə deɪ trɪp lɛts meɪk ðə moʊst əv ðə lɔːŋ ˈwiːkˌɛnd/"
+    },
+    "speakModels": [
+      {
+        "termEn": "catch a film",
+        "en": "Let's catch a film at the cinema this weekend.",
+        "vi": "Cuối tuần này chúng ta đi xem phim ở rạp nhé.",
+        "ipa": "/lɛts kætʃ ə fɪlm ət ðə ˈsɪnəmə ðɪs ˈwiːkˌɛnd/"
+      },
+      {
+        "termEn": "join us for a picnic",
+        "en": "Would you like to join us for a picnic on Sunday?",
+        "vi": "Bạn có muốn tham gia buổi dã ngoại cùng chúng tôi vào Chủ nhật không?",
+        "ipa": "/wʊd juː laɪk tə dʒɔɪn ʌs fər ə ˈpɪknɪk ɑːn ˈsʌndeɪ/"
+      }
+    ]
+  },
+  {
+    "conceptMcqs": [
+      {
+        "correctIndex": 0,
+        "explanationEn": "\"Clears things up\" means makes something clear or easy to understand.",
+        "explanationVi": "\"Clears things up\" nghĩa là làm cho điều gì đó rõ ràng, dễ hiểu.",
+        "options": [
+          {
+            "en": "Now I understand, thank you.",
+            "vi": "Giờ tôi đã hiểu rồi, cảm ơn bạn."
+          },
+          {
+            "en": "Please clean up the room.",
+            "vi": "Vui lòng dọn dẹp phòng."
+          },
+          {
+            "en": "I still do not understand at all.",
+            "vi": "Tôi vẫn hoàn toàn không hiểu."
+          },
+          {
+            "en": "Please repeat everything again.",
+            "vi": "Vui lòng lặp lại mọi thứ một lần nữa."
+          }
+        ],
+        "qEn": "What does \"That clears things up, thank you\" mean?",
+        "qVi": "\"That clears things up, thank you\" có nghĩa là gì?"
+      },
+      {
+        "correctIndex": 1,
+        "explanationEn": "\"Have a great day\" needs the article \"a\", and \"thanks again\" is the correct short form for thanking someone once more.",
+        "explanationVi": "\"Have a great day\" cần mạo từ \"a\", và \"thanks again\" là dạng rút gọn đúng để cảm ơn ai đó một lần nữa.",
+        "options": [
+          {
+            "en": "Have great day, and thanks again.",
+            "vi": "Chúc bạn một ngày tuyệt vời, và cảm ơn lần nữa nhé. (thiếu mạo từ \"a\")"
+          },
+          {
+            "en": "Have a great day, and thanks again.",
+            "vi": "Chúc bạn một ngày tuyệt vời, và cảm ơn lần nữa nhé."
+          },
+          {
+            "en": "Have a great day, and thank again.",
+            "vi": "Chúc bạn một ngày tuyệt vời, và cảm ơn lần nữa nhé. (sai dạng động từ)"
+          },
+          {
+            "en": "Has a great day, and thanks again.",
+            "vi": "Chúc bạn một ngày tuyệt vời, và cảm ơn lần nữa nhé. (sai dạng động từ)"
+          }
+        ],
+        "qEn": "Which is the correct polite closing at the end of a conversation?",
+        "qVi": "Câu kết thúc cuộc trò chuyện nào sau đây là đúng và lịch sự?"
+      },
+      {
+        "correctIndex": 2,
+        "explanationEn": "This sentence confirms the exact time the colleague asked about.",
+        "explanationVi": "Câu này xác nhận đúng thời gian mà đồng nghiệp đã hỏi.",
+        "options": [
+          {
+            "en": "I'm afraid that won't be possible this week.",
+            "vi": "Tôi e rằng điều đó không thể thực hiện trong tuần này."
+          },
+          {
+            "en": "Sure, no problem at all.",
+            "vi": "Chắc chắn rồi, không có vấn đề gì cả."
+          },
+          {
+            "en": "That's correct, the meeting is at ten on Tuesday.",
+            "vi": "Đúng vậy, cuộc họp lúc mười giờ thứ Ba."
+          },
+          {
+            "en": "Have a lovely weekend, see you on Monday.",
+            "vi": "Chúc bạn cuối tuần vui vẻ, thứ Hai gặp lại nhé."
+          }
+        ],
+        "qEn": "A colleague asks if the meeting is at ten on Tuesday, and that is correct. What do you answer?",
+        "qVi": "Đồng nghiệp hỏi liệu cuộc họp có lúc mười giờ thứ Ba không, và điều đó là đúng. Bạn trả lời thế nào?"
+      }
+    ],
+    "lessonSlug": "confirming-and-closing",
+    "openQuestions": [
+      {
+        "aEn": "It means you are briefly repeating the main agreement, so everyone leaves with the same understanding.",
+        "aVi": "Nghĩa là bạn đang nhắc lại ngắn gọn thỏa thuận chính, để mọi người ra về với cùng một sự hiểu biết.",
+        "qEn": "What does \"So, to sum up, we've agreed on the plan\" mean at the end of a meeting?",
+        "qVi": "\"So, to sum up, we've agreed on the plan\" ở cuối cuộc họp có nghĩa là gì?"
+      },
+      {
+        "aEn": "Because checking first prevents costly mistakes, and it shows respect for the other person's time and instructions.",
+        "aVi": "Vì kiểm tra trước giúp tránh những sai sót tốn kém, đồng thời thể hiện sự tôn trọng thời gian và hướng dẫn của người kia.",
+        "qEn": "Why should you say \"Let me just check I've understood you correctly\" before you act on someone's instructions?",
+        "qVi": "Vì sao bạn nên nói \"Let me just check I've understood you correctly\" trước khi làm theo hướng dẫn của ai đó?"
+      },
+      {
+        "aEn": "I would say: \"So, to sum up, we've agreed on the plan. Let's keep in touch and talk again soon.\"",
+        "aVi": "Tôi sẽ nói: \"Vậy tóm lại, chúng ta đã thống nhất kế hoạch. Chúng ta hãy giữ liên lạc và sớm nói chuyện lại nhé.\"",
+        "qEn": "A meeting ends and everyone has agreed on the plan. What would you say to close politely?",
+        "qVi": "Một cuộc họp kết thúc và mọi người đã thống nhất kế hoạch. Bạn sẽ nói gì để kết thúc một cách lịch sự?"
+      }
+    ],
+    "skillEn": "Confirm understanding and close conversations politely",
+    "skillVi": "Xác nhận sự hiểu biết và kết thúc cuộc trò chuyện một cách lịch sự",
+    "speakModels": [
+      {
+        "en": "So, to sum up, we've agreed on the plan.",
+        "ipa": "/soʊ, tə sʌm ʌp, wiːv əˈɡriːd ɑːn ðə plæn/",
+        "termEn": "sum up",
+        "vi": "Vậy tóm lại, chúng ta đã thống nhất kế hoạch."
+      },
+      {
+        "en": "Let's keep in touch and talk again soon.",
+        "ipa": "/lɛts kiːp ɪn tʌtʃ ən tɔːk əˈɡɛn suːn/",
+        "termEn": "keep in touch",
+        "vi": "Chúng ta hãy giữ liên lạc và sớm nói chuyện lại nhé."
+      }
+    ],
+    "writing": {
+      "modelEn": "So, to sum up, we've agreed on the plan. Thank you so much for all your help, and let's keep in touch and talk again soon.",
+      "modelIpa": "/soʊ, tə sʌm ʌp, wiːv əˈɡriːd ɑːn ðə plæn. θæŋk ju soʊ mʌtʃ fər ɔːl jʊr hɛlp, ən lɛts kiːp ɪn tʌtʃ ən tɔːk əˈɡɛn suːn/",
+      "modelVi": "Vậy tóm lại, chúng ta đã thống nhất kế hoạch. Cảm ơn bạn rất nhiều vì mọi sự giúp đỡ, và chúng ta hãy giữ liên lạc và sớm nói chuyện lại nhé.",
+      "promptEn": "Write 2-3 sentences to close a work email: summarise what was agreed, thank the other person for their help, and say you will stay in touch. Use at least 2 phrases from this lesson.",
+      "promptVi": "Viết 2-3 câu để kết thúc một email công việc: tóm tắt những gì đã thống nhất, cảm ơn người kia vì sự giúp đỡ, và nói bạn sẽ giữ liên lạc. Dùng ít nhất 2 cụm từ trong bài này."
+    }
+  }
+]
